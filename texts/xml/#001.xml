@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>title of document</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition">
+                <p>
+<lb n="1"/> <foreign>svasti śrī</foreign> matirai koṇṭa kōpparakēcaripaṉmarki yā
+<lb n="2" break="no"/>ṇṭu 36 ˚āvatu ˚avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>ta<choice><orig>ṟpa</orig><reg>rppa</reg></choice>purattu <foreign xml:lang="sa-Gran">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</foreign>rk
+<lb n="3" break="no"/> ku kaṇṭaṉ ne<unclear>ṟi</unclear>yāṉ tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ ˚apōhanaṅ kiṭaṉ
+<lb n="4"/><gap reason="illegible" unit="line" quantity="1"><!--<desc>under cement – only a few letters are legible</desc> --></gap>
+<lb n="5"/> t<unclear>u ˚uṭu</unclear>mpōṭiy āmai tavaḻṉtatu ˚eppērpaṭṭatu ˚uṇṇilam ˚oḻiv' iṉṟi<unclear>ya</unclear>
+<lb n="6"/> <unclear>˚aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉapoṉṉum vaḷaiyiṟ cuṟṟu ˚eppēṟpaṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/>
+<lb n="7"/> ya <gap reason="illegible" unit="character" quantity="1"/> koṇṭu ˚iraṇṭu taḷiyilum ˚orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakku ˚erippōmāṉō<supplied reason="lost">m</supplied>
+<lb n="8"/> ˚it<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm ˚eḻuvōm
+                
+                </p>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
