@@ -1,4 +1,4 @@
-# tfa-melappalavulur-epigraphy
+# tfa-melappaluvur-kilappaluvur-epigraphy
 DHARMA project Task Force A, Tamil Nadu, South India, Meppalavulur epigraphic corpus
 
 ## Help and Guide
