@@ -5,26 +5,25 @@
   <teiHeader xml:lang="eng">
       <fileDesc>
          <titleStmt>
-            <title>Encoding template for inscription</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-            <respStmt><!-- add an element respStmt for each person involved -->
-         		<resp>intellectual authorship of edition</resp><!-- this may be the same as the creator of the file -->
-         		<persName ref="part:vagi"><!-- update the id -->
+            <title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, ardhamaṇḍapa, southern face, inscription of the time of Parāntaka I, year 36</title>
+            <respStmt>
+         		<resp>intellectual authorship of edition</resp>
+         		<persName ref="part:vagi">
               <surname>Gillet</surname>
-              <forename>Valérie</forename>
-         		</persName>
-         	</respStmt>
-         </titleStmt>
+              <forename>Valérie</forename></persName></respStmt>
+<!-- I have read this inscription with VVG + emfr + utve + nica-->
+       </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
                </note>
             </authority>
-            <pubPlace><!-- fill in here the place or places where the encoding has been done --></pubPlace>
+            <pubPlace>Paris</pubPlace>
             <idno type="filename">DHARMA_EncodingTemplateInscription</idno><!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Valérie Gillet.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+               	<p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -34,22 +33,22 @@
          </sourceDesc>
       </fileDesc>
      <revisionDesc>
-        <change who="part:axja" when="2020-01-08">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
+        <change who="part:axja" when="2020-01-08">Update the template</change>
         <change who="part:vagi" when="2019-12-02" status="draft">Creation of the file</change>
      </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
         <body>
-            <div type="edition"> <!-- @xml:lang must be added -->
+            <div type="edition" xml:lang="tam-Latn">
                 <p>
-<lb n="1"/> <foreign>svasti śrī</foreign> matirai koṇṭa kōpparakēcaripaṉmarki yā
-<lb n="2" break="no"/>ṇṭu 36 ˚āvatu ˚avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>ta<choice><orig>ṟpa</orig><reg>rppa</reg></choice>purattu <foreign xml:lang="sa-Gran">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</foreign>rk
-<lb n="3" break="no"/> ku kaṇṭaṉ ne<unclear>ṟi</unclear>yāṉ tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ ˚apōhanaṅ kiṭaṉ
-<lb n="4"/><gap reason="illegible" unit="line" quantity="1"><!--<desc>under cement – only a few letters are legible</desc> --></gap>
-<lb n="5"/> t<unclear>u ˚uṭu</unclear>mpōṭiy āmai tavaḻṉtatu ˚eppērpaṭṭatu ˚uṇṇilam ˚oḻiv' iṉṟi<unclear>ya</unclear>
-<lb n="6"/> <unclear>˚aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉapoṉṉum vaḷaiyiṟ cuṟṟu ˚eppēṟpaṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/>
-<lb n="7"/> ya <gap reason="illegible" unit="character" quantity="1"/> koṇṭu ˚iraṇṭu taḷiyilum ˚orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakku ˚erippōmāṉō<supplied reason="lost">m</supplied>
-<lb n="8"/> ˚it<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm ˚eḻuvōm
+<lb n="1"/> <hi rend="grantha">svasti śrī</hi> matirai koṇṭa <persName>kōpparakēcaripaṉmarki</persName> yā
+<lb n="2" break="no"/>ṇṭu 36 Āvatu Avaṉika<orig>ṉ</orig>taṟpapurattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</hi>rk
+<lb n="3" break="no"/> ku <persName><roleName type="unknown" subtype="donor">kaṇṭaṉ ne<unclear>ṟi</unclear>yāṉ</roleName></persName> tirutta kuḷattiṉ k<orig>i</orig>ḻ <hi rend="grantha">Apōha</hi>naṅ kiṭaṉ
+<lb n="4"/><gap reason="illegible" unit="line" quantity="1"></gap>
+<lb n="5"/> t<unclear>u Uṭu</unclear>mpōṭiy āmai tavaḻṉtatu Eppērpaṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>ya</unclear>
+<lb n="6"/> <unclear>Aka</unclear>vēriyum puṟavēriyum m<orig>i</orig>ṉap<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum vaḷaiyiṟ cuṟṟu Eppēṟpaṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/>
+<lb n="7"/> ya <gap reason="illegible" unit="character" quantity="1"/> koṇṭu Iraṇṭu taḷiyilum Orō no<orig>ṉ</orig>tāviḷakku Erippōmāṉō<supplied reason="lost">m</supplied>
+<lb n="8"/> It<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm Eḻuvōm
 
                 </p>
             </div>
