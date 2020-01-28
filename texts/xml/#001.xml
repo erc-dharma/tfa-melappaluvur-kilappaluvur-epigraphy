@@ -53,19 +53,21 @@
                 </p>
             </div>
             <div type="apparatus">
-              <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-                  <listApp><!-- one <app> for each apparatus entry -->
-                     <app loc="line"><!-- Update the value of @loc.-->
-                        <lem><!-- fill in a lemma here --></lem>
-                        <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <listApp>
+                     <app loc="6">
+                        <lem>m<orig>i</orig>ṉap<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum</lem>
+                        <note>G. Vijayavenugopal proposed to interpret poṉṉum as gold and take the previous word mīṉa as a mistake for īḻa (īḻam, Śrī Laṅkān gold). However, I do not think the mention of gold here would make sense. There are a few other possibilities, although none of them are entirely sactifactory: 1) pōṉṉum: inside this land where the fishes (mīṉ) go (pōṉṉum) / inside this land where the elevation (mīṉ>mī) goes (pōṉṉum); 2) poṉṉum as a mistake for poḷḷum (digging): inside this land where the elevated (mī) path (ṉa > naṭai) was dug (poḷḷum). This second possibility is based on a similar formula found in #7: ˚ikkuḷattiṉ minaṭai poḷ[ḷak] kuḷattile kalluvatākavum. I have translated it as: we have to clear (kalluvatākavum) in the tank (kuḷattilē), in order to dig (poḷḷa) [for] an elevated (mī) road/path (naṭai) of this tank (ikkuḷattiṉ).</note>
+                     </app>
+                     <app loc="6">
+                        <lem><unclear>Aka</unclear>vēriyum puṟavēriyum</lem>
+                        <note>Literally: the inner lake (aka-v-ēri-y-um) and the outer lake (puṟa-v-ēri-y-um). It probably refers to a type of land, but the details remain unclear. See also #7 which has a similar formula.</note>
                      </app>
                   </listApp>
             </div>
             <div type="translation" xml:lang="eng">
-    	<!--translation encoded as per EG §9.2 -->
+    	<p>Fortune! Prosperity! This is the year 36 of Kōpparakesarivarman who has taken Madurai; for Mahādeva of Avaṉikaṉtaṟpapuram, Kaṇṭaṉ Neṟiyāṉ, when he improved (tirutta) [the land which] was lying (kiṭaṉta) without enjoyment (apōhanaṅ) under (kīḻ) [the irrigation] of the tank (kuḷattiṉ), XXX uncultivated lands (lit. the land where the turtles (āmai) crawl (tavaḻṉtatu) and the lizzards (uṭumpu) run (ōṭi)), the inner lands (uṇṇilam) of whatever name (eppērpaṭṭatu) were exempted (oḻiviṉṟiya), the akavēriyum, the puṟavēriyum, the mīṉapoṉṉum and whatever name (eppēṟpaṭṭatum) inside [this land] (vaḷaiyiṟ cuṟṟu), having taken (koṇṭu) XXX (tāṇiXyaX > kāṇi X X X?), we, the Paṭṭuṭaiyars of this temple (paṭṭuṭaiyōm), we the Seven (eḻuvōm), will burn a perpetual lamp (orō nontāviḷakku) in both the temples (iraṇṭu taḷiyilum).</p>
             </div>
             <div type="commentary">
-               <!--commentary encoded as per section §9.3 -->
             </div>
            <div type="bibliography">
    	<!--bibliography encoded as per section §9.4 -->
