@@ -2,45 +2,66 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
-      <fileDesc>
-         <titleStmt>
-            <title>Encoding template for inscription</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-            <respStmt><!-- add an element respStmt for each person involved -->
-         		<resp>intellectual authorship of edition</resp><!-- this may be the same as the creator of the file -->
-         		<persName ref="part:vagi"><!-- update the id -->
-              <surname>Gillet</surname>
-              <forename>Valérie</forename>
-         		</persName>
-         	</respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA
-               <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
-               </note>
-            </authority>
-            <pubPlace><!-- fill in here the place or places where the encoding has been done --></pubPlace>
-            <idno type="filename">DHARMA_EncodingTemplateInscription</idno><!-- Replace by filename, e.g. Pallava00001 -->
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Valérie Gillet.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <p><!-- not to be filled in at this stage --></p>
-         </sourceDesc>
-      </fileDesc>
-     <revisionDesc>
-        <change who="part:axja" when="2020-01-08">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
-        <change who="part:vagi" when="2019-12-02" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
-        <body>
-            <div type="edition"> <!-- add the mandatory @xml:lang -->
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Encoding template for inscription</title>
+				<!--update!-->
+				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:vagi">
+						<forename>Valérie</forename>
+						<surname>Gillet</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:vagi">
+						<surname>Gillet</surname>
+						<forename>Valérie</forename>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from
+						the European Research Council (ERC) under the European
+						Union's Horizon 2020 research and innovation programme
+						(grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">tfaMelappaluvurKilappaluvur019</idno>
+				<availability>
+					<licence
+						target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons
+							Attribution 4.0 Unported Licence. To view a copy of
+							the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send
+							a letter to Creative Commons, 444 Castro Street,
+							Suite 900, Mountain View, California, 94041,
+							USA.</p>
+						<p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:axja" when="2020-01-08">Update the
+				template</change>
+			<change who="part:vagi" when="2019-12-02" status="draft">Creation of
+				the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+ 
+		<body>
+            
+		<div type="edition" xml:lang="tam-Latn">
+		
               <div type="textpart" subtype="surface" n="A">
                   <p>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi> <persName>kōpparakēcaripaṉmaṟkku</persName> yā
@@ -163,7 +184,8 @@
                 </p>
               </div>
             </div>
-            <div type="apparatus">
+            
+	<div type="apparatus">
               <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                   <listApp><!-- one <app> for each apparatus entry -->
                      <app loc="line"><!-- Update the value of @loc.-->
@@ -172,8 +194,10 @@
                      </app>
                   </listApp>
             </div>
-            <div type="translation" xml:lang="eng">
-                <p>Fortune! Prosperity! This is the 15th year of Kōpparakesarivarman; to us, the Nāṭṭār of Kuṉṟakkūṟṟam, Aṭikaḷ Paḻuvēṭṭaraiyar Kaṇṭaṉ Maṟavaṉār [ordered]: having removed (nīkki) the old (paḻaṅ) cultivators (kuṭiyum) and the old (paḻam) name (pērum) of Uṟattūr of this nāṭu, to the chieftain (kōṉār) of Viṟaināṭu, Vēṅkaṭavaṉ  Araṅkaṉ alias Cempiyaṉ, who posses (uṭaiya) [lands in] Karuppūr having made it into a kāṇi (kaṇiceytu) with the name (pēriṉāl) of Karuppūr (karuppūr eṉṉum) as birth-land (janma bhūmiyai > from his birth > for his life); to this (itukku), every year (āṭṭai-vaṭṭam), twenty five (irupatt-aiyṅ) kaḻancus of wordly (tālam)  fine gold (cemmai poṉ), as long as the sun and the moon endure, has to be (āvatu ākavum) a permanent tax (nilai iṟai); having come (pōtu) to make (ceyyum) the assessment/ranking (tarañ) of this nāṭu, the assessment/ranking (tarañ) should not be made (ceyyātatu ākavum) more than (allatu ēṟa > lit. so that it does not rise above/above that which is not) twenty five kaḻañcus; in this manner (ipparicu) having made (ceytu) as kāṇi (kāṇiyāka), as long as the sun and the moon endure, we gave (kuṭuttōm); when he  graciously gave the order (aruḷic ceyya > lit. graciously made) “you also (niṅkaḷum) the Nāṭṭār, having made (ceytu) in this manner (ipparicu), you give (kuṭuṅkaḷ) ” (eṉṟu), we all the Nāṭṭār (nāṭṭōmum), having removed (nīkki) the old (paḻaṅ) cultivators (kuṭiyum) and the old (paḻam) name (pērum) of Uṟattūr of this nāṭu, having taken (ākki > lit. having become) the name (pēyar) of Karuppūr (karuppūr eṉṉum), having fixed (ākki > lit. having become) twenty five kaḻañcus of wordly (tāla) fine (cemmai) gold (poṉ) for permanent tax (nilai iṟai) every year (āṭṭaivaṭṭam), we the Nāṭṭar (nāṭṭōm), when making (ceyyum) the assessment/ranking (tarañ), we should not make (ceyyātatu ākavum) the assessment (tarañ) above (ēṟa) that which is not (allatu) twenty five kaḻañcus of gold (poṉ); </p>
+            
+	<div type="translation" xml:lang="eng">
+		
+<p>Fortune! Prosperity! This is the 15th year of Kōpparakesarivarman; to us, the Nāṭṭār of Kuṉṟakkūṟṟam, Aṭikaḷ Paḻuvēṭṭaraiyar Kaṇṭaṉ Maṟavaṉār [ordered]: having removed (nīkki) the old (paḻaṅ) cultivators (kuṭiyum) and the old (paḻam) name (pērum) of Uṟattūr of this nāṭu, to the chieftain (kōṉār) of Viṟaināṭu, Vēṅkaṭavaṉ  Araṅkaṉ alias Cempiyaṉ, who posses (uṭaiya) [lands in] Karuppūr having made it into a kāṇi (kaṇiceytu) with the name (pēriṉāl) of Karuppūr (karuppūr eṉṉum) as birth-land (janma bhūmiyai > from his birth > for his life); to this (itukku), every year (āṭṭai-vaṭṭam), twenty five (irupatt-aiyṅ) kaḻancus of wordly (tālam)  fine gold (cemmai poṉ), as long as the sun and the moon endure, has to be (āvatu ākavum) a permanent tax (nilai iṟai); having come (pōtu) to make (ceyyum) the assessment/ranking (tarañ) of this nāṭu, the assessment/ranking (tarañ) should not be made (ceyyātatu ākavum) more than (allatu ēṟa > lit. so that it does not rise above/above that which is not) twenty five kaḻañcus; in this manner (ipparicu) having made (ceytu) as kāṇi (kāṇiyāka), as long as the sun and the moon endure, we gave (kuṭuttōm); when he  graciously gave the order (aruḷic ceyya > lit. graciously made) “you also (niṅkaḷum) the Nāṭṭār, having made (ceytu) in this manner (ipparicu), you give (kuṭuṅkaḷ) ” (eṉṟu), we all the Nāṭṭār (nāṭṭōmum), having removed (nīkki) the old (paḻaṅ) cultivators (kuṭiyum) and the old (paḻam) name (pērum) of Uṟattūr of this nāṭu, having taken (ākki > lit. having become) the name (pēyar) of Karuppūr (karuppūr eṉṉum), having fixed (ākki > lit. having become) twenty five kaḻañcus of wordly (tāla) fine (cemmai) gold (poṉ) for permanent tax (nilai iṟai) every year (āṭṭaivaṭṭam), we the Nāṭṭar (nāṭṭōm), when making (ceyyum) the assessment/ranking (tarañ), we should not make (ceyyātatu ākavum) the assessment (tarañ) above (ēṟa) that which is not (allatu) twenty five kaḻañcus of gold (poṉ); </p>
             
 <p>in this manner (ipparicu), to the chieftain (kōṉār) of Viṟaināṭu, Lord (uṭaiya) of Karuppūr, Veṅkaṭavaṉ Araṅkaṉ alias Cempiyaṉ, as kāṇi (kāṇiyāka), as long and the sun and the moon endure, with the name Karuppūr as a birth-land (janma-pūmiyāka), having made (ceytu) the palm-leaf (ōlai) drum-beating (aṟai),  we gave (kuṭuttōm), we the Nāṭṭār (nāṭṭōm) of Kuṉṟakūṟṟam; all small taxes (ciṟṟiṟaiyum) XXX [last line unlegible];</p>
 <p>those (ivai), I Paḻuvēṭṭaraiyaṉ Kaṇṭaṉ Maṟavaṉ, I have written (eṉṉeḻuttu) these (ivai); we have agreed (icaintōm) in this manner (ipparicu); I the Lord (uṭaiya) of Marutūr, Kāṭaṉ Māṟuyaṉ, I have written (eṉṉeḻuttu) these (ivai); [end of the line blank]</p>
@@ -192,20 +216,29 @@ The Lord (uṭaiya) of XXX, Velitaraṅki, has signed (eḻuttu);
 The Lord (uṭaiya) of Āttūr, Cāttaṉ TaraX, has signed (eḻuttu);
 The Lord (uṭaiya) of Kuḷattūr, Aṉaiyaṉamutaṉ, has signed (eḻuttu);
 The Lord (uṭaiya) of Varākupāṭi, Māṉtaṉpperaiyaṉ, has signed (eḻuttu);
-
 </p>
             </div>
-            <div type="commentary">
+            
+<div type="commentary">
                <!--commentary encoded as per section §9.3 -->
             </div>
-           <div type="bibliography">
-   	<!--bibliography encoded as per section §9.4 -->
-   	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-              <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
-              <listBibl type="secondary">
+			
+<div type="bibliography">
+   	
+<!--bibliography encoded as per section §9.4 -->
+<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
+	
+<p>
+First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl>. <!--update!-->
+Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl>. <!--update!-->          	
+First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl>. <!--update!-->
+This edition by Valérie Gillet.
+</p>
+             
+            <listBibl type="secondary">
                  <bibl/><!-- one <bibl/> per item of secondary bibliography -->
               </listBibl>
            </div>
          </body>
      </text>
-   </TEI>
+</TEI>

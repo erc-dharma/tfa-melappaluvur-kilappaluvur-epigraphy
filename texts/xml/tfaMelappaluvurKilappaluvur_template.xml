@@ -7,8 +7,8 @@
 			<titleStmt>
 				<title>Encoding template for inscription</title>
 				<!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-				<respStmt>					
-					<resp>creation of file</resp>					
+				<respStmt>
+					<resp>creation of file</resp>
 					<persName ref="part:vagi">
 						<forename>Valérie</forename>
 						<surname>Gillet</surname>
@@ -28,7 +28,8 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">tfaMelappaluvurKilappaluvur000</idno> <!--update!-->				
+				<idno type="filename">tfaMelappaluvurKilappaluvur000</idno>
+				<!--update!-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -46,7 +47,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:vagi" when="2020-03-06" status="draft">Creation of the file</change>			
+			<change who="part:vagi" when="2020-03-06" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
