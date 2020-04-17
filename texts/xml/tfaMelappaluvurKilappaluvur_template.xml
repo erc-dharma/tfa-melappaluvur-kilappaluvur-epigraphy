@@ -109,11 +109,17 @@ First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl>. <!--up
 This edition by Valérie Gillet.
 </p>
         	
-           <listBibl type="secondary">
-           	
-              <bibl>ARIE</bibl> <!--update-->
-           	
-           </listBibl>
+        	<listBibl type="primary">
+        		
+        		<bibl></bibl>
+        		
+        	</listBibl>
+        	
+        	<listBibl type="secondary">
+        		
+        		<bibl>ARIE</bibl> <!--update-->
+        		
+        	</listBibl>
         </div>
       </body>
   </text>
