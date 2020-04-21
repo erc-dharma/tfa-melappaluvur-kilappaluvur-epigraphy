@@ -5,8 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, southern
-					face, time of Parāntaka I, year 36</title>
+				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Parāntaka I, year 36</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:vagi">
@@ -45,10 +44,10 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
+						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><!-- //// NOT MANDATORY  ////--></summary>
+						<summary></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -67,14 +66,14 @@
         <body>
             <div type="edition" xml:lang="tam-Latn">
                 <p>
-<lb n="1"/> <hi rend="grantha">svasti śrī</hi> matirai koṇṭa <persName>kōpparakēcaripaṉmark<choice><orig>i</orig><reg>u</reg></choice></persName> yā
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> matirai koṇṭa <persName>kōpparakēcaripaṉmark<choice><orig>i</orig><reg>u</reg></choice></persName> yā
 <lb n="2" break="no"/>ṇṭu 36 Āvatu Avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</hi>rk
 <lb n="3" break="no"/>ku <persName><roleName type="unknown" subtype="donor">kaṇṭaṉ ne<unclear>ṟi</unclear>yāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <hi rend="grantha">Apōha</hi>naṅ kiṭaṉ
 <lb n="4"/><gap reason="illegible" unit="line" quantity="1"/>
-<lb n="5"/> t<unclear>u Uṭu</unclear>mpōṭiy āmai tavaḻṉtatu Eppērpaṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>ya</unclear>
-<lb n="6"/> <unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉap<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum vaḷaiyiṟ cuṟṟu Eppēṟpaṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/>
-<lb n="7"/> ya <gap reason="illegible" unit="character" quantity="1"/> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakku Erippōmāṉō<supplied reason="lost">m</supplied>
-<lb n="8"/> It<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm Eḻuvōm
+<lb n="5"/>t<unclear>u Uṭu</unclear>mpōṭiy āmai tavaḻṉtatu Eppērpaṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>ya</unclear>
+<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉap<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum vaḷaiyiṟ cuṟṟu Eppēṟpaṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/>
+<lb n="7"/>ya <gap reason="illegible" unit="character" quantity="1"/> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakku Erippōmāṉō<supplied reason="lost">m</supplied>
+<lb n="8"/>It<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm Eḻuvōm
 
                 </p>
             </div>
@@ -91,27 +90,28 @@
                   </listApp>
             </div>
         	
-            <div type="translation" xml:lang="eng">
-    	<p>Fortune! Prosperity! This is the year 36 of Kōpparakesarivarman who has taken Madurai; for Mahādeva of Avaṉikaṉtaṟpapuram, Kaṇṭaṉ Neṟiyāṉ, when he improved <supplied reason="explanation"><foreign>tirutta</foreign></supplied> [the land which] was lying <supplied reason="explanation"><foreign>kiṭaṉta</foreign></supplied> without enjoyment <supplied reason="explanation"><foreign>apōhanaṅ</foreign></supplied> under <supplied reason="explanation"><foreign>kīḻ</foreign></supplied> [the irrigation] of the tank <supplied reason="explanation"><foreign>kuḷattiṉ</foreign></supplied>, ... <!--tag to be added--> uncultivated lands (lit. the land where the turtles <supplied reason="explanation"><foreign>āmai</foreign></supplied> crawl <supplied reason="explanation"><foreign>tavaḻṉtatu</foreign></supplied> and the lizzards <supplied reason="explanation"><foreign>uṭumpu</foreign></supplied> run <supplied reason="explanation"><foreign>ōṭi</foreign></supplied>), the inner lands <supplied reason="explanation"><foreign>uṇṇilam</foreign></supplied> of whatever name <supplied reason="explanation"><foreign>eppērpaṭṭatu</foreign></supplied> were exempted <supplied reason="explanation"><foreign>oḻiv' <!--apostrophe added-->iṉṟiya</foreign></supplied>, the <foreign>akavēriyum</foreign>, the <foreign>puṟavēriyum</foreign>, the <foreign>mīṉapoṉṉum</foreign> and whatever name <supplied reason="explanation"><foreign>eppēṟpaṭṭatum</foreign></supplied> inside [this land] <!--tag to be added--> <supplied reason="explanation"><foreign>vaḷaiyiṟ cuṟṟu</foreign></supplied>, having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> ... <!--tag to be added-->, we, the Paṭṭuṭaiyars of this temple, we the Seven <supplied reason="explanation"><foreign>eḻuvōm</foreign></supplied>, will burn a perpetual lamp <supplied reason="explanation"><foreign>orō nontā viḷakku <!--espace entre les deux mots ajouté par bibi--></foreign></supplied> in both the temples <supplied reason="explanation"><foreign>iraṇṭu taḷiyilum</foreign></supplied>.</p>
-            </div>
-        	
             <div type="commentary">
             </div>
         	
            <div type="bibliography">
-   	<!--bibliography encoded as per section §9.4 -->
-   	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
            	
 <p>
-<!--First reported in ARE 1924, no. 368 = ARE 1923–24, C, p. 73-->
+First reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> <!--comment noter le numéro de l'inscription ici ? ou ce n'est pas la peine ?-->
 This edition and translation by Valérie Gillet based on autopsy and photographs (2020).
 </p>
            	
               <listBibl type="secondary">
-              	<bibl><!--ARE 1924, no. 368 = ARE 1923–24, C, p. 73--></bibl>
-                 <bibl/>
+              	<bibl>
+        			<ptr target="bib:ARIE1923-1924"/>
+        			<citedRange unit="page">73</citedRange>
+        			<citedRange unit="appendix">C/1924</citedRange>
+        			<citedRange unit="item">368</citedRange>
+        		</bibl>
+              
               </listBibl>
            </div>
          </body>
      </text>
 </TEI>
+<!--Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
+face, time of Parāntaka I, year 36-->
