@@ -111,13 +111,22 @@ This edition by Valérie Gillet.
         	
         	<listBibl type="primary">
         		
-        		<bibl></bibl>
+        		<bibl><!--update!-->
+        			<ptr target="bib:Mahalingam1988_01"/>
+        			<citedRange unit="page">pages</citedRange>
+        			<citedRange unit="item">No</citedRange>
+        		</bibl>
         		
         	</listBibl>
         	
         	<listBibl type="secondary">
         		
-        		<bibl>ARIE</bibl> <!--update-->
+        		<bibl><!--update!-->
+        			<ptr target="bib:ARIE1904-1905"/>
+        			<citedRange unit="page">32</citedRange>
+        			<citedRange unit="appendix">B/1905</citedRange>
+        			<citedRange unit="item">50</citedRange>
+        		</bibl>
         		
         	</listBibl>
         </div>
