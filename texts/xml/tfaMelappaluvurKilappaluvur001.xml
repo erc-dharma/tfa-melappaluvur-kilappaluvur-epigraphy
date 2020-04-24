@@ -96,13 +96,13 @@
            <div type="bibliography">
            	
 <p>
-First reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE 1923-1924/C/1924/368).
+First reported in <bibl><ptr target="bib:ARIE1923-1924_01"/></bibl> (ARIE 1923-1924/C/1924/368).
 This edition and translation by Valérie Gillet (2020), based on autopsy and photographs.
 </p>
            	
               <listBibl type="secondary">
               	<bibl>
-        			<ptr target="bib:ARIE1923-1924"/>
+        			<ptr target="bib:ARIE1923-1924_01"/>
         			<citedRange unit="page">73</citedRange>
         			<citedRange unit="appendix">C/1924</citedRange>
         			<citedRange unit="item">368</citedRange>
