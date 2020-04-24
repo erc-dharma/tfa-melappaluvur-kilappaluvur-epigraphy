@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Parāntaka I, year 36</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:vagi">
+						<forename>Valérie</forename>
+						<surname>Gillet</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:vagi">
+						<forename>Valérie</forename>
+						<surname>Gillet</surname>
+					</persName>
+				</respStmt>
+				<!-- I have read this inscription with VVG-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">tfaMelappaluvurKilappaluvur002</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:vagi" when="2020-04-24" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+      	
+         <div type="edition" xml:lang="tam-Latn">
+         	<p>
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> matirai koṇṭa <persName>kōpparakēcaripaṉmark<choice><orig>i</orig><reg>u</reg></choice></persName> yāṇṭu
+<lb n="2"/>36-vatu kuṉṟakūṟṟattu <hi rend="grantha">de</hi>vatānam Avanika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu
+<lb n="3"/>ma<hi rend="grantha">h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>varkku <persName><placeName>kurukāṭi</placeName> kiḻāṉ Ūraṉ piṭāraṉ</persName> Ittaḷi <hi rend="grantha">de</hi>vatāṉam <placeName>pa
+<lb n="4" break="no"/>cuṅkuḷattūr</placeName> A<hi rend="grantha">poha</hi>ṉaṅ kiṭaṉta <hi rend="grantha">bhu</hi>miyai macakki kuṭutta n<choice><orig>i</orig><reg>ī</reg></choice>r nila
+<lb n="5" break="no"/>m nāṅku māvum <unclear>param</unclear> <gap reason="illegible" unit="character" quantity="2"/> <unclear>macak</unclear><supplied reason="lost">ka</supplied>l Iraṇṭu māvum kalam taṉkāri macakka
+<lb n="6" break="no"/>l Iraṇṭu māvum Āka ni<unclear>la</unclear>m Eṭṭu māvum koṇṭu Itināl
+<lb n="7"/>vanta pōkam koṇṭu Irav<unclear>u</unclear>m pakalu Iraṇṭu taḷiyilum Orō no
+<lb n="8" break="no"/>ntā viḷakku Erippōmānōm Ittaḷi paṭṭu Uṭaiyōm eḻuvōm
+</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+               	
+                  <app loc="line">
+                     <lem></lem>
+                     <rdg source="bib:AuthorYear_01"></rdg>
+                  </app>
+               	
+               </listApp>         
+         </div>
+      	
+         <div type="translation" xml:lang="eng">
+         </div>
+      	
+         <div type="commentary">
+         </div>
+      	
+        <div type="bibliography">
+	
+<p>
+First reported in <bibl><ptr target="bib:ARIE1923-1924_01"/></bibl> (ARIE 1923-1924/C/1924/369).
+This edition and translation by Valérie Gillet (2020), based on autopsy and photographs.
+</p>
+        	
+        	<listBibl type="primary">
+        		<bibl>
+        		</bibl>
+        		
+        	</listBibl>
+        	
+        	<listBibl type="secondary">
+        		
+        		<bibl>
+        			<ptr target="bib:ARIE1923-1924_01"/>
+        			<citedRange unit="page">73</citedRange>
+        			<citedRange unit="appendix">C/1924</citedRange>
+        			<citedRange unit="item">369</citedRange>
+        		</bibl>
+        		
+        	</listBibl>
+        	
+        </div>
+      </body>
+  </text>
+</TEI>
+<!--Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
+face, time of Parāntaka I, year 36-->
