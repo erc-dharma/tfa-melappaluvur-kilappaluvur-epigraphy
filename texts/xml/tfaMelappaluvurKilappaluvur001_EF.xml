@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Parāntaka I, year 36</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:vagi">
+						<forename>Valérie</forename>
+						<surname>Gillet</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:vagi">
+						<surname>Gillet</surname>
+						<forename>Valérie</forename></persName>
+				</respStmt>
+				<!-- I have read this inscription with VVG + emfr + utve + nica-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994). </note>
+				</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">tfaMelappaluvurKilappaluvur001</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-04-20">Revision of the edition and apparatus</change><!--to be validated!-->
+			<change who="part:axja" when="2020-01-08">Update the template</change>
+			<change who="part:vagi" when="2019-12-02" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+        <body>
+            <div type="edition" xml:lang="tam-Latn">
+              
+<p>
+	<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+</p>
+<p>
+	mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa <persName>kōpparakēcaripaṉmark<choice><orig>i</orig><reg>u</reg></choice></persName> yā
+	<lb n="2" break="no"/>ṇṭu <num>3 <g type="numeral">10</g> 6</num> Āvatu</p>
+<p>
+	Avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</hi>rk
+	<lb n="3" break="no"/>ku <persName><roleName type="unknown" subtype="donor">kaṇṭaṉ ne<unclear>ṟ</unclear>iyāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ A<hi rend="grantha">pōha</hi>naṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>
+	<lb n="4" break="no"/><supplied reason="lost">ta <hi rend="grantha">bhūmi</hi>yai</supplied> <gap reason="illegible" unit="character" quantity="3" precision="low"/> <unclear>kki</unclear> It <gap reason="illegible" unit="character" quantity="20" precision="low"/>
+	<lb n="5"/>t<unclear>u</unclear> Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>ya</unclear>
+	<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice><choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice> p<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum 
+</p>
+<p>
+	tāṇi<gap reason="illegible" unit="character" quantity="1"/>
+	<lb n="7"/>ya <gap reason="illegible" unit="character" quantity="1"/> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakku Erippōm āṉō<supplied reason="lost">m</supplied>
+	<lb n="8"/>It<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm Eḻuvōm
+</p>
+            </div>
+        	<div type="apparatus">
+                  <listApp>
+                  	
+                  	<app loc="3">
+                  		<lem>kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice><supplied reason="lost">ta <hi rend="grantha">bhūmi</hi>yai</supplied></lem>
+                  		<note>Restoration base on parallel in in #2<!--update ref--> line 4.</note>
+                  	</app>
+                     <app loc="6">
+                        <lem>m<choice><orig>i</orig><reg>ī</reg></choice><choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice> p<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum</lem>
+                        <note>Dr. G. Vijayavenugopal (personal communication) suggested to interpret <foreign>poṉṉum</foreign> as "gold", to consider previous word <foreign>mīṉa</foreign> as a mistake for <foreign>īḻa</foreign> (<foreign>īḻam</foreign>), and to understand "Lankan gold". The mention of gold, however, would not make much sense in the contewt. There are a few other possibilities, although none is entirely sactifactory: (1) <foreign>pōṉṉum</foreign>, thus land, "where the fishes (<foreign>mīṉ</foreign>) go (<foreign>pōṉṉum</foreign>)" or "where the elevation (<foreign>mīṉ</foreign>) goes (<foreign>pōṉṉum</foreign>)"; (2) <foreign>poṉṉum</foreign>, mistake for <foreign>poḷḷum</foreign>, thus, land "where the elevated (<foreign>mī</foreign>) path (<foreign>ṉa</foreign>, for <foreign>naṭai</foreign>) was dug (<foreign>poḷḷum</foreign>). This second possibility is based on a similar formula found in #7 <!--update ref-->: <foreign>Ikkuḷattiṉ minaṭai poḷḷak kuḷattilē kalluvat' ākavum</foreign>. <!--I have translated it as: we have to clear (<foreign>kalluvatākavum</foreign>) in the tank (<foreign>kuḷattilē</foreign>), in order to dig (<foreign>poḷḷa</foreign>) [for] an elevated (<foreign>mī</foreign>) road/path (<foreign>naṭai</foreign>) of this tank (<foreign>ikkuḷattiṉ</foreign>).--> <!--Unnecessary: there will be a link to this inscription.--></note>
+                     </app>
+                     <app loc="6">
+                        <lem><unclear>Aka</unclear>vēriyum puṟavēriyum</lem>
+                        <note>Literally: "the inner lake (<foreign>aka-v-ēri-y-um</foreign>) and the outer lake (<foreign>puṟa-v-ēri-y-um</foreign>)". This probably refers to a type of land, but the details remain unclear. See also #7 <!--update ref--> for a similar formula.</note>
+                     </app>
+                  </listApp>
+            </div>
+        	
+            <div type="commentary"/>
+            
+        	<div type="bibliography">
+        		
+<p>
+First reported in <bibl><ptr target="bib:ARIE1923-1924_01"/></bibl> (ARIE 1923-1924/C/1924/368).
+This edition and translation by Valérie Gillet (2020), based on autopsy and photographs.
+</p>
+           	
+              <listBibl type="secondary">
+              	<bibl>
+        			<ptr target="bib:ARIE1923-1924_01"/>
+        			<citedRange unit="page">73</citedRange>
+        			<citedRange unit="appendix">C/1924</citedRange>
+        			<citedRange unit="item">368</citedRange>
+        		</bibl>
+              
+              </listBibl>
+           </div>
+         </body>
+     </text>
+</TEI>
+<!--Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
+face, time of Parāntaka I, year 36-->
