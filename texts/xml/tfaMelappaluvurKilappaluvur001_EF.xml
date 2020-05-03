@@ -70,21 +70,21 @@
 <p>
 	<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 </p>
-<p>
-	mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa <persName>kōpparakēcaripaṉmark<choice><orig>i</orig><reg>u</reg></choice></persName> yā
-	<lb n="2" break="no"/>ṇṭu <num>3 <g type="numeral">10</g> 6</num> Āvatu</p>
-<p>
-	Avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</hi>rk
-	<lb n="3" break="no"/>ku <persName><roleName type="unknown" subtype="donor">kaṇṭaṉ ne<unclear>ṟ</unclear>iyāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ A<hi rend="grantha">pōha</hi>naṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>
-	<lb n="4" break="no"/><supplied reason="lost">ta <hi rend="grantha">bhūmi</hi>yai</supplied> <gap reason="illegible" unit="character" quantity="3" precision="low"/> <unclear>kki</unclear> It <gap reason="illegible" unit="character" quantity="20" precision="low"/>
-	<lb n="5"/>t<unclear>u</unclear> Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>ya</unclear>
-	<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice><choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice> p<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum 
-</p>
-<p>
-	tāṇi<gap reason="illegible" unit="character" quantity="1"/>
-	<lb n="7"/>ya <gap reason="illegible" unit="character" quantity="1"/> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakku Erippōm āṉō<supplied reason="lost">m</supplied>
-	<lb n="8"/>It<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm Eḻuvōm
-</p>
+            	<p>
+            		mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa <persName>kōpparakēcaripaṉmark<choice><orig>i</orig><reg>u</reg></choice></persName> yā
+            		<lb n="2" break="no"/>ṇṭu <num>3 <g type="numeral">10</g> 6</num> Āvatu</p>
+            	<p>
+            		Avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</hi>rk
+            		<lb n="3" break="no"/>ku <persName><roleName type="unknown" subtype="donor">kaṇṭaṉ ne<unclear>ṟ</unclear>iyāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ A<hi rend="grantha">pōha</hi>naṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>
+            		<lb n="4" break="no"/><supplied reason="lost">ta <hi rend="grantha">bhūmi</hi>yai</supplied> <gap reason="illegible" unit="character" quantity="3" precision="low"/> <unclear>kki</unclear> It <gap reason="illegible" unit="character" quantity="20" precision="low"/>
+            		<lb n="5"/>t<unclear>u</unclear> Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>ya</unclear>
+            		<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice><choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice> p<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum
+            	</p>
+            	<p> 
+            		ta<unclear>raṇi</unclear> 
+            		<lb n="7" break="no"/>y<supplied reason="lost">k</supplied> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakku Erippōm āṉō<supplied reason="lost">m</supplied>
+            		<lb n="8"/>It<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm Eḻuvōm
+            	</p>
             </div>
         	<div type="apparatus">
                   <listApp>
@@ -110,7 +110,7 @@
         		
 <p>
 First reported in <bibl><ptr target="bib:ARIE1923-1924_01"/></bibl> (ARIE 1923-1924/C/1924/368).
-This edition and translation by Valérie Gillet (2020), based on autopsy and photographs.
+This first<!--c'est bien le cas non?--> edition and translation by Valérie Gillet (2020), based on autopsy and photographs.
 </p>
            	
               <listBibl type="secondary">
