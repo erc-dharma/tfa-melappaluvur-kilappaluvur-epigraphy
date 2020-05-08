@@ -77,6 +77,23 @@
 <lb n="8" break="no"/>ntā viḷakku Erippōmānōm Ittaḷi paṭṭu Uṭaiyōm eḻuvōm
 </p>
          </div>
+      	
+      	<div type="edition" xml:lang="tam-Latn">
+         	<p>EF reviewed</p>
+<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
+      		<p>matirai koṇṭa <persName>kōpparakēcaripaṉma<choice><orig>k</orig><reg>ṟk</reg></choice>k<choice><orig>i</orig><reg>u</reg></choice></persName> yāṇṭu
+<lb n="2"/><num>3 <g type="numeral">10</g> 6</num> vatu</p>
+<p>kuṉṟakūṟṟattu <hi rend="grantha">de</hi>vatānam Ava<choice><orig>n</orig><reg>ṉ</reg></choice>ika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu
+<lb n="3"/>ma<hi rend="grantha">h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>varkku <persName><placeName>kurukāṭi</placeName>kiḻāṉ Ūraṉ piṭāraṉ</persName> Ittaḷi <hi rend="grantha">de</hi>vatāṉam <placeName>pa
+<lb n="4" break="no"/>cuṅkuḷattūr</placeName> A<hi rend="grantha">poha</hi>ṉaṅ kiṭaṉta <hi rend="grantha">bhū</hi>miyai macakki kuṭutta n<choice><orig>i</orig><reg>ī</reg></choice>rnila
+<lb n="5" break="no"/>m</p> 
+<p>nāṅku māvum <unclear>param</unclear> <gap reason="illegible" unit="character" quantity="2"/> <unclear>macak</unclear><supplied reason="lost">ka</supplied>l Iraṇṭu māvum kalam taṉkāri macakka
+<lb n="6" break="no"/>l Iraṇṭu māvum Āka</p>
+         	<p>ni<unclear>la</unclear>m Eṭṭu māvum koṇṭu Iti<choice><orig>n</orig><reg>ṉ</reg></choice>āl
+<lb n="7"/>vanta pōkam koṇṭu Irav<unclear>u</unclear>m pakalu<supplied reason="omitted">m</supplied> Iraṇṭu taḷiyilum Orō no
+<lb n="8" break="no"/>ntā viḷakku Erippōm ānōm Ittaḷi paṭṭu Uṭaiyōm eḻuvōm</p>
+<p>Line 5: taṉkāri Or taṉ kāri?</p>
+      	</div>
          <div type="apparatus">
                <listApp>
                	
@@ -99,6 +116,10 @@
 <p>
 First reported in <bibl><ptr target="bib:ARIE1923-1924_01"/></bibl> (ARIE 1923-1924/C/1924/369).
 This edition and translation by Valérie Gillet (2020), based on autopsy and photographs.
+</p>
+ <p>
+[EF reviewed] First reported in <bibl><ptr target="bib:ARIE1923-1924_01"/></bibl> (ARIE 1923-1924/C/1924/369).
+Edited <!--and translated--> for the first time<!--c'est bien le cas non?--> by Valérie Gillet (2020), based on autopsy and photographs.
 </p>
         	
         	<listBibl type="primary">

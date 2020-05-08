@@ -71,36 +71,36 @@
 	<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 </p>
             	<p>
-            		mat<choice><orig>i</orig><reg>u</reg></choice>rai koṇṭa <persName>kōpparakēcaripaṉmark<choice><orig>i</orig><reg>u</reg></choice></persName> yā
+            		matirai koṇṭa <persName>kōpparakēcaripaṉmark<choice><orig>i</orig><reg>u</reg></choice></persName> yā
             		<lb n="2" break="no"/>ṇṭu <num>3 <g type="numeral">10</g> 6</num> Āvatu</p>
             	<p>
             		Avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</hi>rk
             		<lb n="3" break="no"/>ku <persName><roleName type="unknown" subtype="donor">kaṇṭaṉ ne<unclear>ṟ</unclear>iyāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ A<hi rend="grantha">pōha</hi>naṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>
             		<lb n="4" break="no"/><supplied reason="lost">ta <hi rend="grantha">bhūmi</hi>yai</supplied> <gap reason="illegible" unit="character" quantity="3" precision="low"/> <unclear>kki</unclear> It <gap reason="illegible" unit="character" quantity="20" precision="low"/>
-            		<lb n="5"/>t<unclear>u</unclear> Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>ya</unclear>
-            		<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice><choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice> p<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum
-            	</p>
-            	<p> 
-            		ta<unclear>raṇi</unclear> 
+            		<lb n="5"/>t<unclear>u</unclear> Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>y</unclear>
+            		<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum ta<unclear>raṇi</unclear> 
             		<lb n="7" break="no"/>y<supplied reason="lost">k</supplied> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakku Erippōm āṉō<supplied reason="lost">m</supplied>
             		<lb n="8"/>It<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm Eḻuvōm
             	</p>
+            	<p>Line 3: n(e/ē)[ṟ=r?]iyaṉ</p>
+            	<p>Line 7: Ōrō OR Orō?</p>
             </div>
         	<div type="apparatus">
                   <listApp>
                   	
                   	<app loc="3">
-                  		<lem>kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice><supplied reason="lost">ta <hi rend="grantha">bhūmi</hi>yai</supplied></lem>
-                  		<note>Restoration base on parallel in in #2<!--update ref--> line 4.</note>
+                  		<lem>kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice><lb n="4" break="no"/><supplied reason="lost">ta <hi rend="grantha">bhūmi</hi>yai</supplied></lem>
+                  		<note>Restoration based on the parallel in #2<!--update ref-->, line 4.</note>
                   	</app>
-                     <app loc="6">
-                        <lem>m<choice><orig>i</orig><reg>ī</reg></choice><choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice> p<choice><unclear>o</unclear><unclear>ō</unclear></choice>ṉṉum</lem>
-                        <note>Dr. G. Vijayavenugopal (personal communication) suggested to interpret <foreign>poṉṉum</foreign> as "gold", to consider previous word <foreign>mīṉa</foreign> as a mistake for <foreign>īḻa</foreign> (<foreign>īḻam</foreign>), and to understand "Lankan gold". The mention of gold, however, would not make much sense in the contewt. There are a few other possibilities, although none is entirely sactifactory: (1) <foreign>pōṉṉum</foreign>, thus land, "where the fishes (<foreign>mīṉ</foreign>) go (<foreign>pōṉṉum</foreign>)" or "where the elevation (<foreign>mīṉ</foreign>) goes (<foreign>pōṉṉum</foreign>)"; (2) <foreign>poṉṉum</foreign>, mistake for <foreign>poḷḷum</foreign>, thus, land "where the elevated (<foreign>mī</foreign>) path (<foreign>ṉa</foreign>, for <foreign>naṭai</foreign>) was dug (<foreign>poḷḷum</foreign>). This second possibility is based on a similar formula found in #7 <!--update ref-->: <foreign>Ikkuḷattiṉ minaṭai poḷḷak kuḷattilē kalluvat' ākavum</foreign>. <!--I have translated it as: we have to clear (<foreign>kalluvatākavum</foreign>) in the tank (<foreign>kuḷattilē</foreign>), in order to dig (<foreign>poḷḷa</foreign>) [for] an elevated (<foreign>mī</foreign>) road/path (<foreign>naṭai</foreign>) of this tank (<foreign>ikkuḷattiṉ</foreign>).--> <!--Unnecessary: there will be a link to this inscription.--></note>
-                     </app>
                      <app loc="6">
                         <lem><unclear>Aka</unclear>vēriyum puṟavēriyum</lem>
                         <note>Literally: "the inner lake (<foreign>aka-v-ēri-y-um</foreign>) and the outer lake (<foreign>puṟa-v-ēri-y-um</foreign>)". This probably refers to a type of land, but the details remain unclear. See also #7 <!--update ref--> for a similar formula.</note>
                      </app>
+                  	<app loc="6">
+                        <lem>m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum</lem>
+                        <note>Dr. G. Vijayavenugopal (personal communication) suggested us to interpret <foreign>poṉṉum</foreign> as "gold", to read the previous word as <foreign>mīṉa</foreign> as a mistake for <foreign>īḻa</foreign> (<foreign>īḻam</foreign>), and to understand the phrase as "Lankan gold". We tentatively take the phrase in the sense of the "gold of fish", that is, the donation includes the income form the fishes of the two lakes just mentioned.</note>
+                     </app>
+                     
                   </listApp>
             </div>
         	
@@ -110,7 +110,7 @@
         		
 <p>
 First reported in <bibl><ptr target="bib:ARIE1923-1924_01"/></bibl> (ARIE 1923-1924/C/1924/368).
-This first<!--c'est bien le cas non?--> edition and translation by Valérie Gillet (2020), based on autopsy and photographs.
+Edited <!--and translated--> for the first time<!--c'est bien le cas non?--> by Valérie Gillet (2020), based on autopsy and photographs.
 </p>
            	
               <listBibl type="secondary">
