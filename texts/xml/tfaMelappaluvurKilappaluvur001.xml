@@ -58,6 +58,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change who="part:emfr" when="2020-04-20">Revision of the edition and apparatus</change><!--to be validated!-->
 			<change who="part:axja" when="2020-01-08">Update the template</change>
 			<change who="part:vagi" when="2019-12-02" status="draft">Creation of the file</change>
 		</revisionDesc>
@@ -76,7 +77,7 @@
             	<p>
             		Avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</hi>rk
             		<lb break="no" n="3"/>ku <persName><roleName subtype="donor" type="unknown">kaṇṭaṉ n<choice><unclear>eṟ</unclear><unclear>ēr</unclear></choice>iyāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ A<hi rend="grantha">pōha</hi>naṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>
-            		<lb break="no" n="4"/><unclear>ta</unclear> <hi rend="grantha"><unclear>bhūmi</unclear></hi><unclear>yai macakki Itin nirk kiṭaṉta nilam</unclear> <gap precision="low" quantity="12" reason="illegible" unit="character"/> <unclear>ṟi</unclear>
+            		<lb break="no" n="4"/><unclear>ta</unclear> <hi rend="grantha"><unclear>bhūmi</unclear></hi><unclear>yai macakki Itin nirk kiṭaṉta nilam</unclear> <gap precision="low" quantity="8" reason="illegible" unit="character"/> <unclear>ṟi</unclear> <gap precision="low" quantity="1" reason="illegible" unit="character"/>
             		<lb n="5"/>t<unclear>u</unclear> Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>y</unclear>
             		<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/> 
             		<lb break="no" n="7"/><gap reason="illegible" unit="character" quantity="2"/><unclear>k</unclear> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakku Erippōm āṉō<supplied reason="lost">m</supplied>
@@ -87,14 +88,23 @@
         
         	<div type="apparatus">
         		
-                  <listApp>
-                  	
-                  	                     <app loc="6">
-                        <lem><unclear>Aka</unclear>vēriyum puṟavēriyum</lem>
-                        <note>Literally: "the inner lake (<foreign>aka-v-ēri-y-um</foreign>) and the outer lake (<foreign>puṟa-v-ēri-y-um</foreign>)". This probably refers to a type of land, but the details remain unclear. See also #7 <!--update ref--> for a similar formula.</note>
-                  	                     </app>
-                     
-                                       </listApp>
+        		<listApp>
+        			
+        			<app loc="4">
+        				<note>The reading of this line is based on the parallel in #2<!--update ref-->, line 4.</note>
+        			</app>
+        			
+        			<app loc="6">
+        				<lem><unclear>Aka</unclear>vēriyum puṟavēriyum</lem>
+        				<note>Literally: "the inner tank (<foreign>aka-v-ēri-y-um</foreign>) and the outer tank (<foreign>puṟa-v-ēri-y-um</foreign>)". This probably refers to a type of land, but the details remain unclear. See also #7 <!--update ref--> for a similar formula.</note>
+        			</app>
+        			
+        			<app loc="6">
+                        <lem>m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum</lem>
+                        <note>Dr. G. Vijayavenugopal (personal communication) suggested us to interpret <foreign>poṉṉum</foreign> as "gold", to read the previous word as <foreign>mīṉa</foreign> as a mistake for <foreign>īḻa</foreign> (<foreign>īḻam</foreign>), and to understand the phrase as "Lankan gold". We tentatively take the phrase in the sense of the "gold of fish", that is, the donation includes the income form the fishes of the two tank just mentioned.</note>
+                     </app>
+        			
+        		</listApp>
         	</div>
             <div type="commentary">
             </div>
@@ -120,6 +130,10 @@ This edition and translation by Valérie Gillet (2020), based on autopsy and pho
          </body>
      </text>
 </TEI>
-
-<!--Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
+<!--Line 4: (ta) (bhūmi)(yai macakki Itin nirk kiṭaṉta nilam) [ca.8x] (ṟi): I (EF) do not see the ṭa in kiṭaṉta: thus ki[ṭa*]ṉta -->
+<!--End of line 7: tāṇi<gap reason="illegible" unit="character" quantity="1"/>. Indicate uncertainty whether there is a gap or not. Check EGD!-->
+<!--Ancient <title>: Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
 face, time of Parāntaka I, year 36-->
+<!--Add note in Commentary about Nēriyāṉ/Neṟiyāṉ, line 3-->
+<!--Update epigraphical lemma to indicate this is first edition?-->
+
