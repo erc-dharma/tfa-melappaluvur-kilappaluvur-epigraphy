@@ -122,13 +122,13 @@
            <div type="bibliography">
            	
 <p>
-First reported in ARIE 1923-1924/C/1924/36) <bibl rend="omitname"><ptr target="bib:ARIE1923-1924_01"/></bibl>; edited and translated here for the first time by Valérie Gillet from autopsy and photographs.
+First reported in ARIE 1923-1924/C/1924/36) <bibl rend="omitname"><ptr target="bib:ARIE1923-1924"/></bibl>; edited and translated here for the first time by Valérie Gillet from autopsy and photographs.
 </p><!--Updated acc. to EGD !9.4-->
 
            	
               <listBibl type="secondary">
               	<bibl>
-        			<ptr target="bib:ARIE1923-1924_01"/>
+        			<ptr target="bib:ARIE1923-1924"/>
         			<citedRange unit="page">73</citedRange>
         			<citedRange unit="appendix">C/1924</citedRange>
         			<citedRange unit="item">368</citedRange>
