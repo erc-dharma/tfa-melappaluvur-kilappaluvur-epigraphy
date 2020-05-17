@@ -73,11 +73,11 @@
         		</p>
         		<p>
         			matirai koṇṭa <persName>kōpparakēcaripaṉmark<choice><orig>i</orig><reg>u</reg></choice></persName> yā
-            		<lb n="2" break="no"/>ṇṭu <num>3 <g type="numeral">10</g> 6</num> Āvatu</p>
+            		<lb n="2" break="no"/>ṇṭu <num value="36">3 <g type="numeral">10</g> 6</num> Āvatu</p>
             	<p>
             		Avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>deva</hi>rk
-            		<lb break="no" n="3"/>ku <persName><roleName subtype="donor" type="unknown">kaṇṭaṉ n<choice><unclear>eṟ</unclear><unclear>ēr</unclear></choice>iyāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ A<hi rend="grantha">pōha</hi>naṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>
-            		<lb break="no" n="4"/><unclear>ta</unclear> <hi rend="grantha"><unclear>bhūmi</unclear></hi><unclear>yai macakki Itin nirk kiṭaṉta nilam</unclear> <gap precision="low" quantity="8" reason="illegible" unit="character"/> <unclear>ṟi</unclear> <gap precision="low" quantity="1" reason="illegible" unit="character"/>
+            		<lb break="no" n="3"/>ku <persName><roleName subtype="donor" type="unknown">kaṇṭaṉ n<choice><unclear>eṟ</unclear><unclear>ēr</unclear></choice>iyāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ A<hi rend="grantha">pohana</hi>ṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>
+            		<lb break="no" n="4"/><unclear>ta</unclear> <hi rend="grantha"><unclear>bhūmi</unclear></hi><unclear>yai macakki Itin nirk kiṭaṉta nilam</unclear> <gap reason="illegible" precision="low" quantity="8"  unit="character"/> <unclear>ṟi</unclear> <gap reason="illegible" precision="low" quantity="1"  unit="character"/>
             		<lb n="5"/>t<unclear>u</unclear> Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>y</unclear>
             		<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/> 
             		<lb break="no" n="7"/><gap reason="illegible" unit="character" quantity="2"/><unclear>k</unclear> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakku Erippōm āṉō<supplied reason="lost">m</supplied>
@@ -93,20 +93,29 @@
         			<app loc="4">
         				<note>The reading of this line is based on the parallel in #2<!--update ref-->, line 4.</note>
         			</app>
-        			
-        			<app loc="6">
-        				<lem><unclear>Aka</unclear>vēriyum puṟavēriyum</lem>
-        				<note>Literally: "the inner tank (<foreign>aka-v-ēri-y-um</foreign>) and the outer tank (<foreign>puṟa-v-ēri-y-um</foreign>)". This probably refers to a type of land, but the details remain unclear. See also #7 <!--update ref--> for a similar formula.</note>
-        			</app>
-        			
-        			<app loc="6">
-                        <lem>m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum</lem>
-                        <note>Dr. G. Vijayavenugopal (personal communication) suggested us to interpret <foreign>poṉṉum</foreign> as "gold", to read the previous word as <foreign>mīṉa</foreign> as a mistake for <foreign>īḻa</foreign> (<foreign>īḻam</foreign>), and to understand the phrase as "Lankan gold". We tentatively take the phrase in the sense of the "gold of fish", that is, the donation includes the income form the fishes of the two tank just mentioned.</note>
-                     </app>
-        			
+        			       			
         		</listApp>
         	</div>
-            <div type="commentary">
+        	
+        	 <div type="translation" xml:lang="eng">
+        	 	<p>[EF proposition:]</p><!--update!-->
+        	 	<p n="1">Prosperity! Fortune!</p>
+        	 	<p n="1-2">36th year of Kōpparakēcarivarman who took Madurai.</p>
+        	 	<p n="2-8">For the Mahādeva of Avaṉikaṉtaṟpapuram, <seg cert="low">having prepared for cultivation <supplied reason="explanation"><foreign>macakki</foreign></supplied> the land</seg> which was lying uncultivated <supplied reason="explanation"><foreign>kiṭanta</foreign></supplied> without enjoyment <supplied reason="explanation"><foreign>a<hi rend="grantha">pohana</hi></foreign></supplied>, east <supplied reason="explanation"><foreign>kiḻ</foreign></supplied> of the tank <supplied reason="explanation"><foreign>kuḷattiṉ</foreign></supplied>, whereas Kaṇṭaṉ Neṟiyāṉ/Nēriyaṉ made <supplied reason="subaudible">it</supplied> under cultivation <supplied reason="explanation"><foreign>tirutta</foreign></supplied>, <seg cert="low">the land which was lying uncultivated</seg> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>Itin nirk</foreign></supplied> <gap reason="illegible"/> of whatsoever kind, where the lizzard <supplied reason="explanation"><foreign>uṭumpu</foreign></supplied> run <supplied reason="explanation"><foreign>ōṭi</foreign></supplied> and the turtle <supplied reason="explanation"><foreign>āmai</foreign></supplied> crawls <supplied reason="explanation"><foreign>tavaḻntatu</foreign></supplied>, the inside land <supplied reason="explanation"><foreign>uṇṇilam</foreign></supplied>, without exception <supplied reason="explanation"><foreign>oḻiv’ iṉṟi</foreign></supplied>, as well as the inner tank <supplied reason="explanation"><foreign>aka-v-ēri-y-um</foreign></supplied>, the outer tank <supplied reason="explanation"><foreign>puṟa-v-ēri-y-um</foreign></supplied>, and <seg cert="low">the gold of fishes</seg> <supplied reason="explanation"><foreign>mīṉ poṉṉum</foreign></supplied>, and of whatsoever kind of land around/which surrounds <supplied reason="explanation"><foreign>vaḷaiyiṟ cuṟṟu</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>tāṇi *** <!--<gap reason="illegible" unit="character" quantity="3"/> <gap> not allowed within <supplied>--><unclear>k</unclear></foreign></supplied>, with <supplied reason="explanation"><foreign>koṇṭu</foreign>, literally “having taken”</supplied> <supplied reason="subaudible">these</supplied>, We, the seven Paṭṭuṭaiyars <supplied reason="explanation"><foreign>paṭṭuṭaiyōm eḻuvōm</foreign></supplied> of this temple <supplied reason="explanation"><foreign>it-taḷi</foreign></supplied>, will burn <supplied reason="explanation"><foreign>erippōm āṉōm</foreign></supplied> a perpetual lamp each <supplied reason="explanation"><foreign>orō nontā viḷakku</foreign></supplied> in both temples <supplied reason="explanation"><foreign>iraṇṭu taḷiyilum</foreign></supplied>.</p>
+        	 </div>
+        	
+        	<div type="commentary">
+        		<p>"where the lizzard (<foreign>uṭumpu</foreign>) run (<foreign>ōṭi</foreign>) and the turtle (<foreign>āmai</foreign>) crawls (<foreign>tavaḻntatu</foreign>, literally "that which [the turtle] crawls", that is, uncultivated lands. The formula is also used in late Pallava copper-plate grants/charters.</p>            	           	
+            	<p><foreign><unclear>aka</unclear>vēriyum puṟavēriyum</foreign>.        				Literally: "the inner tank (<foreign>aka-v-ēri-y-um</foreign>) and the outer tank (<foreign>puṟa-v-ēri-y-um</foreign>)". This appears to refer to the tanks comprised by or nearby the plots, but the details remain unclear. See also #7 <!--update ref--> for a similar formula.</p>
+            	<p>
+            		<foreign>m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum</foreign>. Dr. G. Vijayavenugopal (personal communication) suggested us to interpret <foreign>poṉṉum</foreign> as "gold", to read the previous word as <foreign>mīṉa</foreign> as a mistake for <foreign>īḻa</foreign> (<foreign>īḻam</foreign>), and to understand the phrase as "Lankan gold". We tentatively take the phrase in the sense of the "gold of fish", that is, the donation includes the income raised from the fishes in the two tanks just mentioned.
+                     </p>
+            	<p>
+            		<foreign>it-taḷi</foreign>, that is the Avaṉikaṉtaṟpapuram.
+            	</p>
+            	<p>
+            		<foreign>erippōm āṉōm</foreign>, literally "we have become, we are" (<foreign>aṉōm</foreign>) "those who will burn" (<foreign>erippōm</foreign>)".
+            	</p>
             </div>
         	
            <div type="bibliography">
