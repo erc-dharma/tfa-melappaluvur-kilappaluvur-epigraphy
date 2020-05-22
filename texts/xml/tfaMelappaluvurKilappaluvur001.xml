@@ -79,7 +79,7 @@
             		<lb break="no" n="3"/>ku <persName><roleName subtype="donor" type="unknown">kaṇṭaṉ n<choice><unclear>eṟ</unclear><unclear>ēr</unclear></choice>iyāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ A<hi rend="grantha">poha</hi>naṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>
             		<lb break="no" n="4"/><unclear>ta</unclear> <hi rend="grantha"><unclear>bhūmi</unclear></hi><unclear>yai macakki Itin nirk kiṭaṉta nilam</unclear> <gap reason="illegible" precision="low" quantity="8"  unit="character"/> <unclear>ṟi</unclear> <gap reason="illegible" precision="low" quantity="1"  unit="character"/>
             		<lb n="5"/>t<unclear>u</unclear> Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>y</unclear>
-            		<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/> 
+            		<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/> <!--tāṇi<gap reason="illegible" unit="character" quantity="1"/>. Indicate taht uncertainty bears on the gap. Check EGD!-->
             		<lb break="no" n="7"/><gap reason="illegible" unit="character" quantity="2"/><unclear>k</unclear> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakku Erippōm āṉō<supplied reason="lost">m</supplied>
             		<lb n="8"/>It<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm Eḻuvōm
             	</p>
@@ -98,10 +98,7 @@
         	</div>
         	
         	 <div type="translation" xml:lang="eng">
-        	 	<p>[EF proposition:]</p><!--update!-->
-        	 	<p n="1">Prosperity! Fortune!</p>
-        	 	<p n="1-2">36th year of Kōpparakēcarivarman who took Madurai.</p>
-        	 	<p n="2-8">For the Mahādeva of Avaṉikaṉtaṟpapuram, <seg cert="low">having prepared for cultivation <supplied reason="explanation"><foreign>macakki</foreign></supplied> the land</seg> which was lying uncultivated <supplied reason="explanation"><foreign>kiṭanta</foreign></supplied> without enjoyment <supplied reason="explanation"><foreign>a<hi rend="grantha">pohana</hi></foreign></supplied>, east <supplied reason="explanation"><foreign>kiḻ</foreign></supplied> of the tank <supplied reason="explanation"><foreign>kuḷattiṉ</foreign></supplied>, whereas Kaṇṭaṉ Neṟiyāṉ/Nēriyaṉ made <supplied reason="subaudible">it</supplied> under cultivation <supplied reason="explanation"><foreign>tirutta</foreign></supplied>, <seg cert="low">the land which was lying uncultivated</seg> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>Itin nirk</foreign></supplied> <gap reason="illegible"/> of whatsoever kind, where the lizzard <supplied reason="explanation"><foreign>uṭumpu</foreign></supplied> runs <supplied reason="explanation"><foreign>ōṭi</foreign></supplied> and the turtle <supplied reason="explanation"><foreign>āmai</foreign></supplied> crawls <supplied reason="explanation"><foreign>tavaḻntatu</foreign></supplied>, the inside land <supplied reason="explanation"><foreign>uṇṇilam</foreign></supplied>, without exception <supplied reason="explanation"><foreign>oḻiv’ iṉṟi</foreign></supplied>, as well as the inner tank <supplied reason="explanation"><foreign>aka-v-ēri-y-um</foreign></supplied>, the outer tank <supplied reason="explanation"><foreign>puṟa-v-ēri-y-um</foreign></supplied>, and <seg cert="low">the gold of fishes</seg> <supplied reason="explanation"><foreign>mīṉ poṉṉum</foreign></supplied>, and of whatsoever kind of land around/which surrounds <supplied reason="explanation"><foreign>vaḷaiyiṟ cuṟṟu</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>tāṇi *** <!--<gap reason="illegible" unit="character" quantity="3"/> <gap> not allowed within <supplied>--><unclear>k</unclear></foreign></supplied>, with <supplied reason="explanation"><foreign>koṇṭu</foreign>, literally “having taken”</supplied> <supplied reason="subaudible">these</supplied>, We, the seven Paṭṭuṭaiyars <supplied reason="explanation"><foreign>paṭṭuṭaiyōm eḻuvōm</foreign></supplied> of this temple <supplied reason="explanation"><foreign>it-taḷi</foreign></supplied>, will burn <supplied reason="explanation"><foreign>erippōm āṉōm</foreign></supplied> a perpetual lamp each <supplied reason="explanation"><foreign>orō nontā viḷakku</foreign></supplied> in both temples <supplied reason="explanation"><foreign>iraṇṭu taḷiyilum</foreign></supplied>.</p>
+        	 	
         	 </div>
         	
         	<div type="commentary">
@@ -143,7 +140,6 @@ First reported in ARIE 1923-1924/C/1924/368 <bibl rend="omitname"><ptr target="b
      </text>
 </TEI>
 <!--Line 4: (ta) (bhūmi)(yai macakki Itin nirk kiṭaṉta nilam) [ca.8x] (ṟi): I (EF) do not see the ṭa in kiṭaṉta: thus ki[ṭa*]ṉta -->
-<!--End of line 7: tāṇi<gap reason="illegible" unit="character" quantity="1"/>. Indicate uncertainty whether there is a gap or not. Check EGD!-->
 <!--Ancient <title>: Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
 face, time of Parāntaka I, year 36-->
 <!--Add note in Commentary about Nēriyāṉ/Neṟiyāṉ, line 3-->
