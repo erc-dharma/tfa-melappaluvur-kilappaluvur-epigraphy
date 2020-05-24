@@ -69,7 +69,7 @@
       	<div type="edition" xml:lang="tam-Latn">
          	<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
       		<p><persName>matirai koṇṭa <persName>kōpparakēcaripaṉma<choice><orig>rki</orig><reg>rkku</reg></choice></persName></persName> yāṇṭu
-<lb n="2"/><num>3 <g type="numeral">10</g> 6</num> vatu</p>
+<lb n="2"/><num>3 <g type="numeral">10</g> 6</num>vatu</p><!--EF: the "6" seems in fact to be "Ā"; thus 3 10Āvatu-->
 <p>kuṉṟakūṟṟattu <hi rend="grantha">de</hi>vatā<choice><orig>n</orig><reg>ṉ</reg></choice>am Ava<choice><orig>n</orig><reg>ṉ</reg></choice>ika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu
 <lb n="3"/>ma<hi rend="grantha">h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>varkku <persName><placeName>kurukāṭi</placeName>kiḻāṉ Ūraṉ piṭāraṉ</persName> Ittaḷi <hi rend="grantha">de</hi>vatāṉam <placeName>pa
 <lb n="4" break="no"/>cuṅkuḷattūr</placeName> A<hi rend="grantha">poha</hi>ṉaṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>ta <hi rend="grantha">bhū</hi>miyai macakki kuṭutta n<choice><orig>i</orig><reg>ī</reg></choice>rnila
@@ -89,9 +89,8 @@
       	
          <div type="commentary">
          	<p n="5-6">         		
-         		What preceeds <foreign>macakkal</foreign> in both its occurrences (<foreign><unclear>param</unclear> <gap reason="illegible" unit="character" quantity="2"/></foreign> and  <foreign>kalam taṉkāri</foreign>) is not clear. I could be the names of plots or specifications about the grain measures yielded from these plots.</p> 
-         	<!--<p>Line 5: taṉkāri Or taṉ kāri?</p>-->
-         </div>
+         		What preceeds <foreign>macakkal</foreign> in both its occurrences (<foreign><unclear>param</unclear> <gap reason="illegible" unit="character" quantity="2"/></foreign> and  <foreign>kalam taṉkāri</foreign> or <foreign>kalam taṉ kāri</foreign>) is not clear. It could be the names of plots or specifications about the grain measures yielded from these plots.</p> 
+         	</div>
       	
         <div type="bibliography">
 	

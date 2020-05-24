@@ -76,6 +76,18 @@
          	</p>
          </div>
       	
+      	<div type="edition" xml:lang="tam-Latn">
+      		<!--EF reviewed-->
+         	<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
+         		<p><persName>matirai koṇṭa <persName>kōpparakēcaripanma<unclear>rku</unclear></persName></persName> yāṇṭu <gap reason="lost" extent="unknown" unit="character"/></p>
+         	<p>
+         	<lb n="2" />kuṉṟakkūṟṟattu tēvatāṉam Avaṉikantaṟpapu<supplied reason="lost">rattu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+         	<lb n="3" break="no"/>ḷi <hi rend="grantha">śāsa</hi>na<hi rend="grantha">baddha</hi>vaṇṇakkuṭaiya kallaṟai kollattil <gap reason="lost" extent="unknown" unit="character"/>
+         	<lb n="4" break="no"/>ttaḷip paṭṭu-Uṭaiyāṉ <persName><hi rend="grantha">Īśvara</hi>nakkaṉ</persName> vi<unclear>lai</unclear>koṇṭu <gap reason="lost" extent="unknown" unit="character"/>
+         	<lb n="5" break="no"/><hi rend="grantha">ra</hi>ṉēṉ<surplus>n</surplus> ittaḷi vaṇṇakku ce<supplied reason="omitted">y</supplied>tu kaṭamaip paṭṭ<unclear>a</unclear> poṉṉukku <gap reason="lost" extent="unknown" unit="character"/>
+         	</p>
+         </div>
+      	
          <div type="apparatus">
    
          	
@@ -98,8 +110,7 @@
         <div type="bibliography">
 	<p>First noticed and edited here by Valérie Gillet from autopsy and photographs.</p>
 
-        	
-        	<listBibl type="primary">
+        	        	<listBibl type="primary">
         		
         		<bibl>
         		</bibl>

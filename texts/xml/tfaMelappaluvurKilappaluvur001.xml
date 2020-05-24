@@ -73,13 +73,13 @@
         		</p>
         		<p>
         			<persName>matirai koṇṭa <persName>kōpparakēcaripaṉma<choice><orig>rki</orig><reg>rkku</reg></choice></persName></persName> yā
-            		<lb n="2" break="no"/>ṇṭu <num value="36">3 <g type="numeral">10</g> 6</num> Āvatu</p>
+            		<lb n="2" break="no"/>ṇṭu <num value="36">3 <g type="numeral">10</g> 6</num>Āvatu</p>
             	<p>
             		Avaṉika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>de</hi>vark
             		<lb break="no" n="3"/>ku <persName><roleName subtype="donor" type="unknown">kaṇṭaṉ n<choice><unclear>eṟ</unclear><unclear>ēr</unclear></choice>iyāṉ</roleName></persName> tirutta kuḷattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ A<hi rend="grantha">poha</hi>naṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>
             		<lb break="no" n="4"/><unclear>ta</unclear> <hi rend="grantha"><unclear>bhūmi</unclear></hi><unclear>yai macakki Itin nirk kiṭaṉta nilam</unclear> <gap reason="illegible" precision="low" quantity="8"  unit="character"/> <unclear>ṟi</unclear> <gap reason="illegible" precision="low" quantity="1"  unit="character"/>
             		<lb n="5"/>t<unclear>u</unclear> Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatu Uṇṇilam Oḻiv' iṉṟi<unclear>y</unclear>
-            		<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/> <!--tāṇi<gap reason="illegible" unit="character" quantity="1"/>. Indicate taht uncertainty bears on the gap. Check EGD!-->
+            		<lb n="6"/><unclear>Aka</unclear>vēriyum puṟavēriyum m<choice><orig>i</orig><reg>ī</reg></choice>ṉ poṉṉum vaḷaiyiṟ cuṟṟu Eppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭatum tāṇi<gap reason="illegible" unit="character" quantity="1"/> <!--tāṇi<gap reason="illegible" unit="character" quantity="1"/>. Indicate that uncertainty bears on the gap. Check EGD!-->
             		<lb break="no" n="7"/><gap reason="illegible" unit="character" quantity="2"/><unclear>k</unclear> koṇṭu Iraṇṭu taḷiyilum Orō no<choice><orig>ṉ</orig><reg>n</reg></choice>tā viḷakku Erippōm āṉō<supplied reason="lost">m</supplied>
             		<lb n="8"/>It<supplied reason="lost">ta</supplied>ḷi paṭṭuṭaiyōm Eḻuvōm
             	</p>
@@ -102,6 +102,9 @@
         	 </div>
         	
         	<div type="commentary">
+        		<p n="3">
+        			Nēriyāṉ is a name of the Cōḻa kings (as lords of the Nēri hill) or alternatively a personal name meaning "one of subtle intellect" (see MTL<!--Update!--> s.v. <foreign>nēriyaṉ</foreign>). Neṟiyāṉ, as derived from <foreign>neṟi</foreign>, could mean "religious one", that is, devotee, or "virtouous/righteous one".
+        		</p>
         		<p n="5">
         			<foreign>Uṭump' ōṭiy āmai tavaḻ<choice><orig>ṉ</orig><reg>n</reg></choice>tatu</foreign>, "where the lizzard (<foreign>uṭumpu</foreign>) runs (<foreign>ōṭi</foreign>) and the turtle (<foreign>āmai</foreign>) crawls (<foreign>tavaḻntatu</foreign>, literally "that which [the turtle] crawls"). This formula, designating uncultivated lands, is also used in the late Pallava copper-plate grants.
         		</p>            	           	
@@ -139,7 +142,5 @@ First reported in ARIE 1923-1924/C/1924/368 <bibl rend="omitname"><ptr target="b
          </body>
      </text>
 </TEI>
-<!--Line 4: (ta) (bhūmi)(yai macakki Itin nirk kiṭaṉta nilam) [ca.8x] (ṟi): I (EF) do not see the ṭa in kiṭaṉta: thus ki[ṭa*]ṉta -->
 <!--Ancient <title>: Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
 face, time of Parāntaka I, year 36-->
-<!--Add note in Commentary about Nēriyāṉ/Neṟiyāṉ, line 3-->
