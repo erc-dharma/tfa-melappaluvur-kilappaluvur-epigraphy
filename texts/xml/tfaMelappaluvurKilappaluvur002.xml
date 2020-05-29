@@ -59,7 +59,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2020-04-20">Revision of the edition and apparatus</change><!--to be validated!-->
+			<change who="part:emfr" when="2020-04-20" status="draft">Review of the file</change>
 			<change who="part:vagi" when="2020-04-24" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
