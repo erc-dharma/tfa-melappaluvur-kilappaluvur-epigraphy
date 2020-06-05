@@ -100,17 +100,15 @@
         <div type="bibliography">
 	<p>First noticed and edited here by Valérie Gillet from autopsy and photographs.</p>
 
-        	        	<listBibl type="primary">
+        	<listBibl type="primary">
         		
-        		<bibl>
-        		</bibl>
+        		<bibl/>      
         		
         	</listBibl>
         	
         	<listBibl type="secondary">
         		
-        		<bibl>
-        		</bibl>
+        		<bibl/>
         		
         	</listBibl>
         	
