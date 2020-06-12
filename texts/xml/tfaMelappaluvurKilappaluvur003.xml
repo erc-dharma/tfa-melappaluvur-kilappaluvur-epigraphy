@@ -64,23 +64,12 @@
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
-      <body>
-      	
-         <div type="edition" xml:lang="tam-Latn">
-         	<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
-         		<p><persName>matirai koṇṭa <persName>kōpparakēcaripanma<unclear>rku</unclear></persName></persName> yāṇṭu <gap reason="lost" extent="unknown" unit="character"/></p>
-         	<p>
-         	<lb n="2" />kuṉṟakkūṟṟattu tēvatāṉam Avaṉikantaṟpapu <gap reason="lost" extent="unknown" unit="character"/>
-         	<lb n="3" break="no"/>ḷi <hi rend="grantha">śāsa</hi>na<hi rend="grantha">baddha</hi> vaṇṇakkuṭaiya kallaṟai kollattil <gap reason="lost" extent="unknown" unit="character"/>
-         	<lb n="4" break="no"/>ttaḷip paṭṭu-Uṭaiyāṉ <persName><hi rend="grantha">Īśvara</hi> nakkaṉ</persName> vi<unclear>lai</unclear>koṇṭu <gap reason="lost" extent="unknown" unit="character"/>
-         	<lb n="5" break="no"/>raṉēṉ<surplus>n</surplus> ittaḷi vaṇṇakku cetu kaṭamaip paṭ<unclear>ṭa</unclear> poṉṉukku <gap reason="lost" extent="unknown" unit="character"/>
-         	</p>
-         </div>
+      <body>     	      
       	
       	<div type="edition" xml:lang="tam-Latn">
       		<p>EF reviewed</p>
          	<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
-         		<p><persName>matirai koṇṭa <persName>kōpparakēcaripa<choice><unclear>n</unclear><unclear>ru</unclear></choice>ma<choice><unclear>rku</unclear><unclear>kku</unclear></choice></persName></persName> yāṇṭu <gap reason="lost" extent="unknown" unit="character"/></p>         	<p>
+         		<p><persName>matirai koṇṭa <persName>kōpparakēcaripanma<choice><unclear>rku</unclear><unclear>kku</unclear></choice></persName></persName> yāṇṭu <gap reason="lost" extent="unknown" unit="character"/></p>         	<p>
          	<lb n="2" />kuṉṟakkūṟṟattu tēvatāṉam Avaṉikantaṟpapu<supplied reason="lost">rattu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
          	<lb n="3" break="no"/>ḷi <hi rend="grantha">śāsa</hi>na<hi rend="grantha">baddha</hi>vaṇṇakkuṭaiya kallaṟai kollatti<unclear>l</unclear> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">i</supplied>
          	<lb n="4" break="no"/>ttaḷip paṭṭu-Uṭaiyāṉ <persName><hi rend="grantha">Īśvara</hi>nakkaṉ</persName> vi<unclear>lai</unclear>koṇṭu <gap reason="lost" extent="unknown" unit="character"/>
