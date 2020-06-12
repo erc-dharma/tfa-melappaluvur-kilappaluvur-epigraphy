@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Parāntaka I, year lost</title>
+				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Parāntaka I, year [3]8</title>
 			
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -60,7 +60,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="2020-05-20" status="draft">Review of the file</change>
-			<change who="part:vagi" when="2020-03-06" status="draft">Creation of the file</change>
+			<change who="part:vagi" when="2020-06-12" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -68,12 +68,11 @@
       	
       	<div type="edition" xml:lang="tam-Latn">
          	<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
-         		<p>matirai koṇṭa <persName>kōpparakēcaripanma<choice><unclear>rku</unclear><unclear>kku</unclear></choice></persName> yāṇṭu <gap reason="lost" extent="unknown" unit="character"/></p>         	<p>
-         	<lb n="2" />kuṉṟakkūṟṟattu tēvatāṉam Avaṉikantaṟpapu<supplied reason="lost">rattu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-         	<lb n="3" break="no"/>ḷi <hi rend="grantha">śāsa</hi>na<hi rend="grantha">baddha</hi>vaṇṇakkuṭaiya kallaṟai kollatti<unclear>l</unclear> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">i</supplied>
-         	<lb n="4" break="no"/>ttaḷip paṭṭu-Uṭaiyāṉ <persName><hi rend="grantha">Īśvara</hi>nakkaṉ</persName> vi<unclear>lai</unclear>koṇṭu <gap reason="lost" extent="unknown" unit="character"/>
-         	<lb n="5" break="no"/><hi rend="grantha">ra</hi>ṉē<choice><orig>ṉn</orig><reg>ṉ</reg></choice> ittaḷi vaṇṇakku ce<supplied reason="omitted">y</supplied>tu kaṭamaip paṭṭ<unclear>a</unclear> poṉṉukku <gap reason="lost" extent="unknown" unit="character"/>
+         		<p>matirai koṇṭa <persName>kōpparakēcaripanmakki</persName> yāṇṭu mu <supplied reason="lost">ppattu</supplied>       	
+         	<lb n="2" /> Eṭṭ<surplus>ā</surplus> Āvatu </p> <p> kuṉṟakūṟṟattu Avanika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpa <hi rend="grantha">Īśvagṛha</hi>ttu <gap reason="lost" quantity="4" unit="character" cert="low"/>
+         	<lb n="3" break="no"/>ṭai Ittaḷi vaṇṇa
          	</p>
+         	
          </div>
       	
          <div type="apparatus">            	               
@@ -83,6 +82,8 @@
          </div>
       	
          <div type="commentary">
+         	<p n="1">The <hi rend="grantha">svasti śrī</hi> at the beginning of the line was added on the pilaster</p>
+         	<p n="3">The inscription is unfinished</p>
          </div>
       	
         <div type="bibliography">
@@ -105,4 +106,4 @@
   </text>
 </TEI>
 <!--long <title>: Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
-face, western section of the wall, time of Parāntaka I, year lost-->
+face, western section of the wall, time of Parāntaka I, year [3]8-->
