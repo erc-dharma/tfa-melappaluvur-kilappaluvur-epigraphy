@@ -73,21 +73,7 @@
       		</p>
       		
       		<p>
-      			matirai koṇṭa <persName>kōpparakēcaripanmakki</persName> yāṇṭu mu <supplied reason="lost">ppattu</supplied>       	
-      			<lb n="2" /> Eṭṭ<surplus>ā</surplus> Āvatu </p> <p> kuṉṟakūṟṟattu Avanika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpa <hi rend="grantha">Īśvagṛha</hi>ttu <gap reason="lost" quantity="4" unit="character" cert="low"/>
-      			<lb n="3" break="no"/>ṭai Ittaḷi vaṇṇa
-      		</p>
-      		
-      	</div>
-      	
-      	<div type="edition" xml:lang="tam-Latn">
-      		<p>EF revised</p>
-      		<p>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-      		</p>
-      		
-      		<p>
-      			matirai koṇṭa <persName>kōpparakēcaripan<choice><orig>makki</orig><reg>markku</reg></choice></persName> yāṇṭu mu<supplied reason="lost">ppatt'</supplied>       	
+      			matirai koṇṭa <persName>kōpparakēcaripan<choice><orig>makki</orig><reg>markku</reg></choice></persName> yāṇṭu mu<supplied reason="lost">ppattu</supplied>       	
       			<lb n="2" /> Eṭṭ<surplus>ā</surplus>Āvatu </p> <p> kuṉṟakūṟṟattu Avanika<choice><orig>n</orig><reg>ṉ</reg></choice>taṟpa-<hi rend="grantha">Īśva<supplied reason="omitted">ra</supplied>gṛha</hi>ttu <gap reason="lost" quantity="4" unit="character" precision="low"/>
       			<lb n="3" break="no"/>ṭai Ittaḷi vaṇṇa
       		</p>
@@ -102,7 +88,7 @@
       	
          <div type="commentary">
          	<p n="1"><foreign><hi rend="grantha">svasti śrī</hi></foreign>. These words were added at the beginning of the line on the pilaster, left of the main text.</p>
-         	<p n="3">The inscription is left unfinished.</p>
+         	<p n="3">The inscription is unfinished.</p>
          </div>
       	
         <div type="bibliography">

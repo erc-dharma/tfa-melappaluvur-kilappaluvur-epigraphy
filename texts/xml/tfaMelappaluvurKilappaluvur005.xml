@@ -64,23 +64,9 @@
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
-      <body>
-      	             	
-      	<div type="edition" xml:lang="tam-Latn">
-      		
-      		<p>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-      		</p>
-      		<p>
-      			<persName>kō Irācakēcariva<hi rend="grantha">nma</hi>ṟku</persName> yāṇṭu <num><g type="numeral">10</g></num> Āvatu</p> <p> <persName><roleName type="king" subtype="order-giver">paḻuvēṭṭaraiyar
-      			<lb n="2"/>maṟavaṉ kaṇṭaṉār</roleName></persName> Āvanika<hi rend="grantha">ndhavva</hi>purattu maṉṟupāṭu Eppērpaṭṭatu paṇ
-      			<lb n="3" break="no"/>ṭai nantipuramaṟṟ' ātiye koḷka Eṉṟ' aruḷicceyya kalliṉ mēl ve
-      			<lb n="4" break="no"/>ṭṭik koḷḷap peṟṟār <roleName type="merchants" subtype="order-receiver">Avanika<hi rend="grantha">ndhavva</hi>purattu nakarattār</roleName> <g>||</g>
-      			</p>
-      	</div>
+      <body>      	             	      	
       	
       	<div type="edition" xml:lang="tam-Latn">
-      		<p>EF revised</p>
       		
       		<p>
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
