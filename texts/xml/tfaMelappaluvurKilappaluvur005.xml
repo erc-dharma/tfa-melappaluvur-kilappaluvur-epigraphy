@@ -59,20 +59,29 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2020-04-20" status="draft">Review of the file</change>
+			<change who="part:emfr" when="2020-06-19" status="draft">Review of the file</change>
 			<change who="part:vagi" when="2020-06-12" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
-      <body>
-      	             	
+      <body>      	             	      	
+      	
       	<div type="edition" xml:lang="tam-Latn">
-         	<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
-      		<p><persName>kō Irācakēcariva<hi rend="grantha">nma</hi>ṟku</persName> yāṇṭu <num><g type="numeral">10</g></num> Āvatu</p> <p> <persName><roleName type="king" subtype="order-giver">paḻuvēṭṭaraiyar
-<lb n="2"/>maṟavaṉ kaṇṭaṉār</roleName></persName> Āvanika<hi rend="grantha">ndhavva</hi>purattu maṉṟupāṭu Eppērpaṭṭatu paṇ
-<lb n="3" break="no"/>ṭai nantipuramaṟṟ' ātiye koḷka Eṉṟ' aruḷicceyya kalliṉ mēl ve
-<lb n="4" break="no"/>ṭṭik koḷḷap peṟṟār <roleName type="merchants" subtype="order-receiver">Avanika<hi rend="grantha">ndhavva</hi>purattu nakarattār</roleName> <g>||</g></p>
+      		
+      		<p>
+      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+      		</p>
+      		<p>
+      			<persName>kō-Irācakēcariva<hi rend="grantha">nma</hi>ṟku</persName> yāṇṭu <num value="10"><g type="numeral">10</g></num>Āvatu
+      		</p>
+      		<p>
+      			<persName><roleName type="king" subtype="order-giver">paḻuvēṭṭaraiyar
+      			<lb n="2"/>maṟavaṉ kaṇṭaṉār</roleName></persName> Avanika<hi rend="grantha">ndha<supplied reason="omitted">r</supplied>vva</hi>purattu maṉṟupāṭu Eppērpaṭṭatu paṇ
+      			<lb n="3" break="no"/>ṭai nan=tipuramaṟṟ' ātiyē koḷka Eṉṟ' aruḷicceyya kalliṉ mēl ve
+      			<lb n="4" break="no"/>ṭṭikkoḷḷap peṟṟār <roleName type="merchants" subtype="order-receiver">Avanika<hi rend="grantha">ndha<supplied reason="omitted">r</supplied>vva</hi>purattu nakarattār</roleName> <g type="finalGomutra"/><!--Update!-->
+      			</p>
       	</div>
+      	
          <div type="apparatus">
                               	
          </div>
@@ -81,7 +90,7 @@
          </div>
       	
          <div type="commentary">
-         	<p n="1">Rājakesarin is probably Sundaracōḻa, during whose reign the Paḻuvēṭṭaraiyar Maṟavaṉ Kaṇṭaṉār rules over Paḻuvūr        		
+         	<p n="1">Rājakesarin is probably Sundaracōḻa, during whose reign the Paḻuvēṭṭaraiyar Maṟavaṉ Kaṇṭaṉār was ruling over Paḻuvūr.     		
          		</p> 
          	</div>
       	

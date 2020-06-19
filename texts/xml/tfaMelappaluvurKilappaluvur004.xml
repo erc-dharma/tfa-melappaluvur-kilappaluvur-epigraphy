@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">tfaMelappaluvurKilappaluvur003</idno>
+				<idno type="filename">tfaMelappaluvurKilappaluvur004</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -59,7 +59,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2020-05-20" status="draft">Review of the file</change>
+			<change who="part:emfr" when="2020-06-19" status="draft">Review of the file</change>
 			<change who="part:vagi" when="2020-06-12" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
@@ -67,13 +67,18 @@
       <body>     	      
       	
       	<div type="edition" xml:lang="tam-Latn">
-         	<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
-         		<p>matirai koṇṭa <persName>kōpparakēcaripanmakki</persName> yāṇṭu mu <supplied reason="lost">ppattu</supplied>       	
-         	<lb n="2" /> Eṭṭ<surplus>ā</surplus> Āvatu </p> <p> kuṉṟakūṟṟattu Avanika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpa <hi rend="grantha">Īśvagṛha</hi>ttu <gap reason="lost" quantity="4" unit="character" cert="low"/>
-         	<lb n="3" break="no"/>ṭai Ittaḷi vaṇṇa
-         	</p>
-         	
-         </div>
+      		
+      		<p>
+      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+      		</p>
+      		
+      		<p>
+      			matirai koṇṭa <persName>kōpparakēcaripan<choice><orig>makki</orig><reg>markku</reg></choice></persName> yāṇṭu mu<supplied reason="lost">ppattu</supplied>       	
+      			<lb n="2" /> Eṭṭ<surplus>ā</surplus>Āvatu </p> <p> kuṉṟakūṟṟattu Avanika<choice><orig>n</orig><reg>ṉ</reg></choice>taṟpa-<hi rend="grantha">Īśva<supplied reason="omitted">ra</supplied>gṛha</hi>ttu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+      			<lb n="3" break="no"/>ṭai Ittaḷi vaṇṇa
+      		</p>
+      		
+      	</div>
       	
          <div type="apparatus">            	               
          </div>
@@ -82,8 +87,8 @@
          </div>
       	
          <div type="commentary">
-         	<p n="1">The <hi rend="grantha">svasti śrī</hi> at the beginning of the line was added on the pilaster</p>
-         	<p n="3">The inscription is unfinished</p>
+         	<p n="1"><foreign><hi rend="grantha">svasti śrī</hi></foreign>. These words were added at the beginning of the line on the pilaster, left of the main text.</p>
+         	<p n="3">The inscription is unfinished.</p>
          </div>
       	
         <div type="bibliography">
