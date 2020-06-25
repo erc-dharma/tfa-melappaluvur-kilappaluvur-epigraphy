@@ -5,8 +5,9 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Parāntaka I, year [3]8</title>
-			
+				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Parāntaka I,
+					year [3]8</title>
+
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:vagi">
@@ -48,11 +49,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -74,7 +75,7 @@
       		
       		<p>
       			matirai koṇṭa <persName>kōpparakēcaripan<choice><orig>makki</orig><reg>markku</reg></choice></persName> yāṇṭu mu<supplied reason="lost">ppattu</supplied>       	
-      			<lb n="2" /> Eṭṭ<surplus>ā</surplus>Āvatu </p> <p> kuṉṟakūṟṟattu Avanika<choice><orig>n</orig><reg>ṉ</reg></choice>taṟpa-<hi rend="grantha">Īśva<supplied reason="omitted">ra</supplied>gṛha</hi>ttu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+      			<lb n="2"/> Eṭṭ<surplus>ā</surplus>Āvatu </p> <p> kuṉṟakūṟṟattu Avanika<choice><orig>n</orig><reg>ṉ</reg></choice>taṟpa-<hi rend="grantha">Īśva<supplied reason="omitted">ra</supplied>gṛha</hi>ttu <gap reason="lost" quantity="4" unit="character" precision="low"/>
       			<lb n="3" break="no"/>ṭai Ittaḷi vaṇṇa
       		</p>
       		

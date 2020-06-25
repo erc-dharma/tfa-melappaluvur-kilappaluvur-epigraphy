@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Rājakesarin, year 10</title>
+				<title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Rājakesarin,
+					year 10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:vagi">
@@ -24,8 +25,8 @@
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA <note>This project has received funding from the European Research
-					Council (ERC) under the European Union's Horizon 2020 research and
-					innovation programme (grant agreement no 809994).</note>
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
 				<idno type="filename">tfaMelappaluvurKilappaluvur005</idno>
@@ -48,11 +49,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -97,7 +98,7 @@
         <div type="bibliography">
 	
 <p>
-First reported in ARIE 1923-1924/C/1924/365 <ptr target="bib:ARIE1923-1924"/>; edited for the first time in SII 13, no. 208 <ptr target="bib:SrinivasaRao1952_01"/>; present edition by Valérie Gillet from autopsy and photographs.
+First reported in ARIE 1923-1924/C/1924/365 <ptr target="bib:ARIE1923-1924_01"/>; edited for the first time in SII 13, no. 208 <ptr target="bib:SrinivasaRao1952_01"/>; present edition by Valérie Gillet from autopsy and photographs.
 </p>
   	
         	<listBibl type="primary">
@@ -111,7 +112,7 @@ First reported in ARIE 1923-1924/C/1924/365 <ptr target="bib:ARIE1923-1924"/>; e
         	<listBibl type="secondary">
         		
         		<bibl>
-        			<ptr target="bib:ARIE1923-1924"/>
+        			<ptr target="bib:ARIE1923-1924_01"/>
         			<citedRange unit="page">73</citedRange>
         			<citedRange unit="appendix">C/1924</citedRange>
         			<citedRange unit="item">365</citedRange>
