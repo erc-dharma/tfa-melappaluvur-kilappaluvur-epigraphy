@@ -126,13 +126,13 @@
            <div type="bibliography">
            	
 <p>
-First reported in ARIE 1923-1924/C/1924/368 <ptr target="bib:ARIE1923-1924_01"/>; edited here for the first time by Valérie Gillet from autopsy and photographs.
+First reported in ARIE 1923-1924/C/1924/368 <ptr target="bib:ARIE1923-1924"/>; edited here for the first time by Valérie Gillet from autopsy and photographs.
 </p>
 
            	
               <listBibl type="secondary">
               	<bibl>
-        			<ptr target="bib:ARIE1923-1924_01"/>
+        			<ptr target="bib:ARIE1923-1924"/>
         			<citedRange unit="page">73</citedRange>
         			<citedRange unit="appendix">C/1924</citedRange>
         			<citedRange unit="item">368</citedRange>

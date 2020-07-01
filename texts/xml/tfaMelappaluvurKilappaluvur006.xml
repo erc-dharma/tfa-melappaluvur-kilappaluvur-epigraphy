@@ -113,11 +113,11 @@
         <div type="bibliography">
 	
 <p>
-First reported in ARIE 1923-1924/C/1924/367 <ptr target="bib:ARIE1923-1924_01"/>; edited for the first time in SII 13, no. 215 <ptr target="bib:SrinivasaRao1952_01"/>; present edition by Valérie Gillet from autopsy and photographs.
+First reported in ARIE 1923-1924/C/1924/367 <ptr target="bib:ARIE1923-1924"/>; edited for the first time in SII 13, no. 215 <ptr target="bib:SrinivasaRao1952_01"/>; present edition by Valérie Gillet from autopsy and photographs.
 </p>
         	
 <p>
-First reported in <bibl><ptr target="bib:ARIE1923-1924_01"/></bibl> (ARIE 1923-1924/C/1924/367); edited for the first time by <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13, no. 215); re-edited here by Valérie Gillet from autopsy and photographs.
+First reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE 1923-1924/C/1924/367); edited for the first time by <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13, no. 215); re-edited here by Valérie Gillet from autopsy and photographs.
 </p>
   	
         	<listBibl type="primary">
@@ -131,7 +131,7 @@ First reported in <bibl><ptr target="bib:ARIE1923-1924_01"/></bibl> (ARIE 1923-1
         	<listBibl type="secondary">
         		
         		<bibl>
-        			<ptr target="bib:ARIE1923-1924_01"/>
+        			<ptr target="bib:ARIE1923-1924"/>
         			<citedRange unit="page">73</citedRange>
         			<citedRange unit="appendix">C/1924</citedRange>
         			<citedRange unit="item">367</citedRange>
