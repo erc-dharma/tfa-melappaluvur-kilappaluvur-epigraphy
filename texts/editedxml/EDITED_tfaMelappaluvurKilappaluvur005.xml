@@ -104,7 +104,7 @@
       			<persName><roleName type="king" subtype="order-giver">paḻuvēṭṭaraiyar
       			<lb n="2"/>maṟavaṉ kaṇṭaṉār</roleName></persName> Avanika<hi rend="grantha">ndha<supplied reason="omitted">r</supplied>vva</hi>purattu maṉṟupāṭu Eppērpaṭṭatu paṇ
       			<lb n="3" break="no"/>ṭai nan=tipuramaṟṟ’ ātiyē koḷka Eṉṟ’ aruḷicceyya kalliṉ mēl ve
-      			<lb n="4" break="no"/>ṭṭikkoḷḷap peṟṟār <roleName type="merchants" subtype="order-receiver">Avanika<hi rend="grantha">ndha<supplied reason="omitted">r</supplied>vva</hi>purattu nakarattār</roleName> <g type="finalGomutra"/><!--Update!-->
+      			<lb n="4" break="no"/>ṭṭikkoḷḷap peṟṟār <roleName type="merchant" subtype="order-receiver">Avanika<hi rend="grantha">ndha<supplied reason="omitted">r</supplied>vva</hi>purattu nakarattār</roleName> <g type="finalGomutra"/><!--Update!-->
       			</p>
       	</div>
       	
@@ -112,7 +112,7 @@
                               	
          </div>
       	
-         <div type="translation">
+         <div type="translation" resp="part:vagi">
          </div>
       	
          <div type="commentary">
