@@ -98,33 +98,47 @@
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
       		</p>
       		<p>
-      			ko ˚irājakecaripanmakku yā[ṇṭu] // 12 ˚āvati [n]etirāmāṇṭu
+      			kō Irā<hi rend="grantha">ja</hi>kēcaripa<hi rend="grantha">nma</hi>kku yā<unclear>ṇṭu</unclear> <num value="12"><g type="numeral">10</g><g type="numeral">2</g></num> Āvati<unclear>n</unclear> etirāmāṇṭu
       		</p>
       		<p>
-      			kuṉṟakkūṟṟattu deva[dā]
-      			<lb n="2" break="no"/>ṉam ˚avaṉikandhavva ˚īśvaragṛhattu devaka // [n]mikaḷomum patipātamulattomum paṭṭuṭaiyomum
-      			<lb n="3"/>camaiyattomu maṟṟum [˚i]ttaḷi paṅkuṭaiyom ˚epper // paṭṭomum ˚aṭikaḷ paḻuveṭṭaraiyar maṟavaṉ
-      			<lb n="4"/>kaṇṭanār ˚aruḷice[yyu]m poykaikkuṟuviṭattu ve // ṭṭa[kku]ṭaiyāṉ kovintaṉ kaṭampaṉukku kuṭinikkā deva
-      			<lb n="5"/>tāṉamāka cantrātittavaṟ kāṇice[yti] kuṭutta n[i]lam ˚ittaḷi teva // dānam viṟaikkūṟṟattu pacuṅkuḷattūr ve[ṭṭappeṟu][[ṉap]]
-      			<lb n="6"/>paṭa nilam ˚irupattunāl veliyālum veli nūṟṟirupa[t]iṉ [ka]lam // [[kāṇikkaṭaṉāka vaṉta]] nellu ˚i[ruṇṭāyirattu eṇṇūṟṟu ˚e]
-      			<lb n="7" break="no"/>ṇpa[ti]ṉ kalamum tiruvaiyāṟaṉoṭokku marakkālāl [kār] pātiy[u]m // picāṉam pātiyum vāṭākkaṭaṉ ˚eṅkaḷ taraviṉāley pacuṅkuḷattūri
-      			<lb n="8" break="no"/>ley [˚aḷa]ppa[t]ākavum ivvūr viḷakkeṇṇaic cey muṉpu kalmel ve // [[ṭṭi]][ṉa] nikki ˚uṇṇilam o[ḻi]viṉṟi vaḷaiyil cuṟṟu ˚uṭumpoṭi y[ā]mai tava
-      			<lb n="9" break="no"/>ḻnta [ni]lamuṟṟum kārāṇkiḻamai ˚uṭpaṭa [ciṟṟiṟai] ciṟupaṅkum ˚ivaṉe // y peṟuvatākavum avurk kaḻañcum perumāḷ koḷḷil kovintaṉ kaṭampaṉe
-      			<lb n="10" break="no"/>X X X X tākavuvu kulaiyuṅ kurampuñ ceyvatākavu[m] X X p[e]rppaṭṭatum [˚i]tt[ā] // kavum ˚iṟukka va[nta] X ṉa/ḷa tu ˚eṅkaḷaic collātey iṟuttuk ka[ṭa]mayile
-      			<lb n="11" break="no"/>y vaiccuk koḷḷap peṟuvatākavum cāsaṉam peṟṟuṭai[yā]r peṟuvatellā // m peṟuvatākavum ˚ipparicu cantrātittavat kuṭinikkā devadāṉa[mākak kā]ṇi
-      		   <lb n="12"/>ceytu kuṭuttom veṭṭakkuṭaiyāṉ kovintaṉ kaṭampaṉu[k]ku devakanmikaḷomu // m patipātamulatto[mu]m paṭṭuṭaiyomum camaiyattomu maṟṟum ˚ittaḷi paṅku[ṭ]ai
-      			<lb n="13" break="no"/>[yo]mum ˚iva[kaḷ] paṇi[kka] ˚eḻ[u]tiṉeṉ ivuvūr madhyastaṉ ˚eṟa[ṉ] maḻavāṭiyāṉa bra // hmapṛyane[ṉ] ˚ivai [˚eṉ] ˚eḻuttu ||
+      			<placeName>kuṉṟakkūṟṟattu <hi rend="grantha">de</hi>va<hi rend="grantha"><unclear>dā</unclear></hi>
+      		   <lb n="2" break="no"/>ṉam Avaṉika<hi rend="grantha">ndhavva Īśvaragṛha</hi>ttu</placeName> <roleName type="unknown" subtype="donor"><hi rend="grantha">de</hi>vaka<hi rend="grantha"><unclear>n</unclear>mi</hi>kaḷōmum patipātamulattōmum paṭṭuṭaiyōmum
+      			<lb n="3"/>camaiyattōmu maṟṟum <unclear>I</unclear>ttaḷi paṅkuṭaiyōm</roleName> Eppērpaṭṭōmum <persName><roleName type="king" subtype="orderIssuer">Aṭikaḷ paḻuvēṭṭaraiyar maṟavaṉ
+      			<lb n="4"/>kaṇṭanār</roleName></persName> Aruḷice<unclear>yyu</unclear>m <persName><roleName type="unknown" subtype="donee"><placeName>poykaikkuṟuviṭattu</placeName> veṭṭa<unclear>kku</unclear>ṭaiyāṉ kōvi<hi rend="grantha">nta</hi>ṉ kaṭampaṉukku</roleName></persName> kuṭi n<choice><sic>i</sic><corr>ī</corr></choice>kkā deva
+      			<lb n="5"/>tāṉam āka <hi rend="grantha">cantrā</hi>tittavaṟ kāṇice<unclear>yti</unclear> kuṭutta n<unclear>i</unclear>lam Ittaḷi tēva<hi rend="grantha">dā</hi>nam viṟaikkūṟṟattu pacuṅkuḷattūr ve<unclear>ṭṭappeṟu</unclear><supplied reason="lost">ṉap</supplied>
+      			<lb n="6"/>paṭa nilam Irupattunāl vēliyālum vēli nūṟṟirupa<unclear>t</unclear>iṉ <unclear>ka</unclear>lam <supplied reason="lost">kāṇikkaṭaṉāka vaṉta</supplied> nellu I<unclear>ruṇṭ’ āyirattu eṇṇūṟṟu E</unclear>
+      			<lb n="7" break="no"/>ṇpa<unclear>ti</unclear>ṉ kalamum tiruvaiyāṟaṉōṭokku marakkālāl <unclear>kār</unclear> pātiy<unclear>u</unclear>m picāṉam pātiyum vāṭākkaṭaṉ Eṅkaḷ taraviṉālēy pacuṅkuḷattūri
+      			<lb n="8" break="no"/>ley <unclear>Aḷa</unclear>ppa<unclear>t</unclear>ākavum ivvūr viḷakk’ eṇṇaic cey muṉpu kalmēl ve<supplied reason="lost">ṭṭi</supplied><unclear>ṉa</unclear> n<choice><sic>i</sic><corr>ī</corr></choice>kki Uṇṇilam o<unclear>ḻi</unclear>viṉṟi vaḷaiyil cuṟṟu Uṭump’ ōṭi y<unclear>ā</unclear>mai tava
+      			<lb n="9" break="no"/>ḻnta <unclear>ni</unclear>lamuṟṟum kārāṇkiḻamai Uṭpaṭa <unclear>ciṟṟiṟai</unclear> ciṟupaṅkum Ivaṉēy peṟuvatākavum avurk kaḻañcum perumāḷ koḷḷil kōvintaṉ kaṭampaṉē
+      			<lb n="10" break="no"/><supplied reason="lost">ṉ</supplied><gap reason="lost" quantity="3" unit="character" precision="low"/>tākavuvu kulaiyuṅ kurampuñ ceyvatākavu<unclear>m</unclear><gap reason="lost" quantity="3" unit="character" precision="low"/>p<unclear>ē</unclear>rppaṭṭatum <unclear>I</unclear>tt<unclear>ā</unclear>kavum Iṟukka va<unclear>nta</unclear><gap reason="lost" quantity="1" unit="character"/> <choice><unclear>ṉa</unclear><unclear>ḷa</unclear></choice>tu Eṅkaḷaic collātēy iṟuttuk ka<unclear>ṭa</unclear>mayilē
+      			<lb n="11" break="no"/>y vaiccuk koḷḷap peṟuvatākavum <hi rend="grantha">cāsa</hi>ṉam peṟṟuṭai<unclear>yā</unclear>r peṟuvatellām peṟuvatākavum Ipparicu <hi rend="grantha">cantrā</hi>tittavat kuṭi n<choice><sic>i</sic><corr>ī</corr></choice>kkā <hi rend="grantha">devadā</hi>ṉa<unclear>m ākak kā</unclear>ṇi
+      		   <lb n="12"/>ceytu kuṭuttōm veṭṭakkuṭaiyāṉ kōvintaṉ kaṭampaṉu<unclear>k</unclear>ku <hi rend="grantha">de</hi>vaka<hi rend="grantha">nmi</hi>kaḷōmum patipātamulattō<unclear>mu</unclear>m paṭṭuṭaiyōmum camaiyattōmu maṟṟum Ittaḷi paṅku<unclear>ṭ</unclear>ai
+      			<lb n="13" break="no"/><unclear>yō</unclear>mum Iva<unclear>kaḷ</unclear> paṇi<unclear>kka</unclear> Eḻ<unclear>u</unclear>tiṉēṉ iv<surplus>u</surplus>vūr <persName><roleName type="officer"><hi rend="grantha">madhyasta</hi>ṉ Eṟa<unclear>ṉ</unclear> maḻavāṭiyāṉa <hi rend="grantha">brahmapṛya</hi>nē<unclear>ṉ</unclear></roleName></persName> Ivai <unclear>Eṉ</unclear> Eḻuttu <g type="gomutra">.</g>
       			</p>
       	</div>      	
       	
          <div type="apparatus">
                               	<listApp>
          		
-         		<app loc="8">
-         			<lem><supplied reason="lost">kaḻaniyaḷ</supplied></lem>
-         			<rdg source="bib:SrinivasaRao1952_01">kaḻaniyaḷ</rdg> 
+         		<app loc="5">
+         			<lem><supplied reason="lost">ṉap</supplied></lem>
+         			<rdg source="bib:SrinivasaRao1952_01">ṉap</rdg> 
          			<note>This part is no longer legible.</note>
          		</app>
+                              	   
+                              	      <app loc="6">
+         			<lem><supplied reason="lost">kāṇikkaṭaṉāka vaṉta</supplied></lem>
+         			<rdg source="bib:SrinivasaRao1952_01">kāṇikkaṭaṉāka vaṉta</rdg> 
+         			<note>This part is no longer legible.</note>
+         		</app>
+                              	   
+                              	   <app loc="8">
+         			<lem>ve<supplied reason="lost">ṭṭi</supplied><unclear>ṉa</unclear></lem>
+         			<rdg source="bib:SrinivasaRao1952_01">veṭṭiṉa</rdg> 
+         			<note>This part is no longer legible.</note>
+         		</app>
+                              	
+                              	   
                               		</listApp>
          </div>
       	
@@ -134,23 +148,23 @@
          <div type="commentary">
          	<p n="1">Rājakesarin is probably Sundaracōḻa, during whose reign the Paḻuvēṭṭaraiyar Maṟavaṉ Kaṇṭaṉār was ruling over Paḻuvūr.     		
          		</p> 
+            <p n="1">The inscription is engraved over two consecutive wall sections.     		
+         		</p>
+            <p n="10">This line was forgotten in the edition of South Indian Inscriptions.     		
+         		</p>
          	</div>
       	
         <div type="bibliography">
 	
 <p>
-First reported in ARIE 1923-1924/C/1924/371 <ptr target="bib:ARIE1923-1924"/>; edited for the first time in SII 13, no. 227 <ptr target="bib:SrinivasaRao1952_01"/>; present edition by Valérie Gillet from autopsy and photographs.
+First reported in ARIE 1923-1924/C/1924/370 <ptr target="bib:ARIE1923-1924"/>; edited for the first time in SII 13, no. 236 <ptr target="bib:SrinivasaRao1952_01"/>; present edition by Valérie Gillet from autopsy and photographs.
 </p>
-        	
-<!--<p>
-First reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE 1923-1924/C/1924/367); edited for the first time by <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13, no. 215); re-edited here by Valérie Gillet from autopsy and photographs.
-</p>why twice ? I copied from the previous inscription but I don't understand--> 
   	
-        	<listBibl type="primary">
+<listBibl type="primary">
         		<bibl n="SR">
-<!--        			<ptr target="bib:SrinivasaRao1952_01"/>-->
-<!--        			<citedRange unit="page">122-123</citedRange>-->
-<!--        			<citedRange unit="item">227</citedRange>-->
+        			<ptr target="bib:SrinivasaRao1952_01"/>
+        			<citedRange unit="page">126-127</citedRange>
+        			<citedRange unit="item">236</citedRange>
         		</bibl>
         	</listBibl>
         	
