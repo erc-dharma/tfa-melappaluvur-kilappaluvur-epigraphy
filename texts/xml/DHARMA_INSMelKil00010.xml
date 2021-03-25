@@ -98,17 +98,17 @@
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
       		</p>
       		<p>
-      			kovirāca // [[kesaripan]] // makku yānṭu <num value="6"><g type="numeral">6</g></num>˚āvatu
+      			kōvirāca<supplied reason="lost">ke<hi rend="grantha">sa</hi>ripan</supplied>akku yānṭu <num value="6"><g type="numeral">6</g></num>Āvatu
       		</p>
       		<p>
       			kunṟakku
-      		   <lb n="2" break="no"/>ṟṟattu devatānam ˚ava // nikantaṟ // ppa ˚īśvaragṛhattu tenvāyi śrī
-      			<lb n="3"/>koyil mahādevaṟku ˚it[t]a // ḷi teva // ṉār makaḷār piḷḷai ceramāṉār [d]e
-      			<lb n="4"/>viyār ṉakkaṉ ˚akkāra naṅ // kaiyār ca // ntrādittavaṟ ˚iravum pakalum ˚eri [vai]
-      			<lb n="5"/>tta ṉondāviḷakku ˚onṟiṉuk // ku paṭi ˚uḻa // kkiṉāl nicatam ˚uḻakku ṉeyy eriya
-      			<lb n="6"/>vaitta poṉ 12 m paṉṉi // ru kaḻañcu ˚i // vviḷakkeriya vaitta [ti]rāviḷakko
-      			<lb n="7" break="no"/>[[ṉṟu]] ṉirai 215 ˚iruppunā // rāyam ˚u // [ḷ]paṭa ce[ruvi]ṭaiyāl 215 itu pa
-      			<lb n="8" break="no"/>nmāyeśvara rakṣai
+      		   <lb n="2" break="no"/>ṟṟattu <hi rend="grantha">de</hi>vatānam Avanikantaṟppa <hi rend="grantha">Īśvaragṛha</hi>ttu tenvāyi<supplied reason="omitted">l</supplied> <hi rend="grantha">śrī</hi>
+      			<lb n="3"/>kōyil <hi rend="grantha">mahādeva</hi>ṟku It<unclear>t</unclear>aḷi tēvaṉār makaḷār piḷḷai cēramāṉār <hi rend="grantha"><unclear>d</unclear></hi>e
+      			<lb n="4" break="no"/>viyār ṉakkaṉ Akkāra naṅkaiyār can<hi rend="grantha">trādi</hi>ttavaṟ Iravum pakalum Eri <unclear>vai</unclear>
+      			<lb n="5" break="no"/>tta ṉo<hi rend="grantha">ndā</hi> viḷakku Onṟiṉukku paṭi Uḻakkiṉāl nicatam Uḻakku ṉeyy eriya
+      			<lb n="6"/>vaitta poṉ <num value="12"><g type="numeral">10</g><g type="numeral">2</g></num>m paṉṉiru kaḻañcu Ivviḷakk' eriya vaitta <unclear>ti</unclear>rā viḷakk' o
+      			<lb n="7" break="no"/><supplied reason="lost">ṉṟu</supplied> ṉirai <num value="215"><g type="numeral">2</g><g type="numeral">ḷa</g><g type="numeral">ka</g><g type="numeral">ru</g></num> Iruppu nārāyam U<unclear>ḷ</unclear>paṭa ce<unclear>ruvi</unclear>ṭaiyāl <num value="215"><g type="numeral">2</g><g type="numeral">100</g><g type="numeral">10</g><g type="numeral">5</g></num> Itu pa
+      			<lb n="8" break="no"/><hi rend="grantha">nmā</hi>ye<hi rend="grantha">śvara rakṣai</hi>
       			
       			</p>
       	</div>      	
@@ -116,23 +116,18 @@
          <div type="apparatus">
                               	<listApp>
          		
-         		<app loc="5">
-         			<lem><supplied reason="lost">ṉap</supplied></lem>
-         			<rdg source="bib:SrinivasaRao1952_01">ṉap</rdg> 
+         		<app loc="1">
+         			<lem><supplied reason="lost">ke<hi rend="grantha">sa</hi>ripan</supplied></lem>
+         			<rdg source="bib:SrinivasaRao1952_01">kesaripan</rdg> 
          			<note>This part is no longer legible.</note>
          		</app>
                               	   
-                              	      <app loc="6">
-         			<lem><supplied reason="lost">kāṇikkaṭaṉāka vaṉta</supplied></lem>
-         			<rdg source="bib:SrinivasaRao1952_01">kāṇikkaṭaṉāka vaṉta</rdg> 
+                              	      <app loc="7">
+         			<lem><supplied reason="lost">ṉṟu</supplied></lem>
+         			<rdg source="bib:SrinivasaRao1952_01">ṉṟu</rdg> 
          			<note>This part is no longer legible.</note>
          		</app>
-                              	   
-                              	   <app loc="8">
-         			<lem>ve<supplied reason="lost">ṭṭi</supplied><unclear>ṉa</unclear></lem>
-         			<rdg source="bib:SrinivasaRao1952_01">veṭṭiṉa</rdg> 
-         			<note>This part is no longer legible.</note>
-         		</app>
+                              	
                               	
                               	   
                               		</listApp>
