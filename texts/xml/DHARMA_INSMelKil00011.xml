@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Rājendracōḻa I,
-					year 15</title>
+            <title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Rājendracōḻa I, year 15</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:vagi">
@@ -98,7 +97,7 @@
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
       		</p>
       		<p>
-      			<lb n="2"/>meykkīrtti
+      		<lb n="2"/>meykkīrtti
       		   <lb n="3"/>meykkīrtti
       		   <lb n="4"/>meykkīrtti
       		   <lb n="5"/>meykkīrtti
