@@ -151,7 +151,7 @@ This edition by Valérie Gillet.
         		</bibl>
         		
         		<bibl n="Avanam"><!--update!-->
-        			<ptr target="bib:Avanam1991_01"/>
+        			<ptr target="bib:Avanam"/>
         			<citedRange unit="volume">1</citedRange>
         			<citedRange unit="page">23</citedRange>
         			<citedRange unit="item">18</citedRange>
