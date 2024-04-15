@@ -92,11 +92,11 @@
    <text xml:space="preserve">
       <body>      	             	      	
       	
-      	<div type="edition" xml:lang="tam-Latn">
-      		
-      		<p>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-      		</p>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+        		
+        		<ab xml:lang="tam-Latn" rendition="class:38768 maturity:83215">
+      			<lb n="1"/>svasti śrī
+      		</ab>
       		<p>
       			<persName>ko Irā<hi rend="grantha">ja</hi>kē<unclear>ca</unclear>
       			<lb n="2" break="no"/>ripaṉmaṟku</persName> yāṇṭu <num value="12">102</num>Āvatu

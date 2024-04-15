@@ -93,9 +93,12 @@
    <text xml:space="preserve">
       <body>
       	             	
-      	<div type="edition" xml:lang="tam-Latn">
-         	<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
-      		<p><persName>matirai koṇṭa <persName>kōpparakēcaripaṉma<choice><orig>rki</orig><reg>rkku</reg></choice></persName></persName> yāṇṭu
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+   
+   <ab xml:lang="tam-Latn" rendition="class:38768 maturity:83215">
+      <lb n="1"/>svasti śrī
+   </ab>
+   <p><persName>matirai koṇṭa <persName>kōpparakēcaripaṉma<choice><orig>rki</orig><reg>rkku</reg></choice></persName></persName> yāṇṭu
 <lb n="2"/><num>3 10 6</num>vatu</p>
 <p>kuṉṟakūṟṟattu <hi rend="grantha">de</hi>vatā<choice><orig>n</orig><reg>ṉ</reg></choice>am Ava<choice><orig>n</orig><reg>ṉ</reg></choice>ika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu
 <lb n="3"/>ma<hi rend="grantha">h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>varkku <persName><placeName>kurukāṭi</placeName>kiḻāṉ Ūraṉ piṭāraṉ</persName> Ittaḷi <hi rend="grantha">de</hi>vatāṉam <placeName>pa
