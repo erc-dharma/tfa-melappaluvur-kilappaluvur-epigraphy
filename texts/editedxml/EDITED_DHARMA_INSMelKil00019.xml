@@ -96,12 +96,13 @@
 		<body>
             
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">  
-		
-  <div type="textpart" subtype="zone" n="A">
-    <ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-      <lb n="1"/>svasti śrī
-    </ab>
-    <p>
+
+  <ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+    <milestone n="A" type="pagelike" unit="zone"/>
+    <lb n="1"/>svasti śrī
+  </ab>
+  
+  <p>
       <persName>kō-p-parakēcari-paṉmaṟkku</persName> yā
       <lb n="2" break="no"/>ṇṭu <num value="15"><g type="numeral">10</g> 5</num>-Āvatu
     </p>
@@ -127,9 +128,9 @@
       <lb n="21" break="no"/><orig>y</orig>ṅ kaḻañc’ ākki nāṭṭōm tarañ ceyum po
       <lb n="22" break="no"/>ṉ Irupattai<orig>y</orig>ṅ kaḻañcum allatu Ēṟat ta
     </p>
-  </div>
-  <div type="textpart" subtype="zone" n="B">
+    
     <p>
+      <milestone n="B" type="pagelike" unit="zone"/>
       <lb n="23" break="no"/>rañ ceyyātat’ ākavum I
       <lb n="24" break="no"/>pparicu <persName><placeName>karuppūr</placeName>-uṭaiya vē
         <lb n="25" break="no"/>ṅkaṭavaṉ Araṅkaṉ-āṉa
@@ -142,19 +143,17 @@
       <lb n="32" break="no"/>ṭōm <unclear>ci</unclear>ṟṟiṟaiyum Aṇa
       <lb n="33" break="no"/><gap reason="illegible" quantity="1" unit="line"/>
     </p>
-  </div>
-  
-  <div type="textpart" subtype="zone" n="A">
+      
     <p>
+      <milestone n="C" type="pagelike" unit="zone"/>
       <lb n="34"/>Ivai <persName><roleName type="king">paḻuvēṭṭaraiyaṉ <unclear>kaṇṭa</unclear>ṉ maṟa
         <lb n="35" break="no"/>vaṉ</roleName></persName>ēṉ Ivai E<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>eḻuttu <gap reason="illegible" quantity="1" unit="character"/> Ipparicu I
       <lb n="36" break="no"/>caintō<persName><placeName>marutūr</placeName>-uṭaiya kāṭaṉ mā<unclear>ṟu</unclear>yaṉē
         <lb n="37" break="no"/>ṉ</persName> Ivaiy e<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>eḻuttu<space unit="character" quantity="3"/>
     </p>
-  </div>
-
-  <div type="textpart" subtype="zone" n="B">
+  
     <p>
+      <milestone n="D" type="pagelike" unit="zone"/>
       <lb n="38"/><gap reason="lost" quantity="1" unit="line"/>
       <lb n="39"/><choice><unclear>ṉa</unclear><unclear>ḷa</unclear></choice>ṭṭār <unclear>A</unclear>ṟaiyō <gap reason="illegible" quantity="1" unit="character"/> la <gap reason="illegible" quantity="2" unit="character"/>
       <lb n="40" break="no"/>l eḻutt’ eḻutaṉāraiy eḻutiya
@@ -181,13 +180,12 @@
         <lb n="61" break="no"/><gap reason="illegible" quantity="1" unit="character"/></persName> Eḻuttu <unclear><g type="pc">.</g></unclear> <persName><placeName>kuḷattūr</placeName>-uṭaiya
           <lb n="62"/>Aṉaiyaṉamutaṉ</persName> eḻuttu
       <lb n="63"/><persName><placeName>varākupāṭi</placeName>-Uṭaiya māṉtaṉp
-        <lb n="64" break="no"/>peraiyaṉ</persName> eḻuttu <space unit="character" quantity="4"/>
+        <lb n="64" break="no"/>peraiyaṉ</persName> eḻuttu <space unit="character" quantity="4"/><!--weird-->
       
     </p>
-  </div>
   
-  <div type="textpart" subtype="zone" n="C">
     <p>
+      <milestone n="E" type="pagelike" unit="zone"/>
       <lb n="65"/><persName><placeName><unclear>caṅ</unclear>kaṇamūr</placeName>-uṭaiya kāra<gap reason="illegible" quantity="2" unit="character"/>mu
         <lb n="66" break="no"/>kaṉ</persName> Eḻuttu <persName><gap reason="illegible" quantity="3" unit="character"/>-Uṭaiya
           <lb n="67"/>vaṭukaṉ pūti</persName>y eḻuttu <g type="gomutraFinal">.</g> <persName><placeName>timmi</placeName>
@@ -222,7 +220,6 @@
       <lb n="96" break="no"/>ttu <g type="ddanda">.</g>
       
     </p>
-  </div>
 </div>
             
 	<div type="apparatus">
@@ -232,18 +229,15 @@
             </div>
             
 <div type="commentary">
-               <p>The epigraph is inscribed on three wall sections: 2 on the eastern side of the main niche of the southern façade (A and B) and on southernmost wall section of the eastern façade (C). Moreover, it is not inscribed continuously: from lines 1 to 22, inscribed from the middle of wall section A; from lines 23 to 33, inscribed on the bottom of wall section B; lines 34 to 37, inscribed on top of wall section A; lines 38 to 64, inscribed on the upper part of wall section B; lines 65 to 96, inscribed on the wall section C. From the line 34, this is a series of signatures. The editions in SII do not consider the signatures after the line 37. Only the revised edition in Āvaṇam includes them. </p>
+               <p>The epigraph is inscribed on 3 wall sections: A and B on the eastern side of the main niche of the southern façade; C on southernmost wall section of the eastern façade. Moreover, it is not inscribed continuously: from lines 1 to 22, inscribed from the middle of wall section A; from lines 23 to 33, inscribed on the bottom of wall section B; lines 34 to 37, inscribed on top of wall section A; lines 38 to 64, inscribed on the upper part of wall section B; lines 65 to 96, inscribed on the wall section C. From the line 34, this is a series of signatures.<!--update this to 5 zones: A, B, C, D. E.--> The editions in SII do not consider the signatures after the line 37. Only the revised edition in <foreign>Āvaṇam</foreign><!--update--> includes them.</p>
             </div>
 			
 <div type="bibliography">
 	
-<p>
-First reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE 1923-1924/C/1924/356).
-First edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19, no. 378).
-Edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32, part 2, no. 166).
-Reedited in Avanam 3, no. 2
-This edition by Valérie Gillet (2020), based on autopsy and photographs.
-</p>
+  <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE 1923-1924/C/1924/356).</p>
+  <p>Edited (36 lines) in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.378), in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.166).</p>
+  <p>Edited (93 lines), in <bibl><ptr target="bib:Tiyakaracan1993_01"/></bibl> (Āvaṇam 3.2).</p>
+  <p>This edition by Valérie Gillet (2020), based on autopsy and photographs.</p>
   <listBibl type="primary">
     
     <bibl n="SR">
@@ -252,18 +246,15 @@ This edition by Valérie Gillet (2020), based on autopsy and photographs.
       <citedRange unit="item">378</citedRange>
     </bibl>
     
-    <bibl n="SS">
+    <bibl n="S">
       <ptr target="bib:Swaminathan2012_01"/>
       <citedRange unit="part">II</citedRange>
       <citedRange unit="page">292-294</citedRange>
       <citedRange unit="item">166</citedRange>
     </bibl>
     
-    <bibl n="Āvaṇam 3.2">
-      <ptr target="bib:Avanam01_1993"/>
-      <citedRange unit="volume">3</citedRange>
-      <citedRange unit="page">8-10</citedRange>
-      <citedRange unit="item">2</citedRange>
+    <bibl n="T">
+      <ptr target="bib:Tiyakaracan1993_01"/>
     </bibl>
     
   </listBibl>
