@@ -152,9 +152,17 @@
             
 <div type="bibliography">
                 
-    <p>Reported <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE 1923-1924/C/1924/368).</p>
-    <p>This online edition by Valérie Gillet from autopsy and photographs.</p>
+    <p>Reported <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE 1923-1924/C/1924/368).</p>    
+    <p>Edited in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs.</p>
+    <p>This digital edition by Valérie Gillet.</p>
     
+    <listBibl type="primary">
+        <bibl>
+            <ptr target="bib:Gillet2024_01"/>
+            <citedRange unit="page">TBC</citedRange>
+            <citedRange unit="item">TBC</citedRange>
+        </bibl>
+    </listBibl>
     
     <listBibl type="secondary">
         <bibl>
