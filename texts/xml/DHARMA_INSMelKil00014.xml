@@ -107,7 +107,7 @@
                 </p>
                 <p>
                     Iv·viḷak·ku
-                    <lb n="8"/><hi rend="grantha">rakṣi</hi>p·pār Amanikan=ta<hi rend="grantha">pa<surplus>·</surplus>pu</hi>rat·tu nakarat<unclear>·</unclear>tār aṭiyeṉ<unclear>·</unclear> ṟalai mēlaṉa <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g><g type="pc">.</g>
+                    <lb n="8"/><hi rend="grantha">rakṣi</hi>p·pār Amanikan=ta<hi rend="grantha"><reg>r</reg>pa<surplus>·</surplus>pura</hi>t·tu nakarat<unclear>·</unclear>tār aṭiyeṉ<unclear>·</unclear> ṟalai mēlaṉa <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g><g type="pc">.</g>
                     
                 </p>
                 
@@ -124,6 +124,12 @@
                     <app loc="5">
                         <lem source="bib:SrinivasaRao1952_01"><hi rend="grantha">bhūmi</hi>yaik</lem>
                         <rdg source="bib:Gillet2024_01"><hi rend="grantha">bhumi</hi>yaik</rdg>
+                    </app>
+                    
+                    <app loc="8">
+                        <lem>Amanikan=ta<hi rend="grantha"><reg>r</reg>pa<surplus>·</surplus>pura</hi>t·tu</lem>
+                        <rdg source="bib:SrinivasaRao1952_01">Amani<hi rend="grantha">ka</hi>n=ta<hi rend="grantha">rvapura</hi>ttu</rdg>
+                        <rdg source="bib:Gillet2024_01">Amanikanta<hi rend="grantha">papura</hi>ttu</rdg>
                     </app>
                     
                 </listApp>
@@ -153,7 +159,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/360).</p>    
-                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13.298). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/sf268f40r">by Valérie Gillet, 2016-2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (<ref target="DHARMA_INSSIIv13p0i0298.xml">SII 13.298</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/sf268f40r">by Valérie Gillet, 2016-2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
