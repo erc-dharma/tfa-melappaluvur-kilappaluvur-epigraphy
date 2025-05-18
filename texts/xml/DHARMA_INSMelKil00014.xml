@@ -48,7 +48,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>The <foreign>puḷḷi</foreign> is used. Also above duplicated consonant Grantha ligatures.</p>
+                            <p>The <foreign>puḷḷi</foreign> is used. Notable also above duplicated consonant Grantha ligatures.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -79,7 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2020-11-03" status="draft">Creation of the file</change>
+            <change who="part:emfr" when="2025-05-17" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -96,8 +96,8 @@
                 <p>
                     kuṉ·ṟak·kuṟ·ṟat·tu
                     <lb n="2"/>A<hi rend="grantha">ma</hi>ni<hi rend="grantha">ka</hi>n=ta<hi rend="grantha"><choice><unclear>v·v</unclear><unclear>p·p</unclear></choice></hi>-Ī<hi rend="grantha">śvarakara</hi>t·tu <hi rend="grantha">mahāde</hi>vaṟ·ku poy·kaik·kuṟuviṭat·tu vēṭ·ṭak·kuṭāṉ
-                    <lb n="3"/>vaṭukaṉ· matavaṉ· paḻuvēṭ·ṭaraiyaṉ· kumaraṉ· maṟavaṉ· <hi rend="grantha">prasāhā</hi>
-                    <lb n="4" break="no"/><hi rend="grantha">da</hi>ttaṉāl aruḷic·ceyya It·taḷi-t· tēvatāṉam· Ūkaṉ·kuṭi <hi rend="grantha">Apoha</hi>naṅ kiṭan·
+                    <lb n="3"/>vaṭukaṉ· m<choice><sic>a</sic><corr>ā</corr></choice>tavaṉ· paḻuvēṭ·ṭaraiyaṉ· kumaraṉ· maṟavaṉ· <hi rend="grantha">prasā<surplus>hā</surplus></hi>
+                    <lb n="4" break="no"/><hi rend="grantha">da</hi>tt<choice><sic>a</sic><corr>i</corr></choice>ṉāl aruḷic·ceyya It·taḷi-t· tēvatāṉam· Ūkaṉ·kuṭi <hi rend="grantha">Apoha</hi>naṅ kiṭan·
                     <lb n="5" break="no"/>ta <hi rend="grantha">bhūmi</hi>yaik· kal·li Iraṇ·ṭu pūvum· viḷaiya macak·ki-k kuṭut·ta n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Eṭṭu mā
                 </p>
                 <p>
@@ -159,7 +159,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/360).</p>    
-                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (<ref target="DHARMA_INSSIIv13p0i0298.xml">SII 13.298</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/sf268f40r">by Valérie Gillet, 2016-2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (<ref target="DHARMA_INSSIIv13p0i0298.xml">SII 13.298</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/sf268f40r">Valérie Gillet, 2016-2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
