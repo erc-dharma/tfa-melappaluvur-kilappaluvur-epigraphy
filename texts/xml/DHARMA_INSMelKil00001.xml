@@ -89,11 +89,12 @@
     <text xml:space="preserve">
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
+                
                 <p>
                     <persName>matirai koṇṭa <persName>kōpparakēcaripaṉma<choice><orig>rki</orig><reg>rkku</reg></choice></persName></persName> yā
                     <lb n="2" break="no"/>ṇṭu <num value="36">3 <num value="10"><g type="numeral">10</g></num> 6</num>Āvatu</p>
@@ -170,7 +171,7 @@ in the inscriptions of this temple complex as the Seven Paṭṭuṭaiyārs.</no
                 
     <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/368).</p>    
     <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/sf268f390">by Valérie Gillet, 2016-2018</ref>).</p>
-    <p>This digital edition by Valérie Gillet.</p>
+    <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
     
     <listBibl type="primary">
         <bibl>
