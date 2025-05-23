@@ -89,19 +89,20 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
+                
                 <p>
-                    <persName>ko Irā<hi rend="grantha">ja</hi>kē<unclear>ca</unclear>
-                        <lb n="2" break="no"/>ripaṉmaṟku</persName> yāṇṭu <num value="12"><num value="10"><g type="numeral">10</g></num> 2</num>Āvatu
+                    ko Irā<hi rend="grantha">ja</hi>kē<unclear>ca</unclear>
+                        <lb n="2" break="no"/>ripaṉmaṟku yāṇṭu <num value="12"><num value="10"><g type="numeral">10</g></num> 2</num>Āvatu
                 </p>
                 <p>
                     <placeName>kuṉṟakkūṟ
                         <lb n="3" break="no"/>ṟattu <hi rend="grantha">devadā</hi>ṉam Avanika<hi rend="grantha">ndha<unclear>r</unclear>vva Īśvaragṛha</hi>ttu <hi rend="grantha">mahā
                             <lb n="4" break="no"/>de</hi>varkku</placeName> Ivvūr mallan ātittaṉ kuḷam Apo<hi rend="grantha">ha</hi>naṅ
-                    <lb n="5"/>kiṭanta <hi rend="grantha">bhumi</hi>yai <persName>pa<choice><sic>ḻa</sic><corr>ḻu</corr></choice>vūrc caṅkarappāṭi mallaṉ caṅ
-                        <lb n="6" break="no"/>karaṉ</persName> Ikkuḷamuṅ kalli kaḻanayuṅ kalli vaitta viḷa
+                    <lb n="5"/>kiṭanta <hi rend="grantha">bhumi</hi>yai pa<choice><sic>ḻa</sic><corr>ḻu</corr></choice>vūrc caṅkarappāṭi mallaṉ caṅ
+                        <lb n="6" break="no"/>karaṉ Ikkuḷamuṅ kalli kaḻanayuṅ kalli vaitta viḷa
                     <lb n="7" break="no"/>kku Oṉṟu Ivviḷakku Oṉṟum Ikkuḷattiṉ poka<unclear>ṅ</unclear> <supplied reason="lost">A</supplied>
                     <lb n="8" break="no"/><unclear>ka</unclear>vēriyum puṟavēriyil <supplied reason="lost">kaḻaniyaḷ</supplied> pōkaṅ koṇṭu
                     <lb n="9"/>cantrātittavat Iravum paka<unclear>lum</unclear> Oru noṉtāviḷakku Eri

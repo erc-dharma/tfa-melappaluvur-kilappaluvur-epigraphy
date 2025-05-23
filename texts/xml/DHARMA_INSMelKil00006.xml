@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Rājakesarin, year 11</title>
+                <title>Mēlappaḻuvūr, Agastyeśvara temple, time of Rājakesarin, year 11</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -44,7 +44,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
+    face, time of Rājakesarin (Sundaracōḻa?), year 11.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -89,16 +90,16 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    <persName>kō-Irācakēcar<unclear>i</unclear>va<hi rend="grantha"><unclear>n</unclear>ma</hi><supplied reason="omitted">r</supplied>kku</persName> yāṇṭu [[<num value="11">101</num>Āvatu]] <num value="11"><num value="10"><g type="numeral">10</g></num> 1</num>-Āvatu
+                    kō-Irācakēcar<unclear>i</unclear>va<hi rend="grantha"><unclear>n</unclear>ma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu [[<num value="11">101</num>Āvatu]] <num value="11"><num value="10"><g type="numeral">10</g></num> 1</num>-Āvatu
                 </p>
                 <p>
-                    <persName><roleName type="king" subtype="order-giver">Aṭikaḷ paḻuvēṭṭarai
-                        <lb n="2" break="no"/>yar maṟavaṉ [[kaṇṭaṉārkku]] kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ārkku</roleName></persName> <persName><roleName type="chief" subtype="requestor">karampi<unclear>ya</unclear>ṉ [[parāntakaṉāna]] parāntakaṉā<choice><orig>n</orig><reg>ṉ</reg></choice>a karuviṭaip-perarai
-                            <lb n="3" break="no"/>yaṉ</roleName></persName> viṇṇappam Emperumāḷ paḻuvūr I<unclear>ra</unclear>ṇṭu [[taḷipatiyump pātamūlamum]] taḷipatiyum p-pātamūlamum Iraṇṭu nagaramu
+                    Aṭikaḷ paḻuvēṭṭarai
+                        <lb n="2" break="no"/>yar maṟavaṉ [[kaṇṭaṉārkku]] kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ārkku karampi<unclear>ya</unclear>ṉ [[parāntakaṉāna]] parāntakaṉā<choice><orig>n</orig><reg>ṉ</reg></choice>a karuviṭaip-perarai
+                            <lb n="3" break="no"/>yaṉ viṇṇappam Emperumāḷ paḻuvūr I<unclear>ra</unclear>ṇṭu [[taḷipatiyump pātamūlamum]] taḷipatiyum p-pātamūlamum Iraṇṭu nagaramu
                     <lb n="4" break="no"/>m paṉ<choice><sic>n</sic><corr>ṉ</corr></choice>iraṇṭu kalaṉaiyum maṟṟu<unclear>m</unclear> Eppērppaṭṭāraiyu<surplus>m</surplus>ṅ kiḻpaṭa kalpaṭṭa
                     <lb n="5"/>maṉṟupāṭum mēl maṉṟuvaṉavum ma<unclear>ṟ</unclear>ṟum [[Eppērppaṭṭanavum]] Eppērppaṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>avum paṇṭai nan=tipurama
                     <lb n="6" break="no"/><unclear>ṟṟ' ā</unclear>tiyē koṇṭ' aruḷuvatu Eṉṟu viṇṇap<unclear>pa</unclear>ñ ceyya nāmum paṇṭai nan=tipuramaṟṟ<choice><sic>u</sic><corr>' ā</corr></choice>tiyē
@@ -133,7 +134,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/367).</p>
-                <p>Edited by <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13.215). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://...">by Valérie Gillet, <seg rend="check">2016-2018</seg></ref>).</p>                
+                <p>Edited by <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 13.215). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/t435gp069">by Valérie Gillet, <seg rend="check">2016-2018</seg></ref>).</p>                
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -165,5 +166,4 @@
         </body>
     </text>
 </TEI>
-<!--Ancient <title>: Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
-    face, time of Rājakesarin (Sundaracōḻa?), year 11-->
+

@@ -92,21 +92,20 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">  
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <milestone n="A" type="pagelike" unit="zone"/>
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <p>
-                    <persName>kō-p-parakēcari-paṉmaṟkku</persName> yā
+                    kō-p-parakēcari-paṉmaṟkku yā
                     <lb n="2" break="no"/>ṇṭu <num value="15"><g type="numeral">10</g> 5</num>-Āvatu
                 </p>
                 <p>kuṉṟakkūṟṟattu nāṭ
-                    <lb n="3" break="no"/>ṭōmukku <persName><roleName type="king">Aṭikaḷ paḻuvēṭṭaraiyar kaṇṭaṉ ma
-                        <lb n="4" break="no"/>ṟavaṉār</roleName></persName> Ināṭṭu <placeName>Uṟattūraip</placeName> paḻam
-                    <lb n="5"/>perum paḻaṅ kuṭiyu<supplied reason="lost">m</supplied> n<choice><orig>i</orig><reg>ī</reg></choice>kki <persName><placeName>karuppūr</placeName>-u
+                    <lb n="3" break="no"/>ṭōmukku Aṭikaḷ paḻuvēṭṭaraiyar kaṇṭaṉ ma
+                        <lb n="4" break="no"/>ṟavaṉār Ināṭṭu <placeName>Uṟattūraip</placeName> paḻam
+                    <lb n="5"/>perum paḻaṅ kuṭiyu<supplied reason="lost">m</supplied> n<choice><orig>i</orig><reg>ī</reg></choice>kki <placeName>karuppūr</placeName>-u
                         <lb n="6" break="no"/>ṭaiya vēṅkaṭavaṉ Araṅkaṉ-āṉa cem
-                        <lb n="7" break="no"/>piyaṉ <placeName>viṟaināṭṭu</placeName> kōnārkku</persName> <hi rend="grantha">janma
+                        <lb n="7" break="no"/>piyaṉ <placeName>viṟaināṭṭu</placeName> kōnārkku <hi rend="grantha">janma
                             <lb n="8" break="no"/>bh<choice><orig>u</orig><reg>ū</reg></choice>mi</hi>y-ākak <placeName>karuppūr</placeName> eṉṉum pēriṉāl kā
                     <lb n="9" break="no"/>ṇi ceytu Itukku Āṭṭai-vaṭṭam tāla
                     <lb n="10" break="no"/>c cemmai poṉ Irupattai<orig>y</orig>ṅ kaḻañ
@@ -127,10 +126,10 @@
                 <p>
                     <milestone n="B" type="pagelike" unit="zone"/>
                     <lb n="23" break="no"/>rañ ceyyātat' ākavum I
-                    <lb n="24" break="no"/>pparicu <persName><placeName>karuppūr</placeName>-uṭaiya vē
+                    <lb n="24" break="no"/>pparicu <placeName>karuppūr</placeName>-uṭaiya vē
                         <lb n="25" break="no"/>ṅkaṭavaṉ Araṅkaṉ-āṉa
                         <lb n="26"/>cempiyaṉ <placeName>viṟai<choice><orig>ṉ</orig><reg>n</reg></choice>āṭ
-                            <lb n="27" break="no"/>ṭu</placeName> kōṉārkku</persName> <hi rend="grantha">janmapūmi</hi>y-āka
+                            <lb n="27" break="no"/>ṭu</placeName> kōṉārkku <hi rend="grantha">janmapūmi</hi>y-āka
                     <lb n="28"/><placeName>karuppūr</placeName> eṉṉum <unclear>pē</unclear>yar<unclear>i</unclear>ṉāl
                     <lb n="29"/><hi rend="grantha">cantrā</hi>tittaval kāṇiy-āka A
                     <lb n="30" break="no"/>ṟai-y-ōlai ceytu kuṭut
@@ -141,10 +140,10 @@
                 
                 <p>
                     <milestone n="C" type="pagelike" unit="zone"/>
-                    <lb n="34"/>Ivai <persName><roleName type="king">paḻuvēṭṭaraiyaṉ <unclear>kaṇṭa</unclear>ṉ maṟa
-                        <lb n="35" break="no"/>vaṉ</roleName></persName>ēṉ Ivai E<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>eḻuttu <gap reason="illegible" quantity="1" unit="character"/> Ipparicu I
-                    <lb n="36" break="no"/>caintō<persName><placeName>marutūr</placeName>-uṭaiya kāṭaṉ mā<unclear>ṟu</unclear>yaṉē
-                        <lb n="37" break="no"/>ṉ</persName> Ivaiy e<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>eḻuttu<space unit="character" quantity="3"/>
+                    <lb n="34"/>Ivai paḻuvēṭṭaraiyaṉ <unclear>kaṇṭa</unclear>ṉ maṟa
+                        <lb n="35" break="no"/>vaṉēṉ Ivai E<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>eḻuttu <gap reason="illegible" quantity="1" unit="character"/> Ipparicu I
+                    <lb n="36" break="no"/>caintō<placeName>marutūr</placeName>-uṭaiya kāṭaṉ mā<unclear>ṟu</unclear>yaṉē
+                        <lb n="37" break="no"/>ṉ Ivaiy e<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>eḻuttu<space unit="character" quantity="3"/>
                 </p>
                 
                 <p>
@@ -152,66 +151,66 @@
                     <lb n="38"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="39"/><choice><unclear>ṉa</unclear><unclear>ḷa</unclear></choice>ṭṭār <unclear>A</unclear>ṟaiyō <gap reason="illegible" quantity="1" unit="character"/> la <gap reason="illegible" quantity="2" unit="character"/>
                     <lb n="40" break="no"/>l eḻutt' eḻutaṉāraiy eḻutiya
-                    <lb n="41"/><persName><placeName><gap reason="illegible" quantity="2" unit="character"/>mallūr</placeName>-uṭaiya caṅkaṉ nāke
-                        <lb n="42" break="no"/><gap reason="illegible" quantity="2" unit="character"/>kamāṉ</persName>ṉēṉ Eḻuttu<unclear>p</unclear> <persName><placeName>puttūr</placeName>-u
-                            <lb n="43" break="no"/>ṭaiya tū<unclear>caṭi</unclear> kōṉ</persName><surplus>e</surplus> E<choice><sic>ṉa</sic><corr>ḻu</corr></choice>ttu
-                    <lb n="44"/><persName><placeName>Āṟaṇitallūr</placeName>-Uṭaiya ceruvan
-                        <lb n="45"/><unclear>U</unclear>ta co<unclear>mi</unclear>tēvaṉ cuvāmi</persName> E<supplied reason="omitted">ḻu</supplied>ttu
-                    <lb n="46"/><persName><placeName>cāttaṉūr</placeName>-uṭaiya tiṇeyāṉ mā
-                        <lb n="47" break="no"/>yilaṭṭi</persName> Eḻuttu <space unit="character" quantity="1"/> <persName><placeName>mēlmaru<surplus>t</surplus>
+                    <lb n="41"/><placeName><gap reason="illegible" quantity="2" unit="character"/>mallūr</placeName>-uṭaiya caṅkaṉ nāke
+                        <lb n="42" break="no"/><gap reason="illegible" quantity="2" unit="character"/>kamāṉṉēṉ Eḻuttu<unclear>p</unclear> <placeName>puttūr</placeName>-u
+                            <lb n="43" break="no"/>ṭaiya tū<unclear>caṭi</unclear> kōṉ<surplus>e</surplus> E<choice><sic>ṉa</sic><corr>ḻu</corr></choice>ttu
+                    <lb n="44"/><placeName>Āṟaṇitallūr</placeName>-Uṭaiya ceruvan
+                        <lb n="45"/><unclear>U</unclear>ta co<unclear>mi</unclear>tēvaṉ cuvāmi E<supplied reason="omitted">ḻu</supplied>ttu
+                    <lb n="46"/><placeName>cāttaṉūr</placeName>-uṭaiya tiṇeyāṉ mā
+                        <lb n="47" break="no"/>yilaṭṭi Eḻuttu <space unit="character" quantity="1"/> <placeName>mēlmaru<surplus>t</surplus>
                             <lb n="48" break="no"/>ttūr</placeName>-uṭaiya tiṇaiyāṉ kuṭitara
-                            <lb n="49" break="no"/>ṅki</persName> Eḻuttu <persName>paṭṭuṭaiya <unclear>c</unclear>iṅka
-                                <lb n="50" break="no"/>ṉeyyoṟaṉ</persName> eḻuttu
-                    <lb n="51"/><persName><placeName>Umapaḷakkāṉattūr</placeName>-uṭai
-                        <lb n="52" break="no"/>ya Oṉeṉpāmpaṉ</persName> eḻu
-                    <lb n="53" break="no"/>ttu <persName><placeName>Āṇpāṉ cukūr</placeName>-u
-                        <lb n="54" break="no"/>ṭaiya cāttaṉ nampaṉ</persName> e
-                    <lb n="55" break="no"/>ḻuttu <persName><placeName>kuṟṟūr</placeName>-uṭaiyaṉ ṉe
-                        <lb n="56" break="no"/><gap reason="lost" quantity="1" unit="line"/></persName>
-                    <lb n="57" break="no"/>ttu <persName><placeName>vākūr</placeName>-uṭaiya Oṉeṉ
-                        <lb n="58" break="no"/><unclear>pa</unclear>mpal</persName> eḻuttu <persName><placeName><unclear cert="low">Ali</unclear>mi <gap reason="illegible" quantity="1" unit="character"/></placeName>
-                            <lb n="59" break="no"/>Uṭaiya ve<unclear>li</unclear>taraṅki</persName> Eḻuttu
-                    <lb n="60"/><persName><placeName>Āttūr</placeName>-uṭaiya cāttaṉ tara
-                        <lb n="61" break="no"/><gap reason="illegible" quantity="1" unit="character"/></persName> Eḻuttu <unclear><g type="pc">.</g></unclear> <persName><placeName>kuḷattūr</placeName>-uṭaiya
-                            <lb n="62"/>Aṉaiyaṉamutaṉ</persName> eḻuttu
-                    <lb n="63"/><persName><placeName>varākupāṭi</placeName>-Uṭaiya māṉtaṉp
-                        <lb n="64" break="no"/>peraiyaṉ</persName> eḻuttu <space unit="character" quantity="4"/><!--weird-->
+                            <lb n="49" break="no"/>ṅki Eḻuttu paṭṭuṭaiya <unclear>c</unclear>iṅka
+                                <lb n="50" break="no"/>ṉeyyoṟaṉ eḻuttu
+                    <lb n="51"/><placeName>Umapaḷakkāṉattūr</placeName>-uṭai
+                        <lb n="52" break="no"/>ya Oṉeṉpāmpaṉ eḻu
+                    <lb n="53" break="no"/>ttu <placeName>Āṇpāṉ cukūr</placeName>-u
+                        <lb n="54" break="no"/>ṭaiya cāttaṉ nampaṉ e
+                    <lb n="55" break="no"/>ḻuttu <placeName>kuṟṟūr</placeName>-uṭaiyaṉ ṉe
+                        <lb n="56" break="no"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="57" break="no"/>ttu <placeName>vākūr</placeName>-uṭaiya Oṉeṉ
+                        <lb n="58" break="no"/><unclear>pa</unclear>mpal eḻuttu <placeName><unclear cert="low">Ali</unclear>mi <gap reason="illegible" quantity="1" unit="character"/></placeName>
+                            <lb n="59" break="no"/>Uṭaiya ve<unclear>li</unclear>taraṅki Eḻuttu
+                    <lb n="60"/><placeName>Āttūr</placeName>-uṭaiya cāttaṉ tara
+                        <lb n="61" break="no"/><gap reason="illegible" quantity="1" unit="character"/> Eḻuttu <unclear><g type="pc">.</g></unclear> <placeName>kuḷattūr</placeName>-uṭaiya
+                            <lb n="62"/>Aṉaiyaṉamutaṉ eḻuttu
+                    <lb n="63"/><placeName>varākupāṭi</placeName>-Uṭaiya māṉtaṉp
+                        <lb n="64" break="no"/>peraiyaṉ eḻuttu <space unit="character" quantity="4"/><!--weird-->
                     
                 </p>
                 
                 <p>
                     <milestone n="E" type="pagelike" unit="zone"/>
-                    <lb n="65"/><persName><placeName><unclear>caṅ</unclear>kaṇamūr</placeName>-uṭaiya kāra<gap reason="illegible" quantity="2" unit="character"/>mu
-                        <lb n="66" break="no"/>kaṉ</persName> Eḻuttu <persName><gap reason="illegible" quantity="3" unit="character"/>-Uṭaiya
-                            <lb n="67"/>vaṭukaṉ pūti</persName>y eḻuttu <g type="gomutraFinal">.</g> <persName><placeName>timmi</placeName>
+                    <lb n="65"/><placeName><unclear>caṅ</unclear>kaṇamūr</placeName>-uṭaiya kāra<gap reason="illegible" quantity="2" unit="character"/>mu
+                        <lb n="66" break="no"/>kaṉ Eḻuttu <gap reason="illegible" quantity="3" unit="character"/>-Uṭaiya
+                            <lb n="67"/>vaṭukaṉ pūtiy eḻuttu <g type="gomutraFinal">.</g> <placeName>timmi</placeName>
                                 <lb n="68" break="no"/>y-uṭaiya cuntaracōḻapperunti
-                                <lb n="69" break="no"/>ṇ<unclear>ai</unclear></persName>y eḻuttu <g type="gomutraFinal">.</g> <persName><placeName>puttūr</placeName>-uṭaiya Ā
+                                <lb n="69" break="no"/>ṇ<unclear>ai</unclear>y eḻuttu <g type="gomutraFinal">.</g> <placeName>puttūr</placeName>-uṭaiya Ā
                                     <lb n="70" break="no"/>ramālakkōṉ peraiya
-                                    <lb n="71" break="no"/>ṉ</persName> eḻuttu <persName><placeName><unclear>pe</unclear>raṟconi</placeName>y-u
-                                        <lb n="72" break="no"/>ṭaiya Araiyaṉāccaṉ</persName> e
-                    <lb n="73" break="no"/>ḻuttu <g type="ddanda">.</g> <persName><placeName>ciṅkaraṉattūr</placeName>-uṭai
-                        <lb n="74" break="no"/>ya perumāṉ maḻapāṭi</persName>y eḻu
-                    <lb n="75" break="no"/><supplied reason="lost">ttu</supplied> <persName><placeName><gap reason="illegible" quantity="5" unit="character"/>ppati</placeName>-Uṭaiya
-                        <lb n="76"/>kali<unclear>yiva</unclear> <gap reason="illegible" quantity="3" unit="character"/></persName>y <unclear>e</unclear>ḻut
-                    <lb n="77" break="no"/>tu <g type="ddanda">.</g> <persName>kūṟaṅ <gap reason="illegible" quantity="1" unit="character"/>ṭaiya maṟava ko
-                        <lb n="78" break="no"/>ṉ peruna<gap reason="illegible" quantity="1" unit="character"/>ṇai</persName> Eḻuttu
-                    <lb n="79"/> <persName>kaṟakāṭṭur-uṭaiya vempa
-                        <lb n="80" break="no"/>ṉuḷveli</persName> Eḻuttu
-                    <lb n="81"/><persName><placeName>pokaḻi</placeName>y-uṭaiya kaṇṭama
-                        <lb n="82" break="no"/>laiyama<gap reason="illegible" quantity="1" unit="character"/>ṉ</persName> eḻuttu
-                    <lb n="83"/><persName>kiḷiy-u<unclear>ṭai</unclear>ya nāraṇaṉā
-                        <lb n="84" break="no"/><gap reason="illegible" quantity="1" unit="character"/>ṅkay</persName> eḻuttu <persName><placeName><gap reason="illegible" quantity="3" unit="character"/>
+                                    <lb n="71" break="no"/>ṉ eḻuttu <placeName><unclear>pe</unclear>raṟconi</placeName>y-u
+                                        <lb n="72" break="no"/>ṭaiya Araiyaṉāccaṉ e
+                    <lb n="73" break="no"/>ḻuttu <g type="ddanda">.</g> <placeName>ciṅkaraṉattūr</placeName>-uṭai
+                        <lb n="74" break="no"/>ya perumāṉ maḻapāṭiy eḻu
+                    <lb n="75" break="no"/><supplied reason="lost">ttu</supplied> <placeName><gap reason="illegible" quantity="5" unit="character"/>ppati</placeName>-Uṭaiya
+                        <lb n="76"/>kali<unclear>yiva</unclear> <gap reason="illegible" quantity="3" unit="character"/>y <unclear>e</unclear>ḻut
+                    <lb n="77" break="no"/>tu <g type="ddanda">.</g> kūṟaṅ <gap reason="illegible" quantity="1" unit="character"/>ṭaiya maṟava ko
+                        <lb n="78" break="no"/>ṉ peruna<gap reason="illegible" quantity="1" unit="character"/>ṇai Eḻuttu
+                    <lb n="79"/>kaṟakāṭṭur-uṭaiya vempa
+                        <lb n="80" break="no"/>ṉuḷveli Eḻuttu
+                    <lb n="81"/><placeName>pokaḻi</placeName>y-uṭaiya kaṇṭama
+                        <lb n="82" break="no"/>laiyama<gap reason="illegible" quantity="1" unit="character"/>ṉ eḻuttu
+                    <lb n="83"/>kiḷiy-u<unclear>ṭai</unclear>ya nāraṇaṉā
+                        <lb n="84" break="no"/><gap reason="illegible" quantity="1" unit="character"/>ṅkay eḻuttu <placeName><gap reason="illegible" quantity="3" unit="character"/>
                             <lb n="85" break="no"/>ṇi</placeName>y-uṭaiya kaṇṭap pe <gap reason="illegible" quantity="2" unit="character"/>
-                            <lb n="86" break="no"/>ṉ</persName> eḻuttu <persName><placeName>ciṅkaṇamūr</placeName>-uṭai
+                            <lb n="86" break="no"/>ṉ eḻuttu <placeName>ciṅkaṇamūr</placeName>-uṭai
                                 <lb n="87" break="no"/>ya paṭaipperaiyaṉa<unclear>ddhay</unclear>āṟa
-                                <lb n="88" break="no"/>ṉ</persName> eḻuttu <g type="ddanda">.</g> <persName><placeName>Aruṅkarayil</placeName>-u
-                                    <lb n="89" break="no"/>ṭaiya Āccaṉ nakkaṉ</persName> e
-                    <lb n="90" break="no"/>ḻuttu <space unit="character" quantity="1"/> <persName><placeName>Āṉaiñallū
-                        <lb n="91" break="no"/>r</placeName>-uṭaiya nakkaṉ kumaraṉ</persName> eḻut
-                    <lb n="92" break="no"/>tu <space unit="character" quantity="1"/> <persName><placeName>vaṭavacukūr</placeName>-uṭaiya niru<choice><unclear>pa</unclear><unclear>va</unclear></choice>
-                        <lb n="93" break="no"/><gap reason="illegible" quantity="1" unit="character"/> kacarama<unclear>lai</unclear>ya<gap reason="illegible" quantity="2" unit="character"/>ṉ</persName> <unclear>e</unclear>ḻu<unclear>ttu</unclear>
-                    <lb n="94"/><persName><placeName>mālvāyil</placeName>-uṭaiya mana
-                        <lb n="95" break="no"/>vakōṉ pe<unclear>rai</unclear>yaṉ</persName> eḻu
+                                <lb n="88" break="no"/>ṉ eḻuttu <g type="ddanda">.</g> <placeName>Aruṅkarayil</placeName>-u
+                                    <lb n="89" break="no"/>ṭaiya Āccaṉ nakkaṉ e
+                    <lb n="90" break="no"/>ḻuttu <space unit="character" quantity="1"/> <placeName>Āṉaiñallū
+                        <lb n="91" break="no"/>r</placeName>-uṭaiya nakkaṉ kumaraṉ eḻut
+                    <lb n="92" break="no"/>tu <space unit="character" quantity="1"/> <placeName>vaṭavacukūr</placeName>-uṭaiya niru<choice><unclear>pa</unclear><unclear>va</unclear></choice>
+                        <lb n="93" break="no"/><gap reason="illegible" quantity="1" unit="character"/> kacarama<unclear>lai</unclear>ya<gap reason="illegible" quantity="2" unit="character"/>ṉ <unclear>e</unclear>ḻu<unclear>ttu</unclear>
+                    <lb n="94"/><placeName>mālvāyil</placeName>-uṭaiya mana
+                        <lb n="95" break="no"/>vakōṉ pe<unclear>rai</unclear>yaṉ eḻu
                     <lb n="96" break="no"/>ttu <g type="ddanda">.</g>
                     
                 </p>

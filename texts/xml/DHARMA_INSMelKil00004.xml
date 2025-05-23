@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, time of Parāntaka I, year [3]8</title>
+                <title>Mēlappaḻuvūr, Agastyeśvara temple, time of Parāntaka I, year [3]8</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -44,7 +44,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
+    face, western section of the wall, time of Parāntaka I, year [3]8.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -88,34 +89,40 @@
     <text xml:space="preserve">
         <body>     	      
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="01"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <p>
-                    matirai koṇṭa <persName>kōpparakēcaripan<choice><orig>makki</orig><reg>markku</reg></choice></persName> yāṇṭu mu<supplied reason="lost">ppattu</supplied>       	
-                    <lb n="2"/> Eṭṭ<surplus>ā</surplus>Āvatu </p> <p> kuṉṟakūṟṟattu Avanika<choice><orig>n</orig><reg>ṉ</reg></choice>taṟpa-<hi rend="grantha">Īśva<supplied reason="omitted">ra</supplied>gṛha</hi>ttu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="1"/>matirai koṇṭa kōpparakēcaripanma<ref>r</ref>kki yāṇṭu mu<supplied reason="lost">ppattu</supplied>       	
+                    <lb n="2"/> Eṭṭ<surplus>ā</surplus>-Āvatu </p> <p> kuṉṟa-kūṟṟattu Avani-ka<choice><orig>n</orig><reg>ṉ</reg></choice>taṟpa-<hi rend="grantha">Īśva<supplied reason="omitted">ra</supplied>gṛha</hi>ttu <gap reason="lost" quantity="4" unit="character" precision="low"/>
                         <lb n="3" break="no"/>ṭai Ittaḷi vaṇṇa
                     </p>
                 
             </div>
             
-            <div type="apparatus">            	               
+            <div type="apparatus"/>            	               
+            
+            
+            <div type="translation" source="bib:Gillet2024_01">
+                <p>Fortune! Prosperity! <supplied reason="subaudible">This is</supplied> the <supplied reason="subaudible">38th</supplied> year of Kōpparakesarivarman who has taken
+Madurai <gap reason="ellipsis"/> of the temple <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of the Lord <supplied reason="explanation"><foreign>īśvara</foreign></supplied> <supplied reason="subaudible">of</supplied> Avanikaṉtaṟpa,<note>That is,
+Kaṉtaṟpa upon earth.</note> a <foreign>devadāna</foreign> of Kuṉṟakkūṟṟam, <gap reason="ellipsis"/> the checking of coins and
+gold <supplied reason="explanation"><foreign>vaṇṇa</foreign><note>for unfinished <foreign>vaṇṇakku</foreign>?</note></supplied> of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> <gap reason="ellipsis"/></p>
             </div>
             
-            <div type="translation" resp="part:vagi">
-            </div>
             
             <div type="commentary">
-                <p n="1"><foreign><hi rend="grantha">svasti śrī</hi></foreign>. These words were added at the beginning of the line on the pilaster, on the left of the main text.</p>
+                <p n="01"><foreign><hi rend="grantha">svasti śrī</hi></foreign>. This phrase is at the beginning of the line on the pilaster, on the left of the main text, possiby later added. <bibl><ptr target="bib:Gillet2024_01"/></bibl>: <quote><foreign>svasti śr</foreign>ī is added on the pilaster.</quote></p>
+                <p n="1"><bibl><ptr target="bib:Gillet2024_01"/></bibl>: <quote>The date is most probably 38: <foreign>mu<supplied reason="lost">ppattu</supplied> eṭṭu āvatu</foreign>. Thus, we may supply about four letters at the end of each line of <ref target="DHARMA_INSMelKil00003">#3</ref> and <ref target="DHARMA_INSMelKil00003">#4</ref>.</quote></p>
                 <p n="3">The inscription is unfinished.</p>
             </div>
             
             <div type="bibliography">
                 
-                <p>First noticed, edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://...">by Valérie Gillet, <seg rend="check">2016-2018</seg></ref>).</p>
+                <p>First noticed, edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/pk02cm13t">by Valérie Gillet, <seg rend="check">2016-2018</seg></ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -135,5 +142,4 @@
         </body>
     </text>
 </TEI>
-<!--long <title>: Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
-    face, western section of the wall, time of Parāntaka I, year [3]8-->
+

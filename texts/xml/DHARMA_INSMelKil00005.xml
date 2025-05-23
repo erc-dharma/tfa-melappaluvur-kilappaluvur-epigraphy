@@ -90,17 +90,18 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
+                
                 <p>
-                    <persName>kō-Irācakēcariva<hi rend="grantha">nma</hi>ṟku</persName> yāṇṭu <num value="10"><g type="numeral">10</g></num>Āvatu
+                    kō-Irācakēcariva<hi rend="grantha">nma</hi>ṟku yāṇṭu <num value="10"><g type="numeral">10</g></num>Āvatu
                 </p>
                 <p>
-                    <persName><roleName type="king" subtype="order-giver">paḻuvēṭṭaraiyar
-                        <lb n="2"/>maṟavaṉ kaṇṭaṉār</roleName></persName> Avanika<hi rend="grantha">ndha<supplied reason="omitted">r</supplied>vva</hi>purattu maṉṟupāṭu Eppērpaṭṭatu paṇ
+                    paḻuvēṭṭaraiyar
+                        <lb n="2"/>maṟavaṉ kaṇṭaṉār Avanika<hi rend="grantha">ndha<supplied reason="omitted">r</supplied>vva</hi>purattu maṉṟupāṭu Eppērpaṭṭatu paṇ
                     <lb n="3" break="no"/>ṭai nan=tipuramaṟṟ' ātiyē koḷka Eṉṟ' aruḷicceyya kalliṉ mēl ve
-                    <lb n="4" break="no"/>ṭṭikkoḷḷap peṟṟār <roleName type="merchant" subtype="order-receiver">Avanika<hi rend="grantha">ndha<supplied reason="omitted">r</supplied>vva</hi>purattu nakarattār</roleName> <g type="finalGomutra"/><!--Update!-->
+                    <lb n="4" break="no"/>ṭṭikkoḷḷap peṟṟār Avanika<hi rend="grantha">ndha<supplied reason="omitted">r</supplied>vva</hi>purattu nakarattār <g type="finalGomutra">.</g><!--Update!-->
                 </p>
             </div>
             

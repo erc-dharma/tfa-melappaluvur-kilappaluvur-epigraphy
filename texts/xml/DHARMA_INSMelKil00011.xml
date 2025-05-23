@@ -89,9 +89,10 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
+                
                 <lg n="1" met="āciriyappa">
                     <l n="1">tiru maṉṉi vaḷara Iru<unclear>ni</unclear>lamaṭa<supplied reason="lost">n</supplied>t<supplied reason="lost">ai</supplied>yu<unclear>m</unclear></l>
                     <l n="2">pōṟ<hi rend="grantha"><unclear>je</unclear></hi>yappāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice>rtta<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">i</supplied>ccelv<supplied reason="lost">i</supplied>yun</l>

@@ -89,20 +89,20 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    <persName><roleName type="king"><unclear>kō</unclear><supplied reason="lost">ppara</supplied>kēca
-                        <lb n="2" break="no"/>ripaṉmaṟkku</roleName></persName> yāṇṭu <num value="16"><num value="10"><g type="numeral">10</g></num> 6</num>
+                    <unclear>kō</unclear><supplied reason="lost">ppara</supplied>kēca
+                        <lb n="2" break="no"/>ripaṉmaṟkku yāṇṭu <num value="16"><num value="10"><g type="numeral">10</g></num> 6</num>
                     <lb n="3"/>Āvatu
                 </p>
                 <p>
                     <placeName>kuṉṟakkūṟṟattu</placeName> tēva
                     <lb n="4" break="no"/>tā<supplied reason="omitted">ṉa</supplied>m Avaṉikantaṟva <hi rend="grantha">Īśva<supplied reason="omitted">ra</supplied>gṛha</hi>
-                    <lb n="5" break="no"/>ttu <hi rend="grantha"><choice><sic>mā</sic><corr>ma</corr></choice>hādeva</hi>ṟkku <persName><roleName type="dancer" subtype="donor">Ittaḷi
+                    <lb n="5" break="no"/>ttu <hi rend="grantha"><choice><sic>mā</sic><corr>ma</corr></choice>hādeva</hi>ṟkku Ittaḷi
                         <lb n="6"/>tēvaṉār makaḷ nakka<gap reason="lost" quantity="1" unit="character"/>ai natiri ma
-                        <lb n="7" break="no"/>kaḷ nakkaṉ kaṇṭa pirāṭṭi</roleName></persName> Ittaḷi
+                        <lb n="7" break="no"/>kaḷ nakkaṉ kaṇṭa pirāṭṭi Ittaḷi
                     <lb n="8"/>tēvatāṉam po<unclear>ykai</unclear>nāṭṭu <placeName><unclear>Ū</unclear>
                         <lb n="9" break="no"/>kaṉkuṭi</placeName> Apo<hi rend="grantha">ha</hi>naṅ kiṭanta <hi rend="grantha">bhū
                             <lb n="10" break="no"/>mi</hi>yai kalli macakki kuṭutta <unclear>ṇir ṉi</unclear>
@@ -111,8 +111,8 @@
                     <lb n="13"/>koṇṭu Itiṉil Iraṇṭu pūvum
                     <lb n="14"/>viḷainta <hi rend="grantha">bho</hi>gaṅ koṇṭu O
                     <lb n="15" break="no"/>ru nontā viḷakku ca<hi rend="grantha">ntrā</hi>tittava
-                    <lb n="16" break="no"/>l Erippōmmānōm <roleName type="priest" subtype="inChargeDonation">Ittaḷi
-                        <lb n="17" break="no"/>p paṭṭ<supplied reason="omitted">uṭ</supplied>ai<unclear>yōm Eḻuvōm</unclear></roleName>
+                    <lb n="16" break="no"/>l Erippōmmānōm Ittaḷi
+                        <lb n="17" break="no"/>p paṭṭ<supplied reason="omitted">uṭ</supplied>ai<unclear>yōm Eḻuvōm</unclear>
                     <lb n="18"/>Itu <hi rend="grantha">panmāheśvara rakṣai</hi><g type="gomutra">.</g>
                 </p>
             </div>      	

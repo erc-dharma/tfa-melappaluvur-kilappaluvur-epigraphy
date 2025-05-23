@@ -90,14 +90,14 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
-                <p>matirai koṇṭa <persName>kōpparakēcaripanma<choice><unclear>rku</unclear><unclear>kku</unclear></choice></persName> yāṇṭu <gap reason="lost" extent="unknown" unit="character"/></p>         	<p>
+                <p>matirai koṇṭa kōpparakēcaripanma<choice><unclear>rku</unclear><unclear>kku</unclear></choice> yāṇṭu <gap reason="lost" extent="unknown" unit="character"/></p>         	<p>
                     <lb n="2"/>kuṉṟakkūṟṟattu tēvatāṉam Avaṉikantaṟpapu<supplied reason="lost">rattu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3" break="no"/>ḷi <hi rend="grantha">śāsa</hi>na<hi rend="grantha">baddha</hi>vaṇṇakkuṭaiya kallaṟai kollatti<unclear>l</unclear> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">i</supplied>
-                    <lb n="4" break="no"/>ttaḷip paṭṭu-Uṭaiyāṉ <persName><hi rend="grantha">Īśvara</hi>nakkaṉ</persName> vi<unclear>lai</unclear>koṇṭu <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4" break="no"/>ttaḷip paṭṭu-Uṭaiyāṉ <hi rend="grantha">Īśvara</hi>nakkaṉ vi<unclear>lai</unclear>koṇṭu <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5" break="no"/><hi rend="grantha">ra</hi>ṉē<choice><orig>ṉn</orig><reg>ṉ</reg></choice> ittaḷi vaṇṇakku ce<supplied reason="omitted">y</supplied>tu kaṭamaip paṭṭ<unclear>a</unclear> poṉṉukku <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>
