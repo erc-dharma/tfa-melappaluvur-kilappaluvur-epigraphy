@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mēlappaḻuvūr, *** temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+ <forename>Valérie</forename>
+						<surname>Gillet</surname>
+ </persName>
+ <persName ref="part:emfr">
+ 	<forename>Emmanuel</forename>
+ <surname>Francis</surname>
+ </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSMelKil00047</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+
+<p>
+<lb n="1"/>{unlegible} <g type="kaḻañcu"/> {unlegible} <unclear>mmaṉ</unclear>
+<lb n="2"/>{unlegible} <g type="kaḻañcu"/> <gap reason="lost" quantity="2" unit="character"/> <unclear>taṉ</unclear> <g type="kaḻañcu"/> {unlegible} <gap reason="lost" quantity="1" unit="character"/> lara <gap reason="lost" quantity="2" unit="character"/> 
+<lb n="3"/>{unlegible} <g type="kaḻañcu"/> kalat<unclear>tu</unclear> <g type="kaḻañcu"/> {unlegible} <unclear>Amuta</unclear>
+<lb n="4"/> <gap reason="lost" quantity="3" unit="character"/> maḻa <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> {unlegible} <gap reason="lost" quantity="3" unit="character"/> 
+<lb n="5"/>{unlegible} <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> {unlegible} <gap reason="lost" quantity="4" unit="character"/> 
+<lb n="6"/> <gap reason="lost" quantity="7" unit="character"/> vi <gap reason="lost" quantity="2" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="3" unit="character"/> {unlegible}
+<lb n="7"/>ḻa <gap reason="lost" quantity="1" unit="character"/> cilappottat<unclear>u</unclear> <g type="kaḻañcu"/> <unclear>Uraiyu</unclear> <g type="kaḻañcu"/> m tu {unlegible}
+<lb n="8"/> <gap reason="lost" quantity="1" unit="character"/> <unclear>pakai</unclear>viṭai ˚<hi rend="grantha">īśva <g type="kaḻañcu"/> </hi> <gap reason="lost" quantity="2" unit="character"/> <unclear>ṭai</unclear> <g type="kaḻañcu"/> <unclear>ya</unclear> <gap reason="lost" quantity="2" unit="character"/> {unlegible}
+<lb n="9"/>{unlegible} <g type="kaḻañcu"/> [ku<hi rend="grantha">śrī</hi>] <gap reason="lost" quantity="1" unit="character"/> <g type="kaḻañcu"/> {unlegible}
+<lb n="10"/>{unlegible} <g type="kaḻañcu"/> ṭaiyani <g type="kaḻañcu"/> <gap reason="lost" quantity="2" unit="character"/> mu {unlegible}
+<lb n="10"/> <gap reason="lost" quantity="6" unit="character"/> <unclear>U</unclear>ṉ <g type="kaḻañcu"/> ṉilattu <g type="kaḻañcu"/> ku kiḻa <gap reason="lost" quantity="1" unit="character"/> {unlegible}
+<lb n="11"/> <gap reason="lost" quantity="8" unit="character"/> yu<unclear>m ta</unclear> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="1" unit="character"/> ḻa <gap reason="lost" quantity="2" unit="character"/> {unlegible}
+<lb n="12"/> <gap reason="lost" quantity="2" unit="character"/> tai ko <gap reason="lost" quantity="1" unit="character"/> <unclear>yun</unclear> ca <g type="kaḻañcu"/> tu <gap reason="lost" quantity="3" unit="character"/> <g type="kaḻañcu"/> <unclear>vai</unclear> <gap reason="lost" quantity="3" unit="character"/> {unlegible}
+<lb n="13"/>ṭai<hi rend="grantha">Īśvara</hi>ttilla<hi rend="grantha"> <g type="kaḻañcu"/> </hi> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <unclear>ṉṉṟu</unclear> tiru <gap reason="lost" quantity="1" unit="character"/> {unlegible}
+<lb n="14"/>tiruveṅkaṭavāykkā <g type="kaḻañcu"/> <gap reason="lost" quantity="2" unit="character"/> te <gap reason="lost" quantity="1" unit="character"/> <g type="kaḻañcu"/> ṟkila p<unclear>o</unclear>ḻa <gap reason="lost" quantity="3" unit="character"/> cci
+<lb n="15"/>va <unclear>Ā</unclear>trayaṉ ma<hi rend="grantha">hāde <g type="kaḻañcu"/> </hi> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> nārāyaṇaṉ <gap reason="lost" quantity="4" unit="character"/> 
+<lb n="16"/> <gap reason="lost" quantity="2" unit="character"/> ya <gap reason="lost" quantity="1" unit="character"/> ka <gap reason="lost" quantity="1" unit="character"/> la <gap reason="lost" quantity="3" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> {unlegible}
+<lb n="17"/> <gap reason="lost" quantity="3" unit="character"/> ṉ paṉ <unclear>ti</unclear>ru <g type="kaḻañcu"/> <gap reason="lost" quantity="1" unit="character"/> ivat <g type="kaḻañcu"/> {unlegible}
+<lb n="18"/><unclear>ke</unclear> <gap reason="lost" quantity="3" unit="character"/> ṉeṉ vaṟṟ<unclear>ina</unclear>l <g type="kaḻañcu"/> layāvā/var <g type="kaḻañcu"/> {unlegible}
+<lb n="19"/><unclear>ta ni</unclear>la<unclear>m</unclear>āvatu Iv <g type="kaḻañcu"/> vūr mā<unclear>n</unclear> <g type="kaḻañcu"/> {unlegible}
+<lb n="20"/> <gap reason="lost" quantity="2" unit="character"/> ta <gap reason="lost" quantity="2" unit="character"/> tu Irāti <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> {unlegible}
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2024_01">
+
+</div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+ <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/***).</p>
+ <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2016-2018</ref>).</p>
+ <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+
+ <listBibl type="primary">
+ <bibl>
+ <ptr target="bib:Gillet2024_01"/>
+ <citedRange unit="page">TBC</citedRange>
+ <citedRange unit="item">TBC</citedRange>
+ </bibl>
+ </listBibl>
+
+ <listBibl type="secondary">
+ <bibl>
+ <ptr target="bib:ARIE1923-1924"/>
+ <citedRange unit="page">TBC</citedRange>
+ <citedRange unit="appendix">C/1924</citedRange>
+ <citedRange unit="item">TBC</citedRange>
+ </bibl>
+
+ </listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>
