@@ -63,14 +63,14 @@
                 </p>
                 <p>
                     kuṉṟakūṟṟa
-                    <lb n="2"/>Avanikaṉtaṟppapurattu <hi rend="grantha">mahade</hi>varkku Ittaḷi kuttapiḷ<unclear>l</unclear>ai kumiḻi tar<unclear>u</unclear>ṇaval
-                    <lb n="3"/>li Oru nontāviḷakku <hi rend="grantha">cantrādi</hi>ttaval Eriya vaita poṉ patiṉ ka
-                    <lb n="4"/>ḻañcu
+                    <lb n="2" break="no"/>Avanikaṉtaṟppapurattu <hi rend="grantha">mahade</hi>varkku Ittaḷi kuttapiḷ<unclear>l</unclear>ai kumiḻi tar<unclear>u</unclear>ṇaval
+                    <lb n="3"/>li Oru nontāviḷakku <hi rend="grantha">cantrādi</hi>ttaval Eriya vai<supplied reason="omitted">t</supplied>ta poṉ patiṉ ka
+                    <lb n="4" break="no"/>ḻañcu
                 </p>
                 <p>
                     Ippoṉ patiṉ kaḻañcum koṇṭōm koṇṭu Oru no
-                    <lb n="5"/>ntāviḷakkukku nicatam Uḻakku ney Aṭṭuvōm āṉōm Ava
-                    <lb n="6"/>ṉikantavappurattu nakarattōm Ivvaṉ
+                    <lb n="5" break="no"/>ntāviḷakkukku nicatam Uḻakku ney Aṭṭuvōm āṉōm Ava
+                    <lb n="6" break="no"/>ṉikantavappurattu nakarattōm Ivvaṉ
                 </p>
                 
             </div>
@@ -78,8 +78,9 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="1">
-                        <lem>yāṇṭu <unclear>20</unclear></lem>
-                        <note>ARE proposes 37th year but I cannot see it. There may be another number after the 20 that I read, but, if there was, it is no longer legible.</note>                        
+                        <lem>yāṇṭu <num value="20"><unclear>2 <g type="numeral">10</g></unclear></num></lem>
+                        <rdg source="bib:ARIE1923-1924">37</rdg>
+                        <note>There may be another number after the 20 that I read, but, if there was, it is no longer legible.</note>                        
                     </app>
                     <app loc="6">
                         <lem>Ivvaṉ</lem>
@@ -112,7 +113,7 @@
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <bibl>
+                    <bibl n="ARIE">
                         <ptr target="bib:ARIE1923-1924"/>
                         <citedRange unit="page">149-150</citedRange>
                         <citedRange unit="appendix">C/1924</citedRange>
