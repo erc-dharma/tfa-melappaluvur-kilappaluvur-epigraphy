@@ -89,14 +89,14 @@
         <body>      	             	      	
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-                
+                <!--add blank space for lines 1-5-->
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <lg n="1" met="āciriyappa">
-                    <l n="1">tiru maṉṉi vaḷara Iru<unclear>ni</unclear>lamaṭa<supplied reason="lost">n</supplied>t<supplied reason="lost">ai</supplied>yu<unclear>m</unclear></l>
-                    <l n="2">pōṟ<hi rend="grantha"><unclear>je</unclear></hi>yappāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice>rtta<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">i</supplied>ccelv<supplied reason="lost">i</supplied>yun</l>
+                    <l n="1">tiru maṉṉi vaḷara Iru-<unclear>ni</unclear>la-maṭa<supplied reason="lost">n</supplied>t<supplied reason="lost">ai</supplied>yu<unclear>m</unclear></l>
+                    <l n="2">pōṟ-<hi rend="grantha"><unclear>je</unclear></hi>ya-p-pāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice>r-t-ta<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">i</supplied>-c-celv<supplied reason="lost">i</supplied>yun</l>
                     <l n="3">taṉ perun=tē‡v<unclear>i</unclear>yar āk<unclear>i</unclear> Iṉpu<unclear>ṟu</unclear></l>
                     <l n="4">neṭutuy<supplied reason="lost">a ‡ l ūḻiyuḷ iṭa</supplied>tuṟai nāṭum</l>
                     <l n="5">tuṭa<unclear>r</unclear>va<choice><orig>n</orig><reg>ṉ</reg></choice>a vēl<supplied reason="lost">i</supplied>p paṭar va<choice><orig>n</orig><reg>ṉ</reg></choice>avāciyum</l>
@@ -168,11 +168,23 @@
                 </lg>
                 
                 <p>
-                <lb n="6"/>{end of the<hi rend="grantha">meykkīrtti</hi> below the easternmost wall section of the <hi rend="grantha">ardha-maṇḍapa</hi>, in its middle} kopparake[<hi rend="grantha">sa</hi>]riva<hi rend="grantha">nma</hi>rāna Uṭaiyar <hi rend="grantha">śrīrājentri</hi>ra {blank space} coḻa<hi rend="grantha">de</hi>vaṟkku yāṇṭu 15 Āvatu vaṭakarai Uttuṅkatuṅkavaḷanāṭṭu<unclear>k</unclear> kuṉṟakkūṟṟattup paḻuvūr nakarattom nampirāṭṭiyār mukkoṟkiḻān aṭikaḷ {built over}
-                <lb n="7"/>ḻaṅkai makaṉ comaṉp puvaniyaip paṭak kuttip ponav araṅkaṉ paṭṭaṉai nāṅkaḷ avaṉai pokāmey <g type="kaḻañcu"/> {broken} ṉ pu<unclear>va</unclear> <g type="kaḻañcu"/> niyai {broken} ti nakarattom paḻuvūr pakaiviṭaiy i<hi rend="grantha">śva</hi>rattu <hi rend="grantha">mahādeva</hi>rkku pakalum Iravu cantirāti {blank space} ttaval Eriya vaitta tirunot<unclear>ā</unclear><note>After this word, the line continues a little higher. The stones are not properly aligned.</note>viḷakku Oṉṟu vaittum Araṅkaṉ paṭṭaṉaik kaṇṭāl kaṇṭārēy kilākka peṟuvatākavum paḻuvūr nakarattom tirunontāviḷak {built over}
-                <lb n="8"/>tuṅ koṇṭu Ittevatānam Iṉṉāṭṭu pakaiviṭai<hi rend="grantha">ca</hi>tuvvetimaṅkalattu kuḷa maṭai kuḷapaṭṭuk kiṭakka I <g type="kaḻañcu"/> {broken} <unclear>kku</unclear>ḷaṅ <g type="kaḻañcu"/> kalli Iv<unclear>vū</unclear>r aṭuttu mutalāyk kūṭi varum nellile<unclear>y</unclear> <unclear>Ā</unclear>ṇṭu varai tevakālāl muppatiṉ kala nel {blank space} luk koṇṭu Ittirunontāviḷa <gap reason="lost" quantity="1" unit="character"/> Erikkakkaṭavomānom Ikkoyil kāṇiyuṭaiya <hi rend="grantha">śivabrāhma</hi>ṇar nālvom paḻuvūr vaḷaiñciyarum caṅkarappāṭiyāru<unclear>m</unclear> {built over}
-                <lb n="9"/>vūr caṅkarappāṭiyāṉ <gap reason="lost" quantity="1" unit="character"/> kumiḻi manappaṉai kāṇāk kol paṭṭu Ivaṉ paṭṭamaiyil <unclear>ca</unclear> <gap reason="lost" quantity="1" unit="character"/> ṉap paṭa <unclear>Ey</unclear>cārai Aṟiyā <gap reason="lost" quantity="1" unit="character"/> <g type="kaḻañcu"/> {broken} <unclear>kumi</unclear>ḻ<unclear>i</unclear> manappaṉaic cāt <g type="kaḻañcu"/> ti paḻuvūr vaḷaiñci<unclear>ya</unclear>rom Ivvūr Amani[<hi rend="grantha">gandha</hi>]vva ˚<hi rend="grantha">īśva</hi>rattu <hi rend="grantha">mahāde</hi>vaṟkku Iravum pakalum Eriya {blank space} vaitta nontāviḷakku Oṉṟiṉu<unclear>kku</unclear> vaitta kācu 50 Ikkācu Aiñpatum koṇṭu Ittevar tevatānam kaṇṭaṉ Eriyāna <hi rend="grantha">di</hi>rttak kuḷatte kalli muṉpu <gap reason="lost" quantity="1" unit="character"/> riñcu varuki {built over}{built over}
-                <lb n="10"/> <gap reason="lost" quantity="3" unit="character"/> <hi rend="grantha">cantrādi</hi>ttavaṟ Erikkakaṭavomānom Ittaḷik kāṇiyuṭaiya paṭṭuṭaiyom Eḻuvom kumiḻi man <gap reason="lost" quantity="1" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="1" unit="character"/> ṉ muṉpu ceytu varuki<unclear>ṉ</unclear> <g type="kaḻañcu"/> <unclear>ṟa</unclear> maṉaikālum Itukkuppaṭum na<unclear>ṉ</unclear>ceyum puṉceyum Ivaṉ maṇavāṭṭikkum Iva {blank space} ṇavaṟkkattākkum <hi rend="grantha">cantrā</hi> <gap reason="lost" quantity="2" unit="character"/> vaṟ I<unclear>ko</unclear>yili ce<unclear>y</unclear>tu kuṭuttom paḻuvūr nakarattom
+                    kōpparakē<hi rend="grantha"><unclear>sa</unclear></hi>riva<hi rend="grantha">nma</hi>rāna Uṭaiyar <hi rend="grantha">śrīrājen</hi><choice><sic><hi rend="grantha">tri</hi>ra</sic><corr><hi rend="grantha">dra</hi></corr></choice> <space/> coḻa<hi rend="grantha">de</hi>vaṟkku yāṇṭu <num value="15"><g type="numeral">10</g> 5</num> Āvatu
+                </p>
+                <p>
+                    vaṭakarai Uttuṅkatuṅkavaḷanāṭṭu<unclear>k</unclear> kuṉṟakkūṟṟattup paḻuvūr nakarattōm nampirāṭṭiyār mukkoṟkiḻān aṭikaḷ <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/>ḻaṅkai makaṉ cōmaṉ<surplus>p</surplus> puvaniyaip paṭak kuttip pōnav araṅkaṉ paṭṭaṉai nāṅkaḷ avaṉai pōkāmey ‡ <gap reason="lost" extent="unknown" unit="character"/> ṉ pu<unclear>va</unclear> ‡ niyai <gap reason="lost" extent="unknown" unit="character"/> ti nakarattōm paḻuvūr pakaiviṭai y-i<hi rend="grantha">śva</hi>rattu <hi rend="grantha">mahādeva</hi>rkku pakalum Iravu cantirāti<space/>ttaval Eriya vaitta tirunon=t<unclear>ā</unclear>-viḷak=ku Oṉṟu vaittum Araṅkaṉ paṭṭaṉaik kaṇṭāl kaṇṭārēy kilākka peṟuvatākavum paḻuvūr nakarattōm tirunontāviḷak <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="8"/>tuṅ koṇṭu Ittēvatānam Iṉṉāṭṭu pakaiviṭai-<hi rend="grantha">ca</hi>tu<hi rend="grantha"><reg>r</reg>vve</hi>timaṅkalattu kuḷa maṭai kuḷapaṭṭuk kiṭakka I ‡ <gap reason="lost" extent="unknown" unit="character"/> <unclear>kku</unclear>ḷaṅ ‡ kalli Iv<unclear>vū</unclear>r aṭuttu mutalāyk kūṭi varum nellile<unclear>y</unclear> <unclear>Ā</unclear>ṇṭu varai tevakālāl muppatiṉ kala nel <space/> luk koṇṭu It-tirunontā-viḷa <gap reason="lost" quantity="1" unit="character"/> Erikka-k kaṭavōm ānōm
+                </p>
+                <p>
+                    Ikkōyil kāṇiyuṭaiya <hi rend="grantha">śivabrāhma</hi>ṇar nālvōm paḻuvūr vaḷaiñciyarum caṅkarappāṭiyāru<unclear>m</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="9"/>vūr caṅkarappāṭiyāṉ <gap reason="lost" quantity="1" unit="character"/> kumiḻi manappaṉai kāṇāk kol paṭṭu Ivaṉ paṭṭamaiyil <unclear>ca</unclear> <gap reason="lost" quantity="1" unit="character"/> ṉap paṭa <unclear>Ey</unclear>cārai Aṟiyā <gap reason="lost" quantity="1" unit="character"/> ‡ <gap reason="lost" extent="unknown" unit="character"/> <unclear>kumi</unclear>ḻ<unclear>i</unclear> manappaṉaic cāt‡ti paḻuvūr vaḷaiñci<unclear>ya</unclear>rōm Ivvūr Amani<hi rend="grantha"><unclear>gandha</unclear><reg>r</reg>vva-Īśva</hi>rattu <hi rend="grantha">mahāde</hi>vaṟk=ku Iravum pakalum Eriya <space/> vaitta nontā-viḷak=ku Oṉṟiṉu<unclear>kku</unclear> vaitta kācu <num value="50">5 <g type="numeral">10</g></num>
+                </p>
+                <p>
+                    Ikkācu Aiñpatum koṇṭu Ittēvar tēvatānam kaṇṭaṉ Eriyāna <hi rend="grantha">di</hi>rttak kuḷattē kalli muṉpu <gap reason="lost" quantity="1" unit="character"/> riñcu varuki <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="10"/><gap reason="lost" quantity="3" unit="character"/> <hi rend="grantha">cantrādi</hi>ttavaṟ Erikka kaṭavōm ānōm Ittaḷik kāṇiyuṭaiya paṭṭuṭaiyōm Ēḻuvōm
+                </p>
+                <p>
+                    kumiḻi mana<supplied reason="lost">p</supplied>‡<supplied reason="lost">pa</supplied>ṉ muṉpu ceytu varuki<unclear>ṉ</unclear>‡<unclear>ṟa</unclear> maṉaikālum Itukkuppaṭum na<unclear>ṉ</unclear>ceyum puṉceyum Ivaṉ maṇavāṭṭik=kum Iva<space/>ṉ vaṟkkattark=kum <hi rend="grantha">cantrā</hi><supplied reason="lost"><hi rend="grantha">di</hi>tta</supplied>vaṟ I<unclear>kō</unclear>yili ce<unclear>y</unclear>tu kuṭuttōm paḻuvūr nakarattōm
                 </p>
                 
             </div>      	
@@ -180,11 +192,16 @@
             <div type="apparatus">
                 <listApp>
                     
-                    <app loc="1">
-                        <lem></lem>
-                        <note></note>
+                    <app loc="7">
+                        <lem>tirunon=t<unclear>ā</unclear></lem>
+                        <rdg source="bib:Gillet2024_01">tirunot<unclear>ā</unclear></rdg>
+                        <note>After this word, the line continues a little higher. The stones are not properly aligned.</note>
                     </app>
                     
+                    <app loc="9">
+                        <lem>Iva<space/>ṉ vaṟkkattark=kum</lem>
+                        <rdg source="bib:Gillet2024_01">Iva<space/>ṇavaṟkkattāk=kum</rdg>
+                    </app>                    
                     
                 </listApp>
             </div>
@@ -193,8 +210,8 @@
             </div>
             
             <div type="commentary">
-               
                 
+                <p n="6-9">End of lines built in.</p>
             </div>
             
             <div type="bibliography">
