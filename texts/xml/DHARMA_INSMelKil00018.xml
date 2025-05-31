@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mēlappaḻuvūr, Agastyeśvara temple, time of Rājakesarivarman, year [lost]</title>
+                <title>Mēlappaḻuvūr, Agastyeśvara temple, time of Parakesarivarman, year [lost]</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -24,7 +24,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
-                <idno type="filename">DHARMA_INSMelKil00020</idno>
+                <idno type="filename">DHARMA_INSMelKil00018</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>AIM, southern shrine; on the wall section to the west of the central niche of the southern façade of the sanctuary; lost regnal year of Kōrājake<supplied reason="lost">sarivarman</supplied>; unidentified king; this is just the beginning of an unfinished inscription.</p>
+                        <summary><p>AIM, southern shrine; b) on the westernmost wall section of the southern façade of the <foreign>ardha-maṇḍapa</foreign>, lowest inscription; lost regnal year of [Mati]rai koṇṭa Kōpparakesarivarman = Parāntaka I; the western half of the inscription is built in the wall of the <foreign>mukha-maṇḍapa</foreign>.</p>
                             
                         </summary>
                     </msContents>
@@ -56,27 +56,32 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-                </p>
-               <p>
-                    kōIrā<hi rend="grantha">ja</hi>k<unclear>ē</unclear> <gap reason="lost" quantity="3" unit="character"/> maku
-                    <lb n="2"/>yāṇṭu
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> rai koṇṭa kōpparakēcaripaṉmakki yā
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> maṉaip poṉṉum taṇṭap poṉṉum ta
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> ṉā<unclear>r va</unclear>cca poṉ muppatu ṉāl paṭṭam mu
                 </p>
                 
             </div>
             
-            <div type="apparatus"/>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="3">
+                        <lem>mu</lem>
+                        <rdg source="bib:Gillet2024_01">mū</rdg>
+                    </app>
+                </listApp>
+            </div>
                 
             
             
             <div type="translation" source="bib:Gillet2024_01">
                 
-                <p>Fortune! Prosperity! <supplied reason="lost">This is</supplied> the <gap reason="lost" extent="unknown" unit="character"/> year of Kōrājakesarivarman <gap reason="lost" extent="unknown" unit="character"/></p>
+                <p><supplied reason="subaudible">This is the year</supplied> <gap reason="lost" extent="unknown" unit="character"/> of Kōpparakesarivarman who has taken <supplied reason="lost">Madu</supplied>rai; <gap reason="lost" extent="unknown" unit="character"/> the gold from the houses <supplied reason="explanation"><foreign>maṉaip poṉṉum</foreign></supplied> and the gold from the fines <supplied reason="explanation"><foreign>taṇṭap poṉṉum</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> gave <supplied reason="explanation"><foreign>vacca </foreign>, that is, <foreign>vaitta</foreign></supplied> thirty <supplied reason="explanation"><foreign>muppatu</foreign></supplied> <supplied reason="subaudible"><foreign>kaḻañcu</foreign>s</supplied> of gold <supplied reason="explanation"><foreign>poṉ</foreign></supplied> for four <supplied reason="explanation"><foreign>nāl</foreign></supplied> forehead-plates <supplied reason="explanation"><foreign>paṭṭam</foreign></supplied><note>Alternatively: thirty four gold coins for three / tirthy ... forehead plates.</note> <gap reason="lost"/></p>
             
             </div>
             
             <div type="commentary">
-                <p>Unfinished inscription.</p>
+                <p>The beginning of the lines is built in.</p>
             </div>
             
             <div type="bibliography">
@@ -85,7 +90,7 @@
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                    <bibl n="VG">
                         <ptr target="bib:Gillet2024_01"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">TBC</citedRange>

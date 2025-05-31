@@ -153,7 +153,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/366).</p>
-                <p>Edited by <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 19.402). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://...">by Valérie Gillet, <seg rend="check">2016-2018</seg></ref>).</p>                
+                <p>Edited by <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 19.402). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy<!--and photographs (<ref target="https://...">by Valérie Gillet, <seg rend="check">2016-2018</seg></ref>) [[no photos found]]-->.</p>                
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
