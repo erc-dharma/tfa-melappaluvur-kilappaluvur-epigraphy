@@ -96,13 +96,17 @@
                 
                 <p>matirai koṇṭa kōpparakēcaripaṉma<choice><orig>rki</orig><reg>rkku</reg></choice> yāṇṭu
                     <lb n="2"/><num>3 <num value="10"><g type="numeral">10</g></num> 6</num>vatu</p>
+                
                 <p>kuṉṟakūṟṟattu <hi rend="grantha">de</hi>vatā<choice><orig>n</orig><reg>ṉ</reg></choice>am Ava<choice><orig>n</orig><reg>ṉ</reg></choice>ika<choice><orig>ṉ</orig><reg>n</reg></choice>taṟpapurattu
                     <lb n="3"/>ma<hi rend="grantha">h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>varkku <placeName>kurukāṭi</placeName>kiḻāṉ Ūraṉ piṭāraṉ Ittaḷi <hi rend="grantha">de</hi>vatāṉam <placeName>pa
                         <lb n="4" break="no"/>cuṅkuḷattūr</placeName> A<hi rend="grantha">poha</hi>ṉaṅ kiṭa<choice><orig>ṉ</orig><reg>n</reg></choice>ta <hi rend="grantha">bhū</hi>miyai macakki kuṭutta n<choice><orig>i</orig><reg>ī</reg></choice>rnila
-                    <lb n="5" break="no"/>m</p> 
-                <p>nāṅku māvum <unclear>param</unclear> <gap reason="illegible" unit="character" quantity="2"/> <unclear>macak</unclear><supplied reason="lost">ka</supplied>l Iraṇṭu māvum kalam taṉkāri macakka
-                    <lb n="6" break="no"/>l Iraṇṭu māvum Āka</p>
-                <p>ni<unclear>la</unclear>m Eṭṭu māvum koṇṭu Iti<choice><orig>n</orig><reg>ṉ</reg></choice>āl
+                    <lb n="5" break="no"/>m nāṅku māvum
+                </p>
+                
+                <p>                    
+                    <unclear>param</unclear> <gap reason="illegible" unit="character" quantity="2"/> <unclear>macak</unclear><supplied reason="lost">ka</supplied>l Iraṇṭu māvum kalam taṉkāri macakka
+                    <lb n="6" break="no"/>l Iraṇṭu māvum Āka
+                    ni<unclear>la</unclear>m Eṭṭu māvum koṇṭu Iti<choice><orig>n</orig><reg>ṉ</reg></choice>āl
                     <lb n="7"/>vanta pōkam koṇṭu Irav<unclear>u</unclear>m pakalu<supplied reason="omitted">m</supplied> Iraṇṭu taḷiyilum Orō no
                     <lb n="8" break="no"/>ntā viḷakku Erippōm ānōm Ittaḷi paṭṭu Uṭaiyōm eḻuvōm</p>
             </div>
@@ -110,7 +114,7 @@
                 
             </div>
             
-            <div type="translation" resp="part:vagi">
+            <div type="translation" source="bib:Gillet2024_01">
             </div>
             
             <div type="commentary">

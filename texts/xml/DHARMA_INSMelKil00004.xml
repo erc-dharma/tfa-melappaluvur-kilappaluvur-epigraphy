@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mēlappaḻuvūr, Agastyeśvara temple, time of Parāntaka I, year [3]8</title>
+                <title>Mēlappaḻuvūr, Agastyeśvara temple, time of Parāntaka I, year <unclear>3</unclear>8</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -110,13 +110,13 @@
                 <p>Fortune! Prosperity! <supplied reason="subaudible">This is</supplied> the <supplied reason="subaudible">38th</supplied> year of Kōpparakesarivarman who has taken
 Madurai <gap reason="ellipsis"/> of the temple <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of the Lord <supplied reason="explanation"><foreign>īśvara</foreign></supplied> <supplied reason="subaudible">of</supplied> Avanikaṉtaṟpa,<note>That is,
 Kaṉtaṟpa upon earth.</note> a <foreign>devadāna</foreign> of Kuṉṟakkūṟṟam, <gap reason="ellipsis"/> the checking of coins and
-gold <supplied reason="explanation"><foreign>vaṇṇa</foreign><note>for unfinished <foreign>vaṇṇakku</foreign>?</note></supplied> of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> <gap reason="ellipsis"/></p>
+gold <supplied reason="explanation"><foreign>vaṇṇa</foreign><note>That is, unfinished <foreign>vaṇṇakku</foreign>?</note></supplied> of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> <gap reason="ellipsis"/></p>
             </div>
             
             
             <div type="commentary">
-                <p n="01"><foreign><hi rend="grantha">svasti śrī</hi></foreign>. This phrase is at the beginning of the line on the pilaster, on the left of the main text, possiby later added. <bibl><ptr target="bib:Gillet2024_01"/></bibl>: <quote><foreign>svasti śr</foreign>ī is added on the pilaster.</quote></p>
-                <p n="1"><bibl><ptr target="bib:Gillet2024_01"/></bibl>: <quote>The date is most probably 38: <foreign>mu<supplied reason="lost">ppattu</supplied> eṭṭu āvatu</foreign>. Thus, we may supply about four letters at the end of each line of <ref target="DHARMA_INSMelKil00003">#3</ref> and <ref target="DHARMA_INSMelKil00003">#4</ref>.</quote></p>
+                <p n="01"><foreign><hi rend="grantha">svasti śrī</hi></foreign>. This phrase is at the beginning of the line on the pilaster, on the left of the main text, possiby later added. <bibl><ptr target="bib:Gillet2024_01"/></bibl>: <quote><foreign>svasti śrī</foreign> is added on the pilaster.</quote></p>
+                <p n="1"><bibl><ptr target="bib:Gillet2024_01"/></bibl>: <quote>The date is most probably 38: <foreign>mu<supplied reason="lost">ppattu</supplied> eṭṭu āvatu</foreign>. Thus, we may supply about four letters at the end of each line of <ref target="DHARMA_INSMelKil00003"/> and <ref target="DHARMA_INSMelKil00004"/>#4.</quote></p>
                 <p n="3">The inscription is unfinished.</p>
             </div>
             

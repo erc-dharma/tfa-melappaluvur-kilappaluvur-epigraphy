@@ -101,21 +101,26 @@
                 </p>
                 <p>
                     <placeName>kuṉṟakkūṟṟattu</placeName> tēva
-                    <lb n="4" break="no"/>tā<supplied reason="omitted">ṉa</supplied>m Avaṉikantaṟva <hi rend="grantha">Īśva<supplied reason="omitted">ra</supplied>gṛha</hi>
+                    <lb n="4" break="no"/>tā<supplied reason="omitted">ṉa</supplied>m Avaṉikantaṟva-<hi rend="grantha">Īśva<supplied reason="omitted">ra</supplied>gṛha</hi>
                     <lb n="5" break="no"/>ttu <hi rend="grantha"><choice><sic>mā</sic><corr>ma</corr></choice>hādeva</hi>ṟkku Ittaḷi
-                        <lb n="6"/>tēvaṉār makaḷ nakka<gap reason="lost" quantity="1" unit="character"/>ai natiri ma
+                        <lb n="6"/>tēvaṉār makaḷ nakka<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> natiri ma
                         <lb n="7" break="no"/>kaḷ nakkaṉ kaṇṭa pirāṭṭi Ittaḷi
                     <lb n="8"/>tēvatāṉam po<unclear>ykai</unclear>nāṭṭu <placeName><unclear>Ū</unclear>
-                        <lb n="9" break="no"/>kaṉkuṭi</placeName> Apo<hi rend="grantha">ha</hi>naṅ kiṭanta <hi rend="grantha">bhū
+                        <lb n="9" break="no"/>kaṉkuṭi</placeName> Apō<hi rend="grantha">ha</hi>naṅ kiṭanta <hi rend="grantha">bhū
                             <lb n="10" break="no"/>mi</hi>yai kalli macakki kuṭutta <unclear>ṇir ṉi</unclear>
                     <lb n="11" break="no"/>lam Iraṇṭu pū viḷaiyak kuṭutta nila
-                    <lb n="12" break="no"/>m ṉāṉaṅku mā Iṉṉāṉku māvuṅ
+                    <lb n="12" break="no"/>m ṉāṉaṅku mā
+                </p>
+                <p>
+                    Iṉṉāṉku māvuṅ
                     <lb n="13"/>koṇṭu Itiṉil Iraṇṭu pūvum
                     <lb n="14"/>viḷainta <hi rend="grantha">bho</hi>gaṅ koṇṭu O
-                    <lb n="15" break="no"/>ru nontā viḷakku ca<hi rend="grantha">ntrā</hi>tittava
-                    <lb n="16" break="no"/>l Erippōmmānōm Ittaḷi
-                        <lb n="17" break="no"/>p paṭṭ<supplied reason="omitted">uṭ</supplied>ai<unclear>yōm Eḻuvōm</unclear>
-                    <lb n="18"/>Itu <hi rend="grantha">panmāheśvara rakṣai</hi><g type="gomutra">.</g>
+                    <lb n="15" break="no"/>ru nontā-viḷakku ca<hi rend="grantha">ntrā</hi>tittava
+                    <lb n="16" break="no"/>l Erippōmm ānōm Ittaḷi
+                        <lb n="17" break="no"/>p paṭṭ<supplied reason="omitted">uṭ</supplied>ai<unclear>yōm Ēḻuvōm</unclear>
+                </p>
+                <p>
+                    <lb n="18"/>Itu <hi rend="grantha">panmāheśvara rakṣai</hi> <g type="gomutra">.</g>
                 </p>
             </div>      	
             
@@ -134,13 +139,10 @@
                         <note>The first letter of the name of this village, Ūkaṉkuṭi, may be read Ū or Ura, but not Ūra.</note>
                     </app>
                     
-                    
-                    
-                    
                 </listApp>
             </div>
             
-            <div type="translation" resp="part:vagi">
+            <div type="translation" source="bib:Gillet2024_01">
             </div>
             
             <div type="commentary">

@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>AIM, southern shrine; on the westernmost wall section of the <foreign>ardha-maṇḍapa</foreign> of the northern façade (above #4); lost regnal year of <foreign>matirai koṇṭa</foreign> Kōpparakesarivarman = Parāntaka I; the end of the inscription is built over by a wall, rendering impossible a full translation.</p>
+                        <summary><p>AIM, southern shrine; on the westernmost wall section of the <foreign>ardha-maṇḍapa</foreign> of the northern façade (above <ref target="DHARMA_INSMelKil00013"/>); lost regnal year of <foreign>matirai koṇṭa</foreign> Kōpparakesarivarman = Parāntaka I; the end of the inscription is built over by a wall, rendering impossible a full translation.</p>
                             
                         </summary>
                     </msContents>
@@ -107,10 +107,11 @@
             <div type="apparatus">            	               
             </div>
             
-            <div type="translation" resp="part:vagi">
+            <div type="translation" source="bib:Gillet2024_01">
             </div>
             
             <div type="commentary">
+                <p>The end of lines is built in.</p>
             </div>
             
             <div type="bibliography">
