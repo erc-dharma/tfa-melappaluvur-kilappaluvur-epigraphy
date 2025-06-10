@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -87,7 +87,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! This is the 4th year of Kōpparakesarivarman. For Mahādeva of Tiruvālantuṟai of Ciṟupaḻuvūr, a <foreign>brahmadeya</foreign> in Kuṉṟakkūṟṟam (<foreign>kuṉṟakūttu</foreign> &gt; <foreign>kuṉṟakkūṟṟattu</foreign>), Nilaiyaṉ Vempaṉ, a shepherd <supplied reason="explanation"><foreign>maṉṟāṭi</foreign></supplied> of this village <supplied reason="explanation"><foreign>ivvūr</foreign></supplied>, to burn <supplied reason="explanation"><foreign>eriya</foreign></supplied> one sacred lamp <supplied reason="explanation"><foreign>oru tiruviḷakku</foreign></supplied> as long as the sun and the moon endure (<foreign>candrādityal</foreign> &gt; <foreign>candrādityaval</foreign>), for one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>neykku</foreign></supplied> by the <foreign>nārāyam</foreign> [measure] every day (<foreign>nicata </foreign>&gt; <foreign>nicatam</foreign>), gave <supplied reason="explanation"><foreign>vaitta</foreign></supplied> 90 undying and non-ageing <supplied reason="explanation"><foreign>cāvāmūvā</foreign></supplied> great goats <supplied reason="explanation"><foreign>perāṭu</foreign></supplied>. This is under the protection of the Panmāheśvaras.</p></div>
+<p>Fortune! Prosperity! This is the 4th year of Kōpparakesarivarman. For Mahādeva of Tiruvālantuṟai of Ciṟupaḻuvūr, a <foreign>brahmadeya</foreign> in Kuṉṟakkūṟṟam <supplied reason="explanation"><foreign>kuṉṟakūttu</foreign> &gt; <foreign>kuṉṟakkūṟṟattu</foreign></supplied>, Nilaiyaṉ Vempaṉ, a shepherd <supplied reason="explanation"><foreign>maṉṟāṭi</foreign></supplied> of this village <supplied reason="explanation"><foreign>ivvūr</foreign></supplied>, to burn <supplied reason="explanation"><foreign>eriya</foreign></supplied> one sacred lamp <supplied reason="explanation"><foreign>oru tiruviḷakku</foreign></supplied> as long as the sun and the moon endure <supplied reason="explanation"><foreign>candrādityal</foreign> &gt; <foreign>candrādityaval</foreign></supplied>, for one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>neykku</foreign></supplied> by the <foreign>nārāyam</foreign> <supplied reason="subaudible">measure</supplied> every day <supplied reason="explanation"><foreign>nicata </foreign>&gt; <foreign>nicatam</foreign></supplied>, gave <supplied reason="explanation"><foreign>vaitta</foreign></supplied> 90 undying and non-ageing <supplied reason="explanation"><foreign>cāvāmūvā</foreign></supplied> great goats <supplied reason="explanation"><foreign>perāṭu</foreign></supplied>. This is under the protection of the Panmāheśvaras.</p></div>
 
 <div type="commentary">
 

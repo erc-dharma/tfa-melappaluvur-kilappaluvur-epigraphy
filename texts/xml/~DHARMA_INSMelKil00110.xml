@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -72,7 +72,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! This is the 12th year of Kōpparakesarivaman. To Mahādeva of Ciṟupaḻuvūr, a <foreign>brahmadeya</foreign> in Kuṉṟakkūṟṟam, to the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Tiruvālantuṟai, Maturāntakaṉ Kaṇṭarātittan placed (<foreign>vaiytta</foreign> &gt; <foreign>vaitta</foreign>) [for] 1 lamp; he placed (<foreign>vaiytta</foreign> &gt; <foreign>vaitta</foreign>) to burn <supplied reason="explanation"><foreign>eriya</foreign></supplied> one perpetual lamp <supplied reason="explanation"><foreign>onṟum nontāviḷakku</foreign></supplied> one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> everyday (<foreign>nicati</foreign> &gt; <foreign>nicatam</foreign>) with ninety <supplied reason="explanation"><foreign>toṇṇūṟṟinnāl</foreign></supplied> undying and non-ageing <supplied reason="explanation"><foreign>cāvāmūvā</foreign></supplied> great goats <supplied reason="explanation"><foreign>perāṭu</foreign></supplied>. This is under the protection of the Panmāheśvaras.</p></div>
+<p>Fortune! Prosperity! This is the 12th year of Kōpparakesarivaman. To Mahādeva of Ciṟupaḻuvūr, a <foreign>brahmadeya</foreign> in Kuṉṟakkūṟṟam, to the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Tiruvālantuṟai, Maturāntakaṉ Kaṇṭarātittan placed <supplied reason="explanation"><foreign>vaiytta</foreign> &gt; <foreign>vaitta</foreign></supplied> <supplied reason="subaudible">for</supplied> 1 lamp; he placed <supplied reason="explanation"><foreign>vaiytta</foreign> &gt; <foreign>vaitta</foreign></supplied> to burn <supplied reason="explanation"><foreign>eriya</foreign></supplied> one perpetual lamp <supplied reason="explanation"><foreign>onṟum nontāviḷakku</foreign></supplied> one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicati</foreign> &gt; <foreign>nicatam</foreign></supplied> with ninety <supplied reason="explanation"><foreign>toṇṇūṟṟinnāl</foreign></supplied> undying and non-ageing <supplied reason="explanation"><foreign>cāvāmūvā</foreign></supplied> great goats <supplied reason="explanation"><foreign>perāṭu</foreign></supplied>. This is under the protection of the Panmāheśvaras.</p></div>
 
 <div type="commentary">
 

@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -58,7 +58,7 @@
 <p>
 <lb n="1"/> <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha">sti śrī</hi> matirai koṇṭa {broken}
 <lb n="2"/>ḷaiyār Aṭiña<unclear>ṭu</unclear> {broken}
-<lb n="3"/><hi rend="grantha">kā</hi>[<hi rend="grantha">ś</hi>]<hi rend="grantha">yapa</hi>ṉ viṭukaṉ cāt {broken}
+<lb n="3"/><hi rend="grantha">kā</hi><unclear><hi rend="grantha">ś</hi></unclear><hi rend="grantha">yapa</hi>ṉ viṭukaṉ cāt {broken}
 </p>
 
 </div>

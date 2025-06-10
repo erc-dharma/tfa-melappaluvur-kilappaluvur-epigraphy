@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -58,8 +58,8 @@
 <p>
 <lb n="1"/>[[rkkiya maramum maṟṟum kīḻ nokkiya
 <lb n="2"/>ppaḷḷippaṭai<hi rend="grantha">śrī</hi> <hi rend="grantha">kantāśva</hi>]]
-<lb n="3"/>[<unclear>cu</unclear>]ṭṭivanta Iṟai<hi rend="grantha">si</hi>t<hi rend="grantha">dh</hi>āya
-<lb n="4"/>[<unclear>ku</unclear>]tirai neyyum pitānāḻi[<unclear>yum</unclear>]
+<lb n="3"/>[[cu]]ṭṭivanta Iṟai<hi rend="grantha">si</hi>t<hi rend="grantha">dh</hi>āya
+<lb n="4"/>[[ku]]tirai neyyum pitānāḻi[[yum]]
 </p>
 
 </div>
@@ -70,7 +70,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Line 1: <gap reason="lost" extent="unknown" unit="character"/> <foreign>nōkkiya</foreign> (= which saw?) + <foreign>kīḻ</foreign> (=east/under) + <foreign>maṟṟum</foreign> (besides) + <foreign>maramum</foreign> (all the trees?) <gap reason="lost" extent="unknown" unit="character"/> </p><p>Line 2: <gap reason="lost" extent="unknown" unit="character"/> Śrī Kantāśvara Paḷḷipaṭai <gap reason="lost" extent="unknown" unit="character"/> </p><p>Line 3: <gap reason="lost" extent="unknown" unit="character"/> which has come <supplied reason="explanation"><foreign>vanta</foreign></supplied> + tax <supplied reason="explanation"><foreign>iṟai</foreign></supplied> + <foreign>sitdhāya</foreign>? <gap reason="lost" extent="unknown" unit="character"/> </p><p>Line 4: about some amount of <foreign>ghee</foreign></p></div>
+<p>Line 1: <gap reason="lost" extent="unknown" unit="character"/> <foreign>nōkkiya</foreign> <supplied reason="explanation">= which saw?</supplied> + <foreign>kīḻ</foreign> <supplied reason="explanation">=east/under</supplied> + <foreign>maṟṟum</foreign> <supplied reason="explanation">besides</supplied> + <foreign>maramum</foreign> <supplied reason="explanation">all the trees?</supplied> <gap reason="lost" extent="unknown" unit="character"/></p><p>Line 2: <gap reason="lost" extent="unknown" unit="character"/> Śrī Kantāśvara Paḷḷipaṭai <gap reason="lost" extent="unknown" unit="character"/></p><p>Line 3: <gap reason="lost" extent="unknown" unit="character"/> which has come <supplied reason="explanation"><foreign>vanta</foreign></supplied> + tax <supplied reason="explanation"><foreign>iṟai</foreign></supplied> + <foreign>sitdhāya</foreign>? <gap reason="lost" extent="unknown" unit="character"/></p><p>Line 4: about some amount of <foreign>ghee</foreign></p></div>
 
 <div type="commentary">
 

@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -69,7 +69,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! This is the 14th year of Tribhuvana Cakkaravattikaḷ Śrī Kolottuṅkacōḻadevar. We of the great assembly <supplied reason="explanation"><foreign>peruṅkuṟi</foreign></supplied> of the Mahāsabhā, including <supplied reason="explanation"><foreign>uḷḷiṭṭa</foreign></supplied> Cāntira <gap reason="lost" extent="unknown" unit="character"/> ntan Nārāyaṇa Bhaṭṭaṉ of Paḻuvūr, in Ciṟupaḻuvūr, a <foreign>brahmadeya</foreign> in Kuṉṟakkūṟṟam of Uttuṅkatuṅkavaḷanāṭu on the northern bank <supplied reason="explanation"><foreign>vaṭakarai</foreign></supplied>, and Pālāciriyaṉ Vināyaka Paṭṭaṉ of Cāttamaṅkalam; a sale document <supplied reason="explanation"><foreign>vilaiyāvaṇam</foreign></supplied> [for] the land (<foreign>nila</foreign> <gap reason="lost" extent="unknown" unit="character"/> ); Cokkaṉ Tiruvaiyāṟuṭaiṉa <gap reason="lost" extent="unknown" unit="character"/> , lord <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Pūñcuṟṟūr of Kiḻāṟkkūṟṟam of Nitavinotavaḷanāṭu on the southern bank <supplied reason="explanation"><foreign>teṉkarai</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> </p></div>
+<p>Fortune! Prosperity! This is the 14th year of Tribhuvana Cakkaravattikaḷ Śrī Kolottuṅkacōḻadevar. We of the great assembly <supplied reason="explanation"><foreign>peruṅkuṟi</foreign></supplied> of the Mahāsabhā, including <supplied reason="explanation"><foreign>uḷḷiṭṭa</foreign></supplied> Cāntira<gap reason="lost" extent="unknown" unit="character"/>ntan Nārāyaṇa Bhaṭṭaṉ of Paḻuvūr, in Ciṟupaḻuvūr, a <foreign>brahmadeya</foreign> in Kuṉṟakkūṟṟam of Uttuṅkatuṅkavaḷanāṭu on the northern bank <supplied reason="explanation"><foreign>vaṭakarai</foreign></supplied>, and Pālāciriyaṉ Vināyaka Paṭṭaṉ of Cāttamaṅkalam; a sale document <supplied reason="explanation"><foreign>vilaiyāvaṇam</foreign></supplied> <supplied reason="subaudible">for</supplied> the land <supplied reason="explanation"><foreign>nila</foreign><gap reason="lost" extent="unknown" unit="character"/></supplied>; Cokkaṉ Tiruvaiyāṟuṭaiṉa<gap reason="lost" extent="unknown" unit="character"/>, lord <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Pūñcuṟṟūr of Kiḻāṟkkūṟṟam of Nitavinotavaḷanāṭu on the southern bank <supplied reason="explanation"><foreign>teṉkarai</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/></p></div>
 
 <div type="commentary">
 

@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -70,7 +70,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>This is the year <gap reason="lost" extent="unknown" unit="character"/> of Kōppara<supplied reason="lost">kesarivarman</supplied>. <gap reason="lost" extent="unknown" unit="character"/> Maṟaṉī<supplied reason="lost">śvara</supplied> of Ciṟupaḻuvūr of Kuṉṟakkūṟṟam <gap reason="lost" extent="unknown" unit="character"/> the shepherd ({{<foreign>maṉ</foreign>}}<foreign>ṟāṭi</foreign>) Tuṭakkaṉ Vīrāna <gap reason="lost" extent="unknown" unit="character"/> , <gap reason="lost" extent="unknown" unit="character"/> seven <supplied reason="explanation"><foreign>eḻu</foreign></supplied> seven <foreign>nāḻi</foreign>s (? <foreign>eḻiṉāla</foreign> &gt; <foreign>eḻunāḻi</foreign>) of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> </p></div>
+<p>This is the year <gap reason="lost" extent="unknown" unit="character"/> of Kōppara<supplied reason="lost">kesarivarman</supplied>. <gap reason="lost" extent="unknown" unit="character"/> Maṟaṉī<supplied reason="lost">śvara</supplied> of Ciṟupaḻuvūr of Kuṉṟakkūṟṟam <gap reason="lost" extent="unknown" unit="character"/> the shepherd <supplied reason="explanation"><supplied reason="lost"><foreign>maṉ</foreign></supplied><foreign>ṟāṭi</foreign></supplied> Tuṭakkaṉ Vīrāna<gap reason="lost" extent="unknown" unit="character"/>, <gap reason="lost" extent="unknown" unit="character"/> seven <supplied reason="explanation"><foreign>eḻu</foreign></supplied> seven <foreign>nāḻi</foreign>s <supplied reason="explanation">? <foreign>eḻiṉāla</foreign> &gt; <foreign>eḻunāḻi</foreign></supplied> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/></p></div>
 
 <div type="commentary">
 

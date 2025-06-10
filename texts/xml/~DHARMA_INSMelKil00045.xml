@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -56,9 +56,9 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
 
 <p>
-<lb n="1"/><hi rend="grantha">svasti śrī</hi> kopparake<hi rend="grantha">sa</hi>ripaṉmaṟku [<unclear>yā</unclear>]ṇṭu 2 Āvatu ku
-<lb n="2"/>ṉṟakūṟṟattu maṉṉupperumpaḻuvūr [<unclear>pakaivi</unclear>]ṭai<hi rend="grantha">Īśva</hi>ra<hi rend="grantha">gṛha</hi>
-<lb n="3"/>tu ma<hi rend="grantha">hade</hi>va[<unclear>ṟku</unclear>] Avanikantaṟpa <hi rend="grantha">Īśva</hi>ra<hi rend="grantha">gṛ</hi>[<hi rend="grantha">ha</hi>]ttu paṭṭu U
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> kopparake<hi rend="grantha">sa</hi>ripaṉmaṟku [[yā]]ṇṭu 2 Āvatu ku
+<lb n="2"/>ṉṟakūṟṟattu maṉṉupperumpaḻuvūr [[pakaivi]]ṭai<hi rend="grantha">Īśva</hi>ra<hi rend="grantha">gṛha</hi>
+<lb n="3"/>tu ma<hi rend="grantha">hade</hi>va[[ṟku]] Avanikantaṟpa <hi rend="grantha">Īśva</hi>ra<hi rend="grantha">gṛ</hi><unclear><hi rend="grantha">ha</hi></unclear>ttu paṭṭu U
 </p>
 
 </div>
@@ -69,7 +69,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! This is the 2nd year of Kōpparakesarivarman. <supplied reason="lost">To</supplied> Mahādeva <supplied reason="explanation"><foreign>mahadeva &gt; mahādeva</foreign></supplied> of the shrine <supplied reason="explanation"><foreign>gṛhatu</foreign></supplied> of the Lord <supplied reason="explanation"><foreign>īśvara</foreign></supplied> [of] Pakaiviṭai of Maṉṉupperumpaḻuvūr of Kuṉṟakkūṟṟam, the Paṭṭu<supplied reason="lost">ṭaiyārs</supplied> of the shrine <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of the Lord <supplied reason="explanation"><foreign>īśvara</foreign></supplied> [of] Avanikantaṟpa <gap reason="lost" extent="unknown" unit="character"/> </p></div>
+<p>Fortune! Prosperity! This is the 2nd year of Kōpparakesarivarman. <supplied reason="lost">To</supplied> Mahādeva <supplied reason="explanation"><foreign>mahadeva &gt; mahādeva</foreign></supplied> of the shrine <supplied reason="explanation"><foreign>gṛhatu</foreign></supplied> of the Lord <supplied reason="explanation"><foreign>īśvara</foreign></supplied> <supplied reason="subaudible">of</supplied> Pakaiviṭai of Maṉṉupperumpaḻuvūr of Kuṉṟakkūṟṟam, the Paṭṭu<supplied reason="lost">ṭaiyārs</supplied> of the shrine <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of the Lord <supplied reason="explanation"><foreign>īśvara</foreign></supplied> <supplied reason="subaudible">of</supplied> Avanikantaṟpa<gap reason="lost" extent="unknown" unit="character"/></p></div>
 
 <div type="commentary">
 

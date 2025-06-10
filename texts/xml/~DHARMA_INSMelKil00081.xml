@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -83,7 +83,7 @@
 <lb n="24"/> <gap reason="lost" quantity="2" unit="character"/> <unclear>A</unclear>nār Ic
 <lb n="25"/>ci<unclear>ṟupaḻuvūr</unclear><hi rend="grantha">sa</hi>
 <lb n="26"/><hi rend="grantha">bhai</hi>y<unclear>ā</unclear>r Itta <gap reason="lost" quantity="1" unit="character"/> 
-<lb n="27"/><hi rend="grantha">māhe</hi>[<hi rend="grantha">śva</hi>] <gap reason="lost" quantity="2" unit="character"/> [<hi rend="grantha">kṣai</hi>]
+<lb n="27"/><hi rend="grantha">māhe</hi><unclear><hi rend="grantha">śva</hi></unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear><hi rend="grantha">kṣai</hi></unclear>
 </p>
 
 </div>
@@ -94,7 +94,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! This is the 22nd year of Kōpparakesarivarman who has taken Madurai. To Mahādeva of Tiruvalāntuṟai of Ciṟupaḻuvūr of Kuṉṟakkūṟṟam, a woman <supplied reason="explanation"><foreign>peṇṭāṭṭi</foreign></supplied> of the women quarters <supplied reason="explanation"><foreign>vēḷattiṟ</foreign></supplied> of Kaṇṭarātittar in Tañcāvūr, Nantiṅkaṭatti, placed <supplied reason="explanation"><foreign>vaicca</foreign></supplied> to burn <supplied reason="explanation"><foreign>eriya</foreign></supplied> one perpetual lamp (<foreign>oru nottāviḷakku</foreign> &gt; <foreign>nontāviḷakku</foreign>), in the care <supplied reason="explanation"><foreign>vacam</foreign></supplied> of those of the Sabhā <supplied reason="explanation"><foreign>sabhaiyār</foreign></supplied> of this village <supplied reason="explanation"><foreign>ivūr</foreign></supplied>, gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> 90 undying and non-ageing <supplied reason="explanation"><foreign>cāvāmūvā</foreign></supplied> great goats <supplied reason="explanation"><foreign>perāṭu</foreign></supplied>; with all these ninety goats <supplied reason="explanation"><foreign>ittoṇṇūṟu āṭṭāllum</foreign></supplied>, those of the Sabhā <supplied reason="explanation"><foreign>sabhaiyār</foreign></supplied> of Ciṟupaḻuvūr will supply (<foreign>āṭṭu</foreign>{{<foreign>vār</foreign>}}<foreign>anār</foreign>) one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>neyi &gt; ney</foreign></supplied> by the <foreign>nārāyam</foreign> [measure] <supplied reason="explanation"><foreign>nārāyattāl</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicatam</foreign></supplied>. This is under the protection of the Panmāheśvaras.</p></div>
+<p>Fortune! Prosperity! This is the 22nd year of Kōpparakesarivarman who has taken Madurai. To Mahādeva of Tiruvalāntuṟai of Ciṟupaḻuvūr of Kuṉṟakkūṟṟam, a woman <supplied reason="explanation"><foreign>peṇṭāṭṭi</foreign></supplied> of the women quarters <supplied reason="explanation"><foreign>vēḷattiṟ</foreign></supplied> of Kaṇṭarātittar in Tañcāvūr, Nantiṅkaṭatti, placed <supplied reason="explanation"><foreign>vaicca</foreign></supplied> to burn <supplied reason="explanation"><foreign>eriya</foreign></supplied> one perpetual lamp <supplied reason="explanation"><foreign>oru nottāviḷakku</foreign> &gt; <foreign>nontāviḷakku</foreign></supplied>, in the care <supplied reason="explanation"><foreign>vacam</foreign></supplied> of those of the Sabhā <supplied reason="explanation"><foreign>sabhaiyār</foreign></supplied> of this village <supplied reason="explanation"><foreign>ivūr</foreign></supplied>, gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> 90 undying and non-ageing <supplied reason="explanation"><foreign>cāvāmūvā</foreign></supplied> great goats <supplied reason="explanation"><foreign>perāṭu</foreign></supplied>; with all these ninety goats <supplied reason="explanation"><foreign>ittoṇṇūṟu āṭṭāllum</foreign></supplied>, those of the Sabhā <supplied reason="explanation"><foreign>sabhaiyār</foreign></supplied> of Ciṟupaḻuvūr will supply <supplied reason="explanation"><foreign>āṭṭu</foreign><supplied reason="lost"><foreign>vār</foreign></supplied><foreign>anār</foreign></supplied> one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>neyi &gt; ney</foreign></supplied> by the <foreign>nārāyam</foreign> <supplied reason="subaudible">measure</supplied> <supplied reason="explanation"><foreign>nārāyattāl</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicatam</foreign></supplied>. This is under the protection of the Panmāheśvaras.</p></div>
 
 <div type="commentary">
 

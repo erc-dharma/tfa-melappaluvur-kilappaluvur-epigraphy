@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -67,7 +67,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Propserity! This is the 16th year of Kōpparakesarivarman. <gap reason="lost" extent="unknown" unit="character"/> </p></div>
+<p>Fortune! Propserity! This is the 16th year of Kōpparakesarivarman. <gap reason="lost" extent="unknown" unit="character"/></p></div>
 
 <div type="commentary">
 

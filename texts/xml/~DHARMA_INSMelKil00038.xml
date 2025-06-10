@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -56,7 +56,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
 
 <p>
-<lb n="1"/><hi rend="grantha">svasti śrī</hi> koppara[<unclear>ke</unclear>]caripaṉmakki yāṇṭu Añcāvatu kuṉṟakkūṟṟattu maṉṉupperumpaḻuvūr pakai
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> koppara[[ke]]caripaṉmakki yāṇṭu Añcāvatu kuṉṟakkūṟṟattu maṉṉupperumpaḻuvūr pakai
 <lb n="2"/>viṭai<hi rend="grantha">Īśvagi</hi>ra<hi rend="grantha">ha</hi>ttu <hi rend="grantha">mahade</hi>vakkku<note>The first k, which has a<hi rend="grantha">puḷḷi</hi>, was probably intended for a r.</note> Itaḷik kūttapiḷḷai nakkaṉ kiṭaṉtaperumāṉ vaitta viḷakku Oṉṟunā
 <lb n="3"/>l poṉ 10 pattu
 </p>
@@ -69,7 +69,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! This is the fifth year of Kōpparakesarivarman. For Mahādeva (<foreign>mahadevakkku</foreign> &gt; <foreign>mahādevarkku</foreign>) of the shrine (<foreign>girahattu</foreign> &gt; <foreign>gṛhattu</foreign>) of the Lord (<foreign>īśva</foreign> &gt; <foreign>īśvara</foreign>) [of] Pakaiviṭai [lit. a bull/distress <supplied reason="explanation"><foreign>viṭai</foreign></supplied> for his enemies <supplied reason="explanation"><foreign>pakai</foreign></supplied>] of Maṉṉupperumpaḻuvūr [lit. the exceedingly <supplied reason="explanation"><foreign>maṉṉum</foreign></supplied> big <supplied reason="explanation"><foreign>perum</foreign></supplied> Paḻuvūr)] of Kuṉṟakkūṟṟam, the dancing child <supplied reason="explanation"><foreign>kūtta-piḷḷai</foreign></supplied> of this temple (<foreign>itaḷi </foreign>&gt; <foreign>ittaḷi</foreign>) Nakkaṉ Kiṭaṉtaperumāṉ placed <supplied reason="explanation"><foreign>vaitta</foreign></supplied> ten 10 [<foreign>kaḻañcu</foreign>s] of gold <supplied reason="explanation"><foreign>poṉ</foreign></supplied> with one <supplied reason="explanation"><foreign>oṉṟunāl</foreign></supplied> lamp <supplied reason="explanation"><foreign>viḷakku</foreign></supplied>.</p></div>
+<p>Fortune! Prosperity! This is the fifth year of Kōpparakesarivarman. For Mahādeva <supplied reason="explanation"><foreign>mahadevakkku</foreign> &gt; <foreign>mahādevarkku</foreign></supplied> of the shrine <supplied reason="explanation"><foreign>girahattu</foreign> &gt; <foreign>gṛhattu</foreign></supplied> of the Lord <supplied reason="explanation"><foreign>īśva</foreign> &gt; <foreign>īśvara</foreign></supplied> <supplied reason="subaudible">of</supplied> Pakaiviṭai <supplied reason="subaudible">lit. a bull/distress <supplied reason="explanation"><foreign>viṭai</foreign></supplied> for his enemies <supplied reason="explanation"><foreign>pakai</foreign></supplied></supplied> of Maṉṉupperumpaḻuvūr <supplied reason="subaudible">lit. the exceedingly <supplied reason="explanation"><foreign>maṉṉum</foreign></supplied> big <supplied reason="explanation"><foreign>perum</foreign></supplied> Paḻuvūr)</supplied> of Kuṉṟakkūṟṟam, the dancing child <supplied reason="explanation"><foreign>kūtta-piḷḷai</foreign></supplied> of this temple <supplied reason="explanation"><foreign>itaḷi </foreign>&gt; <foreign>ittaḷi</foreign></supplied> Nakkaṉ Kiṭaṉtaperumāṉ placed <supplied reason="explanation"><foreign>vaitta</foreign></supplied> ten 10 <supplied reason="subaudible"><foreign>kaḻañcu</foreign>s</supplied> of gold <supplied reason="explanation"><foreign>poṉ</foreign></supplied> with one <supplied reason="explanation"><foreign>oṉṟunāl</foreign></supplied> lamp <supplied reason="explanation"><foreign>viḷakku</foreign></supplied>.</p></div>
 
 <div type="commentary">
 

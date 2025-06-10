@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -56,8 +56,8 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
 
 <p>
-<lb n="1"/><unclear>pa</unclear>ṇik<unclear>ka</unclear> Eḻut<unclear>i</unclear>nen tirukko[<unclear>yil karaṇa</unclear>]ttān paḻuvūr uṭai
-<lb n="2"/><unclear>yān cirāḷa</unclear>n āyirattirun[<unclear>ūṟṟuvan</unclear>] neḻuttu
+<lb n="1"/><unclear>pa</unclear>ṇik<unclear>ka</unclear> Eḻut<unclear>i</unclear>nen tirukko[[yil karaṇa]]ttān paḻuvūr uṭai
+<lb n="2"/><unclear>yān cirāḷa</unclear>n āyirattirun[[ūṟṟuvan]] neḻuttu
 </p>
 
 </div>
@@ -68,7 +68,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>I have written (<foreign>eḻutinēn</foreign> &gt; <foreign>eḻuttinēn</foreign>) to order <supplied reason="explanation"><foreign>paṇikka</foreign></supplied>; the writing <supplied reason="explanation"><foreign>eḻuttu</foreign></supplied> of he of the thousand two hundred <supplied reason="explanation"><foreign>āyiratt-iru-nūṟṟuvan</foreign></supplied> Cirāḷan, lord <supplied reason="explanation"><foreign>uṭaiyān</foreign></supplied> of Paḻuvūr, the accountant <supplied reason="explanation"><foreign>karaṇattān</foreign></supplied> of the holy temple <supplied reason="explanation"><foreign>tirukkōyil</foreign></supplied></p></div>
+<p>I have written <supplied reason="explanation"><foreign>eḻutinēn</foreign> &gt; <foreign>eḻuttinēn</foreign></supplied> to order <supplied reason="explanation"><foreign>paṇikka</foreign></supplied>; the writing <supplied reason="explanation"><foreign>eḻuttu</foreign></supplied> of he of the thousand two hundred <supplied reason="explanation"><foreign>āyiratt-iru-nūṟṟuvan</foreign></supplied> Cirāḷan, lord <supplied reason="explanation"><foreign>uṭaiyān</foreign></supplied> of Paḻuvūr, the accountant <supplied reason="explanation"><foreign>karaṇattān</foreign></supplied> of the holy temple <supplied reason="explanation"><foreign>tirukkōyil</foreign></supplied></p></div>
 
 <div type="commentary">
 

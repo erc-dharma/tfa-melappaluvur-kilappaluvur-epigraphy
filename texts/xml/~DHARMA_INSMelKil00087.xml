@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -64,12 +64,12 @@
 <lb n="6"/>Āvatu kuṉ<unclear>ṟa</unclear>kk<unclear>ū</unclear>
 <lb n="7"/>ṟṟattu<hi rend="grantha">brahmade</hi>ya
 <lb n="8"/>m cirupaḻuvūrt
-<lb n="9"/>tiruvālantuṟai <g type="kaḻañcu"/><hi rend="grantha">mahā</hi>[[<hi rend="grantha">de</hi>va]]
-<lb n="10"/>rkku paḻuveṭṭarai <g type="kaḻañcu"/> yar vi<hi rend="grantha">kra</hi>[[<hi rend="grantha">mā</hi>]]
-<lb n="11"/><hi rend="bold"> </hi>[<hi rend="grantha">di</hi>]<hi rend="grantha">tyar de</hi>viyār rāma <g type="kaḻañcu"/> ṉ kovi[<unclear>yā</unclear>]
-<lb n="12"/>r ca<hi rend="grantha">ndraditya</hi>val Oru pi <g type="kaḻañcu"/> [<unclear>ṭi neyy a</unclear>]
-<lb n="13"/>ṭṭuvarāka Ivvūr<hi rend="grantha">sabhai <g type="kaḻañcu"/> </hi>yār vaca<unclear>m</unclear>
-<lb n="14"/>kuṭutta Āṭu <unclear>22</unclear><note>The editions of SII propose 12. It is possible, but I think there is a 2 before the 10, which can be seen rather clearly on pictures preceding the recent painting.</note> <g type="kaḻañcu"/> Itu [pan<hi rend="grantha">mā</hi>]
+<lb n="9"/>tiruvālantuṟai ‡<hi rend="grantha">mahā</hi>[[<hi rend="grantha">de</hi>va]]
+<lb n="10"/>rkku paḻuveṭṭarai ‡ yar vi<hi rend="grantha">kra</hi>[[<hi rend="grantha">mā</hi>]]
+<lb n="11"/><hi rend="bold"> </hi><unclear><hi rend="grantha">di</hi></unclear><hi rend="grantha">tyar de</hi>viyār rāma ‡ ṉ kovi[[yā]]
+<lb n="12"/>r ca<hi rend="grantha">ndraditya</hi>val Oru pi ‡ [[ṭi neyy a]]
+<lb n="13"/>ṭṭuvarāka Ivvūr<hi rend="grantha">sabhai ‡ </hi>yār vaca<unclear>m</unclear>
+<lb n="14"/>kuṭutta Āṭu <unclear>22</unclear><note>The editions of SII propose 12. It is possible, but I think there is a 2 before the 10, which can be seen rather clearly on pictures preceding the recent painting.</note> ‡ Itu <unclear>pan<hi rend="grantha">mā</hi></unclear>
 <lb n="15"/><hi rend="grantha"> heśvara rakṣai</hi>
 </p>
 

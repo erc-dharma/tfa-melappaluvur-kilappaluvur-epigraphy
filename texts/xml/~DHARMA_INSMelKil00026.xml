@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -68,7 +68,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! [This] Dhvajapīṭam (lit. flag-platform) was built <supplied reason="explanation"><foreign>eṭupitta</foreign></supplied> by the Kaikkōḷar [of] Aṭikaḷ Paḻuvēṭṭaraiyar, Mātevaṉ Iraṇamukarāman.</p></div>
+<p>Fortune! Prosperity! <supplied reason="subaudible">This</supplied> Dhvajapīṭam <supplied reason="explanation">lit. flag-platform</supplied> was built <supplied reason="explanation"><foreign>eṭupitta</foreign></supplied> by the Kaikkōḷar <supplied reason="subaudible">of</supplied> Aṭikaḷ Paḻuvēṭṭaraiyar, Mātevaṉ Iraṇamukarāman.</p></div>
 
 <div type="commentary">
 

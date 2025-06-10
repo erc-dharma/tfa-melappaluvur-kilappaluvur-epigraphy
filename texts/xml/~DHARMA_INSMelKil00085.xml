@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -67,14 +67,14 @@
 <lb n="9"/><hi rend="grantha">de</hi>varkku nontāvi
 <lb n="10"/>ḷakku Oṉ<unclear>ṟ</unclear>ṟu <unclear>Eri</unclear>ya
 <lb n="11"/>paḻuvūr nakaṉ kāṭa
-<lb n="12"/>nār iv <g type="kaḻañcu"/> vūr<hi rend="grantha">sabhai</hi>yār vacam
-<lb n="13"/>kuṭutta <g type="kaḻañcu"/> cāvāmuvā perāṭu
-<lb n="14"/>90 <g type="kaḻañcu"/> Ittoṇṇūṟu
-<lb n="15"/>Āṭṭā <g type="kaḻañcu"/> lum nicatam nārā
-<lb n="16"/>yattā <g type="kaḻañcu"/> l Uḻakku ney aṭ
-<lb n="17"/>ṭuvo <g type="kaḻañcu"/> m Ānom [<unclear>Icciṟu</unclear>]
-<lb n="18"/>paḻu <g type="kaḻañcu"/> vūr<hi rend="grantha">sabhai</hi>yom <unclear>I</unclear>
-<lb n="19"/>tu pa<hi rend="grantha">nma <g type="kaḻañcu"/> heśvara </hi>[<hi rend="grantha">rakṣai</hi>]
+<lb n="12"/>nār iv ‡ vūr<hi rend="grantha">sabhai</hi>yār vacam
+<lb n="13"/>kuṭutta ‡ cāvāmuvā perāṭu
+<lb n="14"/>90 ‡ Ittoṇṇūṟu
+<lb n="15"/>Āṭṭā ‡ lum nicatam nārā
+<lb n="16"/>yattā ‡ l Uḻakku ney aṭ
+<lb n="17"/>ṭuvo ‡ m Ānom [[Icciṟu]]
+<lb n="18"/>paḻu ‡ vūr<hi rend="grantha">sabhai</hi>yom <unclear>I</unclear>
+<lb n="19"/>tu pa<hi rend="grantha">nma ‡ heśvara </hi><unclear><hi rend="grantha">rakṣai</hi></unclear>
 </p>
 
 </div>
@@ -85,7 +85,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! This is the 10th year of Kōvirājakesarivarman. To Mahādeva (<foreign>mahadeva</foreign> &gt; <foreign>mahādeva</foreign>) of Tiruvālantuṟai of Ciṟupaḻuvūr, a <foreign>brahmadeya</foreign> of Kuṉṟakkūṟṟam, to burn <supplied reason="explanation"><foreign>eriya</foreign></supplied> one <supplied reason="explanation"><foreign>oṉṟṟu &gt; oṉṟu</foreign></supplied> perpetual lamp <supplied reason="explanation"><foreign>nontāviḷakku</foreign></supplied>, Nakaṉ Kāṭanār of Paḻuvūr, gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> 90 undying and non-ageing <supplied reason="explanation"><foreign>cāvāmuvā</foreign></supplied> great goats <supplied reason="explanation"><foreign>perāṭu</foreign></supplied> in the care of <supplied reason="explanation"><foreign>vacam</foreign></supplied> those of the Sabhā <supplied reason="explanation"><foreign>sabhaiyār</foreign></supplied> of this town <supplied reason="explanation"><foreign>ivvūr</foreign></supplied>; we, the Sabhā <supplied reason="explanation"><foreign>sabhaiyōm</foreign></supplied> of this Ciṟupaḻuvūr, will have to supply <supplied reason="explanation"><foreign>aṭṭuvōmāṉōm</foreign></supplied> one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> by the <foreign>nārāyam</foreign> [measure] <supplied reason="explanation"><foreign>nārāyattāl</foreign></supplied> every day <supplied reason="explanation"><foreign>nicatam</foreign></supplied> with all these ninety goats <supplied reason="explanation"><foreign>ittoṇṇūṟu āṭṭālum</foreign></supplied>. This is under the protection of the Panmāheśvaras (<foreign>panmaheśvara</foreign> &gt; <foreign>panmāheśvara</foreign>).</p></div>
+<p>Fortune! Prosperity! This is the 10th year of Kōvirājakesarivarman. To Mahādeva <supplied reason="explanation"><foreign>mahadeva</foreign> &gt; <foreign>mahādeva</foreign></supplied> of Tiruvālantuṟai of Ciṟupaḻuvūr, a <foreign>brahmadeya</foreign> of Kuṉṟakkūṟṟam, to burn <supplied reason="explanation"><foreign>eriya</foreign></supplied> one <supplied reason="explanation"><foreign>oṉṟṟu &gt; oṉṟu</foreign></supplied> perpetual lamp <supplied reason="explanation"><foreign>nontāviḷakku</foreign></supplied>, Nakaṉ Kāṭanār of Paḻuvūr, gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> 90 undying and non-ageing <supplied reason="explanation"><foreign>cāvāmuvā</foreign></supplied> great goats <supplied reason="explanation"><foreign>perāṭu</foreign></supplied> in the care of <supplied reason="explanation"><foreign>vacam</foreign></supplied> those of the Sabhā <supplied reason="explanation"><foreign>sabhaiyār</foreign></supplied> of this town <supplied reason="explanation"><foreign>ivvūr</foreign></supplied>; we, the Sabhā <supplied reason="explanation"><foreign>sabhaiyōm</foreign></supplied> of this Ciṟupaḻuvūr, will have to supply <supplied reason="explanation"><foreign>aṭṭuvōmāṉōm</foreign></supplied> one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> by the <foreign>nārāyam</foreign> <supplied reason="subaudible">measure</supplied> <supplied reason="explanation"><foreign>nārāyattāl</foreign></supplied> every day <supplied reason="explanation"><foreign>nicatam</foreign></supplied> with all these ninety goats <supplied reason="explanation"><foreign>ittoṇṇūṟu āṭṭālum</foreign></supplied>. This is under the protection of the Panmāheśvaras <supplied reason="explanation"><foreign>panmaheśvara</foreign> &gt; <foreign>panmāheśvara</foreign></supplied>.</p></div>
 
 <div type="commentary">
 

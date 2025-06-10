@@ -33,7 +33,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><p>#67 (Figure 20). a) Maṟavaṉīśvara temple; b) on the eastern side of the niche of Dakṣiṇāmūrti, on the southern façade of the sanctuary; c) personally located and read in situ; d) ARE 1926, no. 221; e) 29th regnal year of <foreign>Mati</foreign>{{<foreign>rai koṇṭa</foreign> Kōpparakesarivarman}}; f) Parāntaka I (<foreign>circa</foreign> 936 A.D.); g) inscription not read with anyone.</p>
+						<summary><p>#67 (Figure 20). a) Maṟavaṉīśvara temple; b) on the eastern side of the niche of Dakṣiṇāmūrti, on the southern façade of the sanctuary; c) personally located and read in situ; d) ARE 1926, no. 221; e) 29th regnal year of <foreign>Mati</foreign><supplied reason="lost"><foreign>rai koṇṭa</foreign> Kōpparakesarivarman</supplied>; f) Parāntaka I (<foreign>circa</foreign> 936 A.D.); g) inscription not read with anyone.</p>
 
 </summary>
 					</msContents>
@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -72,7 +72,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! [This is] the 29th year of <supplied reason="lost">Kōpparakesarivarman who has taken</supplied> Madu<supplied reason="lost">rai</supplied>. <gap reason="lost" extent="unknown" unit="character"/> Tiruvalantuṟai <gap reason="lost" extent="unknown" unit="character"/> of <supplied reason="lost">Ciṟupa</supplied>ḻuvūr <gap reason="lost" extent="unknown" unit="character"/> a <foreign>brahmadeya</foreign> of <gap reason="lost" extent="unknown" unit="character"/> as long as the sun and the moon endure <gap reason="lost" extent="unknown" unit="character"/> undying and non-ageing great goats (<foreign>cāvām</foreign>{{<foreign>ūvāpperāṭu</foreign>}}) for a lamp ({{<foreign>vi</foreign>}}<foreign>ḷakkiṉukku</foreign>) <gap reason="lost" extent="unknown" unit="character"/> </p></div>
+<p>Fortune! Prosperity! <supplied reason="subaudible">This is</supplied> the 29th year of <supplied reason="lost">Kōpparakesarivarman who has taken</supplied> Madu<supplied reason="lost">rai</supplied>. <gap reason="lost" extent="unknown" unit="character"/> Tiruvalantuṟai <gap reason="lost" extent="unknown" unit="character"/> of <supplied reason="lost">Ciṟupa</supplied>ḻuvūr <gap reason="lost" extent="unknown" unit="character"/> a <foreign>brahmadeya</foreign> of <gap reason="lost" extent="unknown" unit="character"/> as long as the sun and the moon endure <gap reason="lost" extent="unknown" unit="character"/> undying and non-ageing great goats <supplied reason="explanation"><foreign>cāvām</foreign><supplied reason="lost"><foreign>ūvāpperāṭu</foreign></supplied></supplied> for a lamp <supplied reason="explanation"><supplied reason="lost"><foreign>vi</foreign></supplied><foreign>ḷakkiṉukku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/></p></div>
 
 <div type="commentary">
 

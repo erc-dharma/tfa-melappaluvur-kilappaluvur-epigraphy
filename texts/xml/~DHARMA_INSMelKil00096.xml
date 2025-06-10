@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -58,7 +58,7 @@
 <p>
 <lb n="1"/><hi rend="grantha">svasti śrī</hi>
 <lb n="2"/>maturai koṇ
-<lb n="3"/>ṭa kopparake[<hi rend="grantha">sa</hi>]
+<lb n="3"/>ṭa kopparake<unclear><hi rend="grantha">sa</hi></unclear>
 <lb n="4"/>ri<hi rend="grantha">panma</hi>ṟku yāṇ
 <lb n="5"/>ṭu 10 Āvatu ci
 <lb n="6"/>ṟupaḻuvūrt ti

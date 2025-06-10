@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -56,7 +56,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
 
 <p>
-<lb n="1"/><hi rend="grantha">svasti śrī</hi><note><hi rend="grantha">svasti śrī</hi> is added on the pilaster.</note> <g type="kaḻañcu"/> matirai koṇṭak kopparakecaripanmakki yāṇṭu mu {built over}
+<lb n="1"/><hi rend="grantha">svasti śrī</hi><note><hi rend="grantha">svasti śrī</hi> is added on the pilaster.</note> ‡ matirai koṇṭak kopparakecaripanmakki yāṇṭu mu {built over}
 <lb n="2"/>Eṭṭā Āvatu kuṉṟakūṟṟattu Avanikaṉtaṟpa ˚<hi rend="grantha">īśvagṛha</hi>ttu {built over}
 <lb n="3"/>ṭai Ittaḷi vaṇṇa {unfinished}
 </p>
@@ -69,7 +69,7 @@
 
 <div type="translation" source="bib:Gillet2024_01">
 
-<p>Fortune! Prosperity! This is the [thirty-eight] year of Kōpparakesarivarman who has taken Madurai. <gap reason="lost" extent="unknown" unit="character"/> of the temple <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of the Lord <supplied reason="explanation"><foreign>īśvara</foreign></supplied> [of] Avanikaṉtaṟpa (i.e. Kaṉtaṟpa upon earth), a <foreign>devadāna</foreign> of Kuṉṟakkūṟṟam, <gap reason="lost" extent="unknown" unit="character"/> the checking of coins and gold (<foreign>vaṇṇa</foreign> for unfinished <foreign>vaṇṇakku</foreign>?) of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> </p></div>
+<p>Fortune! Prosperity! This is the <supplied reason="subaudible">thirty-eight</supplied> year of Kōpparakesarivarman who has taken Madurai. <gap reason="lost" extent="unknown" unit="character"/> of the temple <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of the Lord <supplied reason="explanation"><foreign>īśvara</foreign></supplied> <supplied reason="subaudible">of</supplied> Avanikaṉtaṟpa <supplied reason="explanation">i.e. Kaṉtaṟpa upon earth</supplied>, a <foreign>devadāna</foreign> of Kuṉṟakkūṟṟam, <gap reason="lost" extent="unknown" unit="character"/> the checking of coins and gold <supplied reason="explanation"><foreign>vaṇṇa</foreign> for unfinished <foreign>vaṇṇakku</foreign>?</supplied> of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/></p></div>
 
 <div type="commentary">
 

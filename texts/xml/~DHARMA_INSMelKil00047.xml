@@ -47,7 +47,7 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-05-28" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -56,27 +56,27 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
 
 <p>
-<lb n="1"/>{unlegible} <g type="kaḻañcu"/> {unlegible} <unclear>mmaṉ</unclear>
-<lb n="2"/>{unlegible} <g type="kaḻañcu"/> <gap reason="lost" quantity="2" unit="character"/> <unclear>taṉ</unclear> <g type="kaḻañcu"/> {unlegible} <gap reason="lost" quantity="1" unit="character"/> lara <gap reason="lost" quantity="2" unit="character"/> 
-<lb n="3"/>{unlegible} <g type="kaḻañcu"/> kalat<unclear>tu</unclear> <g type="kaḻañcu"/> {unlegible} <unclear>Amuta</unclear>
-<lb n="4"/> <gap reason="lost" quantity="3" unit="character"/> maḻa <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> {unlegible} <gap reason="lost" quantity="3" unit="character"/> 
-<lb n="5"/>{unlegible} <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> {unlegible} <gap reason="lost" quantity="4" unit="character"/> 
-<lb n="6"/> <gap reason="lost" quantity="7" unit="character"/> vi <gap reason="lost" quantity="2" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="3" unit="character"/> {unlegible}
-<lb n="7"/>ḻa <gap reason="lost" quantity="1" unit="character"/> cilappottat<unclear>u</unclear> <g type="kaḻañcu"/> <unclear>Uraiyu</unclear> <g type="kaḻañcu"/> m tu {unlegible}
-<lb n="8"/> <gap reason="lost" quantity="1" unit="character"/> <unclear>pakai</unclear>viṭai ˚<hi rend="grantha">īśva <g type="kaḻañcu"/> </hi> <gap reason="lost" quantity="2" unit="character"/> <unclear>ṭai</unclear> <g type="kaḻañcu"/> <unclear>ya</unclear> <gap reason="lost" quantity="2" unit="character"/> {unlegible}
-<lb n="9"/>{unlegible} <g type="kaḻañcu"/> [ku<hi rend="grantha">śrī</hi>] <gap reason="lost" quantity="1" unit="character"/> <g type="kaḻañcu"/> {unlegible}
-<lb n="10"/>{unlegible} <g type="kaḻañcu"/> ṭaiyani <g type="kaḻañcu"/> <gap reason="lost" quantity="2" unit="character"/> mu {unlegible}
-<lb n="10"/> <gap reason="lost" quantity="6" unit="character"/> <unclear>U</unclear>ṉ <g type="kaḻañcu"/> ṉilattu <g type="kaḻañcu"/> ku kiḻa <gap reason="lost" quantity="1" unit="character"/> {unlegible}
-<lb n="11"/> <gap reason="lost" quantity="8" unit="character"/> yu<unclear>m ta</unclear> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="1" unit="character"/> ḻa <gap reason="lost" quantity="2" unit="character"/> {unlegible}
-<lb n="12"/> <gap reason="lost" quantity="2" unit="character"/> tai ko <gap reason="lost" quantity="1" unit="character"/> <unclear>yun</unclear> ca <g type="kaḻañcu"/> tu <gap reason="lost" quantity="3" unit="character"/> <g type="kaḻañcu"/> <unclear>vai</unclear> <gap reason="lost" quantity="3" unit="character"/> {unlegible}
-<lb n="13"/>ṭai<hi rend="grantha">Īśvara</hi>ttilla<hi rend="grantha"> <g type="kaḻañcu"/> </hi> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <unclear>ṉṉṟu</unclear> tiru <gap reason="lost" quantity="1" unit="character"/> {unlegible}
-<lb n="14"/>tiruveṅkaṭavāykkā <g type="kaḻañcu"/> <gap reason="lost" quantity="2" unit="character"/> te <gap reason="lost" quantity="1" unit="character"/> <g type="kaḻañcu"/> ṟkila p<unclear>o</unclear>ḻa <gap reason="lost" quantity="3" unit="character"/> cci
-<lb n="15"/>va <unclear>Ā</unclear>trayaṉ ma<hi rend="grantha">hāde <g type="kaḻañcu"/> </hi> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> nārāyaṇaṉ <gap reason="lost" quantity="4" unit="character"/> 
-<lb n="16"/> <gap reason="lost" quantity="2" unit="character"/> ya <gap reason="lost" quantity="1" unit="character"/> ka <gap reason="lost" quantity="1" unit="character"/> la <gap reason="lost" quantity="3" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> {unlegible}
-<lb n="17"/> <gap reason="lost" quantity="3" unit="character"/> ṉ paṉ <unclear>ti</unclear>ru <g type="kaḻañcu"/> <gap reason="lost" quantity="1" unit="character"/> ivat <g type="kaḻañcu"/> {unlegible}
-<lb n="18"/><unclear>ke</unclear> <gap reason="lost" quantity="3" unit="character"/> ṉeṉ vaṟṟ<unclear>ina</unclear>l <g type="kaḻañcu"/> layāvā/var <g type="kaḻañcu"/> {unlegible}
-<lb n="19"/><unclear>ta ni</unclear>la<unclear>m</unclear>āvatu Iv <g type="kaḻañcu"/> vūr mā<unclear>n</unclear> <g type="kaḻañcu"/> {unlegible}
-<lb n="20"/> <gap reason="lost" quantity="2" unit="character"/> ta <gap reason="lost" quantity="2" unit="character"/> tu Irāti <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> <gap reason="lost" quantity="4" unit="character"/> <g type="kaḻañcu"/> {unlegible}
+<lb n="1"/>{unlegible} ‡ {unlegible} <unclear>mmaṉ</unclear>
+<lb n="2"/>{unlegible} ‡ <gap reason="lost" quantity="2" unit="character"/> <unclear>taṉ</unclear> ‡ {unlegible} <gap reason="lost" quantity="1" unit="character"/> lara <gap reason="lost" quantity="2" unit="character"/> 
+<lb n="3"/>{unlegible} ‡ kalat<unclear>tu</unclear> ‡ {unlegible} <unclear>Amuta</unclear>
+<lb n="4"/> <gap reason="lost" quantity="3" unit="character"/> maḻa <gap reason="lost" quantity="4" unit="character"/> ‡ <gap reason="lost" quantity="4" unit="character"/> ‡ {unlegible} <gap reason="lost" quantity="3" unit="character"/> 
+<lb n="5"/>{unlegible} ‡ <gap reason="lost" quantity="4" unit="character"/> ‡ {unlegible} <gap reason="lost" quantity="4" unit="character"/> 
+<lb n="6"/> <gap reason="lost" quantity="7" unit="character"/> vi <gap reason="lost" quantity="2" unit="character"/> ‡ <gap reason="lost" quantity="4" unit="character"/> ‡ <gap reason="lost" quantity="3" unit="character"/> {unlegible}
+<lb n="7"/>ḻa <gap reason="lost" quantity="1" unit="character"/> cilappottat<unclear>u</unclear> ‡ <unclear>Uraiyu</unclear> ‡ m tu {unlegible}
+<lb n="8"/> <gap reason="lost" quantity="1" unit="character"/> <unclear>pakai</unclear>viṭai ˚<hi rend="grantha">īśva ‡ </hi> <gap reason="lost" quantity="2" unit="character"/> <unclear>ṭai</unclear> ‡ <unclear>ya</unclear> <gap reason="lost" quantity="2" unit="character"/> {unlegible}
+<lb n="9"/>{unlegible} ‡ <unclear>ku<hi rend="grantha">śrī</hi></unclear> <gap reason="lost" quantity="1" unit="character"/> ‡ {unlegible}
+<lb n="10"/>{unlegible} ‡ ṭaiyani ‡ <gap reason="lost" quantity="2" unit="character"/> mu {unlegible}
+<lb n="10"/> <gap reason="lost" quantity="6" unit="character"/> <unclear>U</unclear>ṉ ‡ ṉilattu ‡ ku kiḻa <gap reason="lost" quantity="1" unit="character"/> {unlegible}
+<lb n="11"/> <gap reason="lost" quantity="8" unit="character"/> yu<unclear>m ta</unclear> ‡ <gap reason="lost" quantity="4" unit="character"/> ‡ <gap reason="lost" quantity="1" unit="character"/> ḻa <gap reason="lost" quantity="2" unit="character"/> {unlegible}
+<lb n="12"/> <gap reason="lost" quantity="2" unit="character"/> tai ko <gap reason="lost" quantity="1" unit="character"/> <unclear>yun</unclear> ca ‡ tu <gap reason="lost" quantity="3" unit="character"/> ‡ <unclear>vai</unclear> <gap reason="lost" quantity="3" unit="character"/> {unlegible}
+<lb n="13"/>ṭai<hi rend="grantha">Īśvara</hi>ttilla<hi rend="grantha"> ‡ </hi> <gap reason="lost" quantity="4" unit="character"/> ‡ <unclear>ṉṉṟu</unclear> tiru <gap reason="lost" quantity="1" unit="character"/> {unlegible}
+<lb n="14"/>tiruveṅkaṭavāykkā ‡ <gap reason="lost" quantity="2" unit="character"/> te <gap reason="lost" quantity="1" unit="character"/> ‡ ṟkila p<unclear>o</unclear>ḻa <gap reason="lost" quantity="3" unit="character"/> cci
+<lb n="15"/>va <unclear>Ā</unclear>trayaṉ ma<hi rend="grantha">hāde ‡ </hi> <gap reason="lost" quantity="4" unit="character"/> ‡ nārāyaṇaṉ <gap reason="lost" quantity="4" unit="character"/> 
+<lb n="16"/> <gap reason="lost" quantity="2" unit="character"/> ya <gap reason="lost" quantity="1" unit="character"/> ka <gap reason="lost" quantity="1" unit="character"/> la <gap reason="lost" quantity="3" unit="character"/> ‡ <gap reason="lost" quantity="4" unit="character"/> ‡ {unlegible}
+<lb n="17"/> <gap reason="lost" quantity="3" unit="character"/> ṉ paṉ <unclear>ti</unclear>ru ‡ <gap reason="lost" quantity="1" unit="character"/> ivat ‡ {unlegible}
+<lb n="18"/><unclear>ke</unclear> <gap reason="lost" quantity="3" unit="character"/> ṉeṉ vaṟṟ<unclear>ina</unclear>l ‡ layāvā/var ‡ {unlegible}
+<lb n="19"/><unclear>ta ni</unclear>la<unclear>m</unclear>āvatu Iv ‡ vūr mā<unclear>n</unclear> ‡ {unlegible}
+<lb n="20"/> <gap reason="lost" quantity="2" unit="character"/> ta <gap reason="lost" quantity="2" unit="character"/> tu Irāti <gap reason="lost" quantity="4" unit="character"/> ‡ <gap reason="lost" quantity="4" unit="character"/> ‡ {unlegible}
 </p>
 
 </div>
