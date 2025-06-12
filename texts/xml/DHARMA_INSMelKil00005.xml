@@ -44,7 +44,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>AIM, southern shrine; middle inscription on the central wall section of the <foreign>ardha-maṇḍapa</foreign> of the northern façade; 10th regnal year of Kōrājakesarivarman = probably Sundaracōḻa (<foreign>circa</foreign> 967 A.D.).</p>
+                        <summary>
+                            <p>Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
+                                face.</p>
+                            <p>AIM, southern shrine; middle inscription on the central wall section of the <foreign>ardha-maṇḍapa</foreign> of the northern façade; 10th regnal year of Kōrājakesarivarman = probably Sundaracōḻa (<foreign>circa</foreign> 967 A.D.).</p>
                             
                         </summary>
                     </msContents>
@@ -112,6 +115,7 @@
             </div>
             
             <div type="translation" source="bib:Gillet2024_01">
+                <p>Fortune! Prosperity! This is the 10th year of Kōrājakesarivarman. When Paḻuvēṭṭaraiyar Maṟavaṉ Kaṇṭaṉār graciously ordered <supplied reason="explanation">lit. having said, graciously made, <foreign>eṉṟu-aruḷic-ceyya</foreign></supplied>: “take <supplied reason="explanation"><foreign>koḷka</foreign></supplied> the tax collection <supplied reason="explanation"><foreign>maṉṟupāṭu</foreign></supplied> of whatever name <supplied reason="explanation"><foreign>eppērppaṭṭatu</foreign></supplied> of Avanikandhavvapuram, the old <supplied reason="explanation"><foreign>paṇṭai</foreign></supplied> Nantipuram being otherwise <supplied reason="explanation"><foreign>maṟṟu</foreign></supplied> the model <supplied reason="explanation"><foreign>ātiyē</foreign></supplied>”, the Nagarattārs of Avanikandhavvapuram obtained <supplied reason="explanation"><foreign>peṟṟār</foreign></supplied> to get <supplied reason="subaudible">it</supplied> engraved <supplied reason="explanation"><foreign>veṭṭi-koḷḷa</foreign></supplied> on stone <supplied reason="explanation"><foreign>kalliṉ mēl</foreign></supplied>.</p>
             </div>
             
             <div type="commentary">
@@ -154,5 +158,3 @@
         </body>
     </text>
 </TEI>
-<!--Ancient <title>: Mēlappaḻuvūr, Kīḻaiyūr, Ireṭṭaikkōyil, Agastyeśvara, Ardhamaṇḍapa, northern
-    face, time of Rājakesarin (Sundaracōḻa?), year 10-->
