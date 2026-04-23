@@ -60,19 +60,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -180,7 +174,7 @@
                         <lb n="58" break="no"/><unclear>pa</unclear>mpal eḻuttu <placeName><unclear cert="low">Ali</unclear>mi <gap reason="illegible" quantity="1" unit="character"/></placeName>
                             <lb n="59" break="no"/>Uṭaiya ve<unclear>li</unclear>taraṅki Eḻuttu
                     <lb n="60"/><placeName>Āttūr</placeName>-uṭaiya cāttaṉ tara
-                        <lb n="61" break="no"/><gap reason="illegible" quantity="1" unit="character"/> Eḻuttu <unclear><g type="pc">.</g></unclear> <placeName>kuḷattūr</placeName>-uṭaiya
+                        <lb n="61" break="no"/><gap reason="illegible" quantity="1" unit="character"/> Eḻuttu <unclear><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></unclear> <placeName>kuḷattūr</placeName>-uṭaiya
                             <lb n="62"/>Aṉaiyaṉamutaṉ eḻuttu
                     <lb n="63"/><placeName>varākupāṭi</placeName>-Uṭaiya māṉtaṉp
                         <lb n="64" break="no"/>peraiyaṉ eḻuttu <space unit="character" quantity="4"/><!--weird-->
@@ -191,17 +185,17 @@
                     <milestone n="E" type="pagelike" unit="zone"/>
                     <lb n="65"/><placeName><unclear>caṅ</unclear>kaṇamūr</placeName>-uṭaiya kāra<gap reason="illegible" quantity="2" unit="character"/>mu
                         <lb n="66" break="no"/>kaṉ Eḻuttu <gap reason="illegible" quantity="3" unit="character"/>-Uṭaiya
-                            <lb n="67"/>vaṭukaṉ pūti y-eḻuttu <g type="gomutraFinal">.</g> <placeName>timmi</placeName>
+                            <lb n="67"/>vaṭukaṉ pūti y-eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g> <placeName>timmi</placeName>
                                 <lb n="68" break="no"/>y-uṭaiya cuntaracōḻapperunti
-                                <lb n="69" break="no"/>ṇ<unclear>ai</unclear> y-eḻuttu <g type="gomutraFinal">.</g> <placeName>puttūr</placeName>-uṭaiya Ā
+                                <lb n="69" break="no"/>ṇ<unclear>ai</unclear> y-eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g> <placeName>puttūr</placeName>-uṭaiya Ā
                                     <lb n="70" break="no"/>ramālakkōṉ peraiya
                                     <lb n="71" break="no"/>ṉ eḻuttu <placeName><unclear>pe</unclear>raṟconi</placeName>-y-u
                                         <lb n="72" break="no"/>ṭaiya Araiyaṉāccaṉ e
-                    <lb n="73" break="no"/>ḻuttu <g type="ddanda">.</g> <placeName>ciṅkaraṉattūr</placeName>-uṭai
+                    <lb n="73" break="no"/>ḻuttu <g ref="sym:doubleBar" type="punctuation">.</g> <placeName>ciṅkaraṉattūr</placeName>-uṭai
                         <lb n="74" break="no"/>ya perumāṉ maḻapāṭi y-eḻu
                     <lb n="75" break="no"/><supplied reason="lost">ttu</supplied> <placeName><gap reason="illegible" quantity="5" unit="character"/> ppati</placeName>-Uṭaiya
                         <lb n="76"/>kali<unclear>yiva</unclear> <gap reason="illegible" quantity="3" unit="character"/> y-<unclear>e</unclear>ḻut
-                    <lb n="77" break="no"/>tu <g type="ddanda">.</g> kūṟaṅ <gap reason="illegible" quantity="1" unit="character"/> ṭaiya maṟava ko
+                    <lb n="77" break="no"/>tu <g ref="sym:doubleBar" type="punctuation">.</g> kūṟaṅ <gap reason="illegible" quantity="1" unit="character"/> ṭaiya maṟava ko
                         <lb n="78" break="no"/>ṉ peruna <gap reason="illegible" quantity="1" unit="character"/> ṇai Eḻuttu
                     <lb n="79"/>kaṟakāṭṭur-uṭaiya vempa
                         <lb n="80" break="no"/>ṉuḷveli Eḻuttu
@@ -212,7 +206,7 @@
                             <lb n="85" break="no"/>ṇi</placeName>-y-uṭaiya kaṇṭap pe <gap reason="illegible" quantity="2" unit="character"/>
                             <lb n="86" break="no"/>ṉ eḻuttu <placeName>ciṅkaṇamūr</placeName>-uṭai
                                 <lb n="87" break="no"/>ya paṭaipperaiyaṉa<unclear>ddhay</unclear>āṟa
-                                <lb n="88" break="no"/>ṉ eḻuttu <g type="ddanda">.</g> <placeName>Aruṅkarayil</placeName>-u
+                                <lb n="88" break="no"/>ṉ eḻuttu <g ref="sym:doubleBar" type="punctuation">.</g> <placeName>Aruṅkarayil</placeName>-u
                                     <lb n="89" break="no"/>ṭaiya Āccaṉ nakkaṉ e
                     <lb n="90" break="no"/>ḻuttu <space unit="character" quantity="1"/> <placeName>Āṉaiñallū
                         <lb n="91" break="no"/>r</placeName>-uṭaiya nakkaṉ kumaraṉ eḻut
@@ -220,7 +214,7 @@
                         <lb n="93" break="no"/><gap reason="illegible" quantity="1" unit="character"/> kacarama<unclear>lai</unclear>ya <gap reason="illegible" quantity="2" unit="character"/> ṉ <unclear>e</unclear>ḻu<unclear>ttu</unclear>
                     <lb n="94"/><placeName>mālvāyil</placeName>-uṭaiya mana
                         <lb n="95" break="no"/>vakōṉ pe<unclear>rai</unclear>yaṉ eḻu
-                    <lb n="96" break="no"/>ttu <g type="ddanda">.</g>
+                    <lb n="96" break="no"/>ttu <g ref="sym:doubleBar" type="punctuation">.</g>
                     
                 </p>
             </div>
